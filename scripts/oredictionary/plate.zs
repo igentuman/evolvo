@@ -22,8 +22,6 @@ import crafttweaker.oredict.IOreDictEntry;
 
 <ore:plateGold>.remove(<immersiveengineering:metal:40>);
 
-<ore:plateIron>.remove(<thaumcraft:plate:1>);
-
 
 
 

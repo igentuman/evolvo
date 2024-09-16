@@ -57,5 +57,5 @@ LootTweaker.getTable("minecraft:chests/village_blacksmith")
 .addPool("village_blacksmith", 1, 5, 1, 5)
 .addItemEntryHelper(<thermalfoundation:coin:103>, 1, 10, [], []);*/
 
-//mods.GalacticraftTweaker.addDungeonLoot(1, <galacticraftplanets:schematic:1>);
-//mods.GalacticraftTweaker.addDungeonLoot(1, <galacticraftplanets:schematic:2>);
+mods.GalacticraftTweaker.addDungeonLoot(1, <galacticraftplanets:schematic:1>);
+mods.GalacticraftTweaker.addDungeonLoot(1, <galacticraftplanets:schematic:2>);

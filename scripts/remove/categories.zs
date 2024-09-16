@@ -1,12 +1,6 @@
 import mods.jei.JEI;
 
 JEI.hideCategory("minecraft.fuel");
-JEI.hideCategory("gen_stone");
-JEI.hideCategory("lava_gen");
-JEI.hideCategory("neutron_generator");
-JEI.hideCategory("gen_obsidian");
-JEI.hideCategory("assamplerscrap");
-JEI.hideCategory("comb_macerator");
 JEI.hideCategory("ie.arcFurnace.recycling");
 JEI.hideCategory("ie.bottlingMachine");
 JEI.hideCategory("StirlingGenerator");

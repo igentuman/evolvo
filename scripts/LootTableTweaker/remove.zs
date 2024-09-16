@@ -25,6 +25,3 @@ LootTable.removeGlobalItem("galacticraftcore:steel_helmet");
 LootTable.removeGlobalItem("galacticraftcore:steel_chestplate");
 LootTable.removeGlobalItem("galacticraftcore:steel_leggings");
 LootTable.removeGlobalItem("galacticraftcore:steel_boots");
-
-LootTable.removeModEntry("industrialupgrade");
-LootTable.removeModItem("industrialupgrade");

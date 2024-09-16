@@ -31,7 +31,6 @@ recipes.replaceAllOccurences(<minecraft:coal>,<mekanism:compressedcarbon>,<nucle
 recipes.replaceAllOccurences(<ore:ingotLead>,<ore:plateLead>,<nuclearcraft:rad_shielding>);
 recipes.replaceAllOccurences(<ore:ingotIron>,<ore:plateIron>,<nuclearcraft:rad_shielding>);
 
-recipes.replaceAllOccurences(<ore:ingotLead>,<ore:circuitBasic>,<reactorbuilder:reactorbuilder>);
 
 recipes.replaceAllOccurences(<mekanism:energycube>.withTag({tier: 0}),<nuclearcraft:lithium_ion_battery_basic>,<mekanism:basicblock2:3>.withTag({tier: 0}));
 recipes.replaceAllOccurences(<mekanism:energycube>.withTag({tier: 1}),<nuclearcraft:lithium_ion_battery_advanced>,<mekanism:basicblock2:3>.withTag({tier: 1}));
