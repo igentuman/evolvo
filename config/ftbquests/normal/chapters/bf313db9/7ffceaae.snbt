@@ -1,0 +1,15 @@
+{
+	x: -10.0d,
+	y: -4.0d,
+	shape: "gear",
+	dependencies: [
+		"afd25bde"
+	],
+	tasks: [{
+		uid: "4c068a6c",
+		type: "item",
+		items: [{
+			item: "dveins:electric_motor"
+		}]
+	}]
+}

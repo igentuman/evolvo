@@ -1,0 +1,10 @@
+{
+	x: -6.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "07e44e68",
+		type: "stat",
+		stat: "stat.craftingTableInteraction",
+		value: 100
+	}]
+}

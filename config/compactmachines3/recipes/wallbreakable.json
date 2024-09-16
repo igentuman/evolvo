@@ -1,0 +1,69 @@
+{
+  "name": "compactmachines3:wallbreakable",
+  "target-block": "compactmachines3:wallbreakable",
+  "target-count": 27,
+
+  "catalyst": "minecraft:redstone",
+  "catalyst-meta": 0,
+
+  "input-types": {
+    "a": {
+      "id": "enderio:block_alloy",
+      "meta": 6
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ]
+  ]
+
+}

@@ -1,0 +1,111 @@
+{
+	title: "Выгодный трейд",
+	icon: "mekanismtools:obsidianpaxel",
+	x: -2.0d,
+	y: -3.5d,
+	shape: "gear",
+	dependencies: [
+		"570b0e24"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "ac287f60",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "db4a18a6",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "8063f1aa",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "8380cb0b",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "1f34bf18",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "fe5152b3",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ore"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "1dcb3c9d",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:classicore"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "f62d4ac0",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:classicore 1 1"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "3d1fbf74",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ore"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "48ab4b53",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 4"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "9f5085b3",
+		type: "item",
+		item: "mekanismtools:obsidianpaxel"
+	},
+	{
+		uid: "a173625c",
+		type: "item",
+		item: "galacticraftplanets:volcanic_pickaxe"
+	}]
+}

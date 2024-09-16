@@ -1,0 +1,12 @@
+{
+	x: -8.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "b31771fc",
+		type: "kill",
+		title: "Kill 100 Wither Skeletons",
+		icon: "minecraft:skull 1 1",
+		entity: "minecraft:wither_skeleton",
+		value: 100L
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -4.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "87fc3d41",
+		type: "item",
+		items: [{
+			item: "rftools:timer_block"
+		}]
+	},
+	{
+		uid: "af2b8f66",
+		type: "item",
+		items: [{
+			item: "enderio:item_redstone_timer_filter"
+		}]
+	}]
+}

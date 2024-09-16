@@ -1,0 +1,25 @@
+{
+	x: -5.0d,
+	y: 4.5d,
+	dependencies: [
+		"b04b4ab6",
+		"b3edbf37"
+	],
+	tasks: [{
+		uid: "aac393e8",
+		type: "item",
+		items: [{
+			item: "ae2stuff:wireless"
+		}],
+		count: 2L
+	},
+	{
+		uid: "66ad17b8",
+		type: "item",
+		items: [{
+			item: "ae2stuff:wireless_kit"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

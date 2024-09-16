@@ -1,0 +1,13 @@
+{
+	title: "Items & Fluids",
+	icon: "minecraft:chest",
+	x: 1.5d,
+	y: -1.0d,
+	dependencies: [
+		"9ac0e5d6"
+	],
+	tasks: [{
+		uid: "45cf7f9c",
+		type: "custom"
+	}]
+}

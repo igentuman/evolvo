@@ -1,0 +1,48 @@
+{
+	x: 0.5d,
+	y: -3.5d,
+	dependencies: [
+		"d7724706"
+	],
+	tasks: [{
+		uid: "4863872e",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:mars_machine_t2 1 8"
+		}]
+	},
+	{
+		uid: "d22e6b86",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 4"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1ea26b2c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:electrolyzer"
+		}]
+	},
+	{
+		uid: "cffffa64",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:basemachine2",
+			tag: {},
+			Damage: 15s
+		}]
+	}],
+	rewards: [{
+		uid: "9fba289a",
+		type: "random",
+		table: 1
+	},
+	{
+		uid: "b687593f",
+		type: "random",
+		table: 1
+	}]
+}

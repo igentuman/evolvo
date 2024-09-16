@@ -1,0 +1,12 @@
+{
+	x: -8.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "ea0b77e7",
+		type: "kill",
+		title: "Kill 100 Creepers",
+		icon: "minecraft:skull 1 4",
+		entity: "minecraft:creeper",
+		value: 100L
+	}]
+}

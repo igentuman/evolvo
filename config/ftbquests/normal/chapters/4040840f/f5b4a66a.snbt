@@ -1,0 +1,25 @@
+{
+	x: -23.5d,
+	y: 2.5d,
+	dependencies: [
+		"bdc74f82"
+	],
+	tasks: [{
+		uid: "c1e48a6a",
+		type: "item",
+		items: [{
+			id: "nuclearcraft:voltaic_pile_elite",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 102400000L
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "361568d9",
+		type: "random",
+		table: 1
+	}]
+}

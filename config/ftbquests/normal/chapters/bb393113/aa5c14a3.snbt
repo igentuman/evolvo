@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: -0.5d,
+	description: "Летаю как на творческом",
+	dependencies: [
+		"23f97cd8"
+	],
+	tasks: [{
+		uid: "cfac4de8",
+		type: "item",
+		items: [{
+			item: "extrautils2:angelring"
+		}],
+		ignore_nbt: 1b
+	}]
+}

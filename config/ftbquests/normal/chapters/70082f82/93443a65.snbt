@@ -1,0 +1,44 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "f9699b65",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:inscriber"
+		}]
+	},
+	{
+		uid: "e6c8853d",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 13"
+		}]
+	},
+	{
+		uid: "c8931340",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 14"
+		}]
+	},
+	{
+		uid: "7c579ea6",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 15"
+		}]
+	},
+	{
+		uid: "1df60892",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 19"
+		}]
+	}],
+	rewards: [{
+		uid: "a3ad0a3c",
+		type: "random",
+		table: 1
+	}]
+}

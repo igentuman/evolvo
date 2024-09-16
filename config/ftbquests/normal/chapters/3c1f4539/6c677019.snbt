@@ -1,0 +1,43 @@
+{
+	title: "Альтернативные карьеры",
+	x: -5.93452380952381d,
+	y: 2.5238095238095184d,
+	description: "Очень полезные блоки",
+	text: [
+		"Эндер порт позволяет удаленно взаимодействовать с блоком",
+		"Механический пользоатель, шахтер, воронки и трубы могут работать через этот порт",
+		"Требуется GP энергия"
+	],
+	dependencies: [
+		"0805d546",
+		"99cbbee0"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "536ed233",
+		type: "item",
+		items: [{
+			item: "extrautils2:miner"
+		}]
+	},
+	{
+		uid: "9ec13e29",
+		type: "item",
+		items: [{
+			item: "extrautils2:interactionproxy"
+		}]
+	},
+	{
+		uid: "e7f44445",
+		type: "item",
+		items: [{
+			item: "extrautils2:user"
+		}]
+	}],
+	rewards: [{
+		uid: "eb54a33b",
+		type: "random",
+		table: 0
+	}]
+}

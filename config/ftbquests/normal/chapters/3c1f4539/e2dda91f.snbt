@@ -1,0 +1,49 @@
+{
+	icon: "extrautils2:teleporter 1 1",
+	x: -4.0d,
+	y: -3.5d,
+	description: "Рискнешь?",
+	text: [
+		"Это портал в темное измерение с особыми монстрами и смертельной тьмой.",
+		"Но руды здесь в разы больше, чем в обычном мире."
+	],
+	dependencies: [
+		"570b0e24"
+	],
+	hide: true,
+	tasks: [{
+		uid: "558cf6f2",
+		type: "item",
+		items: [{
+			item: "extrautils2:teleporter 1 1"
+		}]
+	},
+	{
+		uid: "41db4b67",
+		type: "item",
+		items: [{
+			item: "minecraft:torch"
+		}],
+		count: 64L
+	},
+	{
+		uid: "225d98d8",
+		type: "item",
+		items: [{
+			item: "minecraft:water_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "45e58ed1",
+		type: "dimension",
+		title: "Зайти в тёмное измерение",
+		dim: -9999
+	}],
+	rewards: [{
+		uid: "4fdaccbc",
+		type: "random",
+		table: 0
+	}]
+}

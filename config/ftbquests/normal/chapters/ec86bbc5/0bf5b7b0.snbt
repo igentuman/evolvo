@@ -1,0 +1,55 @@
+{
+	x: -7.5d,
+	y: 1.0d,
+	dependencies: [
+		"7b996291"
+	],
+	tasks: [{
+		uid: "e30baea2",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:spectral_helmet",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "46535eb4",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:spectral_chestplate",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "facba085",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:spectral_leggings",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cdca2bc1",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:spectral_boots",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

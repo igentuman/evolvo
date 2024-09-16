@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 5.5d,
+	description: "Хватит пускать себе кровь",
+	dependencies: [
+		"a6c1791c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "748f4815",
+		type: "item",
+		items: [{
+			item: "bloodmagic:dagger_of_sacrifice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

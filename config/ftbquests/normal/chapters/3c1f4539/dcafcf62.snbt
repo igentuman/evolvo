@@ -1,0 +1,29 @@
+{
+	title: "Ручное дробление",
+	icon: "appliedenergistics2:grindstone",
+	x: -3.0d,
+	y: -2.5d,
+	dependencies: [
+		"570b0e24"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f4059f1b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:grindstone"
+		}]
+	},
+	{
+		uid: "0540cdd3",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crank"
+		}]
+	}],
+	rewards: [{
+		uid: "909ffbce",
+		type: "random",
+		table: 0
+	}]
+}

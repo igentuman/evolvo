@@ -1,0 +1,27 @@
+{
+	x: -5.5d,
+	y: -3.5d,
+	dependencies: [
+		"d7724706"
+	],
+	tasks: [{
+		uid: "6cce60dc",
+		type: "item",
+		items: [{
+			item: "draconicevolution:fusion_crafting_core"
+		}]
+	},
+	{
+		uid: "a2bd429c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector"
+		}],
+		count: 14L
+	}],
+	rewards: [{
+		uid: "6ae65a1f",
+		type: "random",
+		table: 1
+	}]
+}

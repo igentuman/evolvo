@@ -1,0 +1,35 @@
+{
+	x: -8.0d,
+	y: 0.5d,
+	or_tasks: true,
+	tasks: [{
+		uid: "a3131620",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:cobblestone_generator"
+		}]
+	},
+	{
+		uid: "4d222522",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:basemachine",
+			tag: {},
+			Damage: 7s
+		}]
+	},
+	{
+		uid: "69306da9",
+		type: "item",
+		items: [{
+			item: "extrautils2:grocket"
+		}]
+	},
+	{
+		uid: "e1262a21",
+		type: "item",
+		items: [{
+			item: "extrautils2:ingredients 1 8"
+		}]
+	}]
+}

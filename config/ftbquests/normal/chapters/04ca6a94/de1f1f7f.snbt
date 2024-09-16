@@ -1,0 +1,11 @@
+{
+	x: -9.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "3c691098",
+		type: "item",
+		items: [{
+			item: "enderio:block_farm_station"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Настоящий PRO",
+	icon: "thaumcraft:seal 1 2",
+	x: -4.5d,
+	y: -3.5d,
+	shape: "square",
+	description: "После завершения всех квестов",
+	dependencies: [
+		"40fe1e16",
+		"07bf3116",
+		"05330828",
+		"47d101a7"
+	],
+	rewards: [{
+		uid: "e78ec6e1",
+		type: "command",
+		title: "Новый ранг",
+		icon: "industrialupgrade:upgrades 1 8",
+		command: "/ranks add @p pro"
+	}]
+}

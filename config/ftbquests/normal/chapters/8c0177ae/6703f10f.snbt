@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: -0.5d,
+	or_tasks: true,
+	tasks: [{
+		uid: "6c62c89b",
+		type: "stat",
+		stat: "stat.walkOneCm",
+		value: 100000
+	},
+	{
+		uid: "946b465f",
+		type: "stat",
+		stat: "stat.sprintOneCm",
+		value: 1
+	}]
+}

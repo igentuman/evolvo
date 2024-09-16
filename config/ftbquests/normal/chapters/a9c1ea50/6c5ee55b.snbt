@@ -1,0 +1,21 @@
+{
+	title: "Theory before practice",
+	x: -5.5d,
+	y: 0.0d,
+	shape: "square",
+	description: "How to computers",
+	text: [
+		"Keep this book. It will help you how to use OC stuff."
+	],
+	tasks: [{
+		uid: "723a2775",
+		type: "checkmark",
+		title: "Digital Automation",
+		icon: "opencomputers:tool 1 4"
+	}],
+	rewards: [{
+		uid: "e5a6679f",
+		type: "item",
+		item: "opencomputers:tool 1 4"
+	}]
+}

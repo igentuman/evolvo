@@ -1,0 +1,21 @@
+{
+	x: -6.0d,
+	y: -5.0d,
+	description: "Придется покрутить",
+	dependencies: [
+		"2843a41e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "14c1c2d8",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 7"
+		}]
+	}],
+	rewards: [{
+		uid: "b95a669e",
+		type: "random",
+		table: 0
+	}]
+}

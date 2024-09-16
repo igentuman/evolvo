@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "c63eceef",
+		type: "kill",
+		title: "Kill 100 Sheeps",
+		icon: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:sheep"
+			}
+		},
+		entity: "minecraft:sheep",
+		value: 100L
+	}]
+}

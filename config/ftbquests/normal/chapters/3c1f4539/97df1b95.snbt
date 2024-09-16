@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 6.0d,
+	description: "Превращай движение в электричество",
+	dependencies: [
+		"d6ef1a49"
+	],
+	tasks: [{
+		uid: "bb047ca3",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 2"
+		}]
+	}]
+}

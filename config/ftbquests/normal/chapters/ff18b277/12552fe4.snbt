@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "b867f18e",
+		type: "kill",
+		title: "Kill Chaos Dragon",
+		icon: "draconicevolution:chaos_shard",
+		entity: "draconicevolution:chaosguardian",
+		value: 1L
+	}]
+}

@@ -1,0 +1,49 @@
+{
+	title: "Базовые ресурсы",
+	x: -3.0d,
+	y: -4.0d,
+	dependencies: [
+		"b1b157a8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3631667a",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ore"
+		}]
+	},
+	{
+		uid: "320332c1",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:classicore"
+		}]
+	},
+	{
+		uid: "329d526e",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:classicore 1 1"
+		}]
+	},
+	{
+		uid: "7d5f4349",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:classicore 1 2"
+		}]
+	},
+	{
+		uid: "7b34005e",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}]
+	}],
+	rewards: [{
+		uid: "8ea904ce",
+		type: "random",
+		table: 0
+	}]
+}

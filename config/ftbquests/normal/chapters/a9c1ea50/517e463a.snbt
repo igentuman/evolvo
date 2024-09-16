@@ -1,0 +1,100 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	dependencies: [
+		"6c5ee55b"
+	],
+	tasks: [{
+		uid: "2e51761e",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 12"
+		}]
+	},
+	{
+		uid: "1b03fd5c",
+		type: "item",
+		items: [{
+			item: "opencomputers:material"
+		}]
+	},
+	{
+		uid: "bcf32a06",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 5"
+		}]
+	},
+	{
+		uid: "1bbfc3d3",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 7"
+		}]
+	},
+	{
+		uid: "c06e7213",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 16"
+		}]
+	},
+	{
+		uid: "a627edf8",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 11"
+		}]
+	},
+	{
+		uid: "c4e3dbc5",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 10"
+		}]
+	},
+	{
+		uid: "a539ab1f",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 6"
+		}]
+	},
+	{
+		uid: "60ddd8be",
+		type: "item",
+		items: [{
+			item: "opencomputers:material 1 29"
+		}]
+	},
+	{
+		uid: "90bb4467",
+		type: "item",
+		items: [{
+			item: "opencomputers:component 1 3"
+		}]
+	},
+	{
+		uid: "54e49208",
+		type: "item",
+		items: [{
+			item: "opencomputers:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3e78076f",
+		type: "item",
+		items: [{
+			item: "opencomputers:cable"
+		}]
+	},
+	{
+		uid: "e7912f00",
+		type: "item",
+		items: [{
+			item: "opencomputers:powerconverter"
+		}]
+	}]
+}

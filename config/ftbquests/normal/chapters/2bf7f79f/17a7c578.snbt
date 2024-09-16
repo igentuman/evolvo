@@ -1,0 +1,17 @@
+{
+	x: -4.5d,
+	y: 1.0d,
+	shape: "gear",
+	description: "Он влезает между блоков",
+	dependencies: [
+		"50703426"
+	],
+	optional: true,
+	tasks: [{
+		uid: "27a5c83e",
+		type: "item",
+		items: [{
+			item: "extrautils2:flattransfernode"
+		}]
+	}]
+}

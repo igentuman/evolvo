@@ -1,0 +1,64 @@
+{
+  "name": "Launch Pad",
+
+
+  "target-block": "galacticraftcore:landing_pad",
+  "target-count": 9,
+  "target-meta": 0,
+
+  "duration": 500,
+
+
+  "catalyst": "galacticraftcore:basic_item",
+  "catalyst-meta": 9,
+  
+  "input-types": {
+    "a": {
+      "id": "minecraft:stone_slab",
+      "meta": 0
+    },
+    "b": {
+      "id": "minecraft:iron_block",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "b",
+        "b",
+        "b"
+      ],
+      [
+        "b",
+        "b",
+        "b"
+      ],
+      [
+        "b",
+        "b",
+        "b"
+      ]
+    ]
+  ]
+
+
+
+}

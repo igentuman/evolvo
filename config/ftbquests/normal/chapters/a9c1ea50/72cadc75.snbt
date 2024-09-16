@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	dependencies: [
+		"ac6b6318"
+	],
+	tasks: [{
+		uid: "9ecb3b94",
+		type: "item",
+		items: [{
+			item: "opencomputers:tool"
+		}]
+	}]
+}

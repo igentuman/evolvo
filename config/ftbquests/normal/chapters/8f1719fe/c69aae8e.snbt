@@ -1,0 +1,42 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	dependencies: [
+		"4bc0b524"
+	],
+	tasks: [{
+		uid: "37efd936",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 12"
+		}]
+	},
+	{
+		uid: "1c4e3f3a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 13"
+		}]
+	},
+	{
+		uid: "37937a7f",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 10"
+		}]
+	},
+	{
+		uid: "aa947c97",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 5"
+		}]
+	},
+	{
+		uid: "0d7d6b5a",
+		type: "item",
+		items: [{
+			item: "enderio:item_redstone_conduit"
+		}]
+	}]
+}

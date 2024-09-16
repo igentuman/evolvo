@@ -1,0 +1,10 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "d10cc50b",
+		type: "kill",
+		entity: "srparasites:terla",
+		value: 10L
+	}]
+}

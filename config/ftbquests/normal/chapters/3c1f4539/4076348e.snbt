@@ -1,0 +1,70 @@
+{
+	title: "То что нужно для вашей базы",
+	x: -3.0d,
+	y: -8.0d,
+	shape: "gear",
+	dependencies: [
+		"b1b157a8"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "b2078ef0",
+		type: "item",
+		items: [{
+			item: "extrautils2:itembuilderswand"
+		},
+		{
+			item: "betterbuilderswands:wandstone"
+		},
+		{
+			item: "betterbuilderswands:wandiron"
+		},
+		{
+			item: "betterbuilderswands:wanddiamond"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "48061ddc",
+		type: "item",
+		items: [{
+			item: "openblocks:elevator"
+		}],
+		count: 2L
+	},
+	{
+		uid: "c0f6375d",
+		type: "item",
+		items: [{
+			item: "randomthings:rainshield"
+		}]
+	},
+	{
+		uid: "26ba5cd6",
+		type: "item",
+		items: [{
+			item: "extrautils2:spike_wood"
+		},
+		{
+			item: "extrautils2:spike_stone"
+		},
+		{
+			item: "extrautils2:spike_iron"
+		},
+		{
+			item: "extrautils2:spike_gold"
+		},
+		{
+			item: "extrautils2:spike_diamond"
+		}]
+	},
+	{
+		uid: "5cd4065b",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 2"
+		}]
+	}]
+}

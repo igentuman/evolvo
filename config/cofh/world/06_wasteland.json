@@ -1,0 +1,287 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"bunker": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"chunk-chance": 100,
+			"cluster-count": 1,
+			"min-height": 50,
+			"max-height": 60,
+			"retrogen": "false",
+			"generator": {
+				"type": "structure",
+				"structure": 			[
+					"structures/wasteland_bunker_1.nbt",
+					"structures/wasteland_bunker_2.nbt",
+					"structures/wasteland_bunker_3.nbt"
+				]
+			},
+			"material": [
+				"nuclearcraft:wasteland_earth",
+				"minecraft:sand",
+				"minecraft:stone"
+			],
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"nuclearcraft:wasteland",
+							"nuclearcraft:nuclear_wasteland"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4598,
+					0
+				]
+			}
+		},
+		"tree": {
+			"enabled": "true",
+			"distribution": "surface",
+			"chunk-chance": 100,
+			"cluster-count": 1,
+			"min-height": 50,
+			"max-height": 90,
+			"retrogen": "false",
+			"generator": {
+				"type": "structure",
+				"structure": 			[
+					"structures/wasteland_tree_1.nbt",
+					"structures/wasteland_tree_2.nbt"
+				]
+			},
+			"material": [
+				"nuclearcraft:wasteland_earth",
+				"minecraft:sand",
+				"minecraft:stone"
+			],
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"nuclearcraft:wasteland",
+							"nuclearcraft:nuclear_wasteland"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4598,
+					0
+				]
+			}
+		},
+		"uranium": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "industrialupgrade:classicore",
+					"metadata": 3
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 48
+			},
+			"cluster-count": 2,
+			"vein-height": 10,
+			"vein-diameter": 15,
+			"vertical-density": 3,
+			"horizontal-density": 7,
+			"min-height": 10,
+			"max-height": 75,
+			"retrogen": "false",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"nuclearcraft:wasteland",
+							"nuclearcraft:nuclear_wasteland"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0,
+					4598
+				]
+			}
+		},
+		"thorium": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "industrialupgrade:thorium_ore",
+					"metadata": 0
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 48
+			},
+			"cluster-count": 2,
+			"vein-height": 15,
+			"vein-diameter": 4,
+			"vertical-density": 3,
+			"horizontal-density": 7,
+			"min-height": 10,
+			"max-height": 75,
+			"retrogen": "false",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"nuclearcraft:wasteland",
+							"nuclearcraft:nuclear_wasteland"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0,
+					4598
+				]
+			}
+		},
+		
+		"curium": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "industrialupgrade:blockradiationore",
+					"metadata": 2
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 38
+			},
+			"cluster-count": 2,
+			"vein-height": 15,
+			"vein-diameter": 4,
+			"vertical-density": 3,
+			"horizontal-density": 7,
+			"min-height": 10,
+			"max-height": 75,
+			"retrogen": "false",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"nuclearcraft:wasteland",
+							"nuclearcraft:nuclear_wasteland"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0,
+					4598
+				]
+			}
+		},
+		"neptunium": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "industrialupgrade:blockradiationore",
+					"metadata": 1
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 58
+			},
+			"cluster-count": 1,
+			"vein-height": 15,
+			"vein-diameter": 4,
+			"vertical-density": 3,
+			"horizontal-density": 7,
+			"min-height": 10,
+			"max-height": 75,
+			"retrogen": "false",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"nuclearcraft:wasteland",
+							"nuclearcraft:nuclear_wasteland"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0,
+					4598
+				]
+			}
+		},
+		"uranite": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": {
+					"name": "industrialupgrade:heavyore",
+					"metadata": 6
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 98
+			},
+			"cluster-count": 1,
+			"vein-height": 15,
+			"vein-diameter": 4,
+			"vertical-density": 3,
+			"horizontal-density": 7,
+			"min-height": 0,
+			"max-height": 75,
+			"retrogen": "false",
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"nuclearcraft:wasteland",
+							"nuclearcraft:nuclear_wasteland"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0,
+					4598
+				]
+			}
+		},
+	}
+}

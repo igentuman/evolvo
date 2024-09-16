@@ -1,0 +1,44 @@
+{
+	title: "Путешествие к Луне",
+	x: 0.5d,
+	y: -2.5d,
+	dependencies: [
+		"ddbea483",
+		"009f68e1",
+		"7fca96e9"
+	],
+	tasks: [{
+		uid: "a0be4c64",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_block_moon 1 14"
+		}],
+		count: 64L,
+		consume_items: true
+	},
+	{
+		uid: "96f8f2e2",
+		type: "kill",
+		icon: {
+			id: "draconicevolution:mob_soul",
+			tag: {
+				EntityName: "galacticraftcore:evolved_skeleton_boss"
+			},
+			Damage: 1s
+		},
+		entity: "galacticraftcore:evolved_skeleton_boss",
+		value: 1L
+	},
+	{
+		uid: "943559c2",
+		type: "dimension",
+		title: "Полет на Луну",
+		icon: "extrautils2:ingredients 1 5",
+		dim: -28
+	}],
+	rewards: [{
+		uid: "f9ab6f21",
+		type: "random",
+		table: 1
+	}]
+}

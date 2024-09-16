@@ -1,0 +1,13 @@
+{
+	x: -7.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "d3d8c9e2",
+		type: "item",
+		items: [{
+			item: "extrautils2:itembuilderswand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

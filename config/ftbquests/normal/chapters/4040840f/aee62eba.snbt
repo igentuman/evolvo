@@ -1,0 +1,32 @@
+{
+	x: -23.5d,
+	y: 1.0d,
+	dependencies: [
+		"bdc74f82",
+		"32ee9305"
+	],
+	tasks: [{
+		uid: "0ed5575d",
+		type: "item",
+		items: [{
+			id: "mekanism:energycube",
+			tag: {
+				tier: 2
+			}
+		},
+		{
+			id: "mekanism:energycube",
+			tag: {
+				tier: 2,
+				mekData: {
+					energyStored: 6.2E7d
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "fadec471",
+		type: "random",
+		table: 1
+	}]
+}

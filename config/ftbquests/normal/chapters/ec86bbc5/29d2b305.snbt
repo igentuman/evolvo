@@ -1,0 +1,52 @@
+{
+	x: -10.5d,
+	y: -1.0d,
+	dependencies: [
+		"3cb5fd22"
+	],
+	tasks: [{
+		uid: "d6a56d5e",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d1dd2824",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3758260b",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cd973ff4",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_shears"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "295473ed",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

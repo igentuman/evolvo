@@ -1,0 +1,15 @@
+{
+	title: "Mars Research",
+	x: 0.5d,
+	y: -0.5d,
+	dependencies: [
+		"1a365372"
+	],
+	tasks: [{
+		uid: "3f77e964",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_1"
+		}]
+	}]
+}

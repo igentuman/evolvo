@@ -1,0 +1,10 @@
+{
+	title: "Mob Slayer",
+	icon: "minecraft:diamond_sword",
+	x: -0.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "aa4d635e",
+		type: "custom"
+	}]
+}

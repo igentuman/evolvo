@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: -4.0d,
+	dependencies: [
+		"3172abfc"
+	],
+	tasks: [{
+		uid: "63e78325",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2"
+		}]
+	}]
+}

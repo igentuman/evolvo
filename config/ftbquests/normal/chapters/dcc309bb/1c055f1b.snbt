@@ -1,0 +1,16 @@
+{
+	x: -6.0d,
+	y: 2.5d,
+	shape: "gear",
+	dependencies: [
+		"ef3f7eab"
+	],
+	optional: true,
+	tasks: [{
+		uid: "cb816b4f",
+		type: "item",
+		items: [{
+			item: "reactorbuilder:reactorbuilder"
+		}]
+	}]
+}

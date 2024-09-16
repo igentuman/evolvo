@@ -1,0 +1,18 @@
+{
+	x: -3.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "3d5e34e1",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:water_reactors 1 4"
+		}]
+	},
+	{
+		uid: "33919b08",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:water_reactors 1 36"
+		}]
+	}]
+}

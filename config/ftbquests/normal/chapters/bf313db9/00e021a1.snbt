@@ -1,0 +1,33 @@
+{
+	x: -5.5d,
+	y: -8.0d,
+	text: [
+		"Квест засчитывает любой инструмент"
+	],
+	dependencies: [
+		"d7724706",
+		"e03a445b"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "e1eaf2a8",
+		type: "item",
+		items: [{
+			item: "mekanism:atomicdisassembler"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "819e0004",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:ultddrill",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "41ab5028",
+		type: "item",
+		items: [{
+			item: "advanced_solar_panels:machines"
+		}]
+	}]
+}

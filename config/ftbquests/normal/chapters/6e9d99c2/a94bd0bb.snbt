@@ -1,0 +1,19 @@
+{
+	x: -4.5d,
+	y: -4.0d,
+	dependencies: [
+		"d7724706"
+	],
+	tasks: [{
+		uid: "1547f36c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:assembler"
+		}]
+	}],
+	rewards: [{
+		uid: "5d86fdc3",
+		type: "random",
+		table: 1
+	}]
+}

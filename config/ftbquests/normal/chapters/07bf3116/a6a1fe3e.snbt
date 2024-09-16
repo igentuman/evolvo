@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	dependencies: [
+		"1840273c"
+	],
+	tasks: [{
+		uid: "2982a053",
+		type: "fluid",
+		fluid: "hydrochloric_acid",
+		amount: 100000
+	}]
+}

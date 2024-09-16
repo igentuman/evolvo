@@ -1,0 +1,27 @@
+{
+	title: "Молот",
+	x: -4.0d,
+	y: -2.0d,
+	dependencies: [
+		"dcafcf62"
+	],
+	tasks: [{
+		uid: "1fc19c9d",
+		type: "item",
+		title: "Hammer",
+		items: [{
+			item: "immersiveengineering:tool"
+		},
+		{
+			item: "industrialupgrade:forge_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: false
+	}],
+	rewards: [{
+		uid: "ec2e07b7",
+		type: "random",
+		table: 0
+	}]
+}

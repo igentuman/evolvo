@@ -1,0 +1,39 @@
+{
+	x: -5.0d,
+	y: -6.0d,
+	dependencies: [
+		"681618c8"
+	],
+	tasks: [{
+		uid: "0937533b",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 4"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d4adaecd",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock3 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "88914ca4",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7cf0e316",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

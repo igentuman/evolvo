@@ -1,0 +1,18 @@
+{
+	icon: {
+		id: "industrialupgrade:nano_chestplate",
+		tag: {
+			ID_Item: 2147483647
+		}
+	},
+	x: 1.5d,
+	y: -6.0d,
+	dependencies: [
+		"ec86bbc5"
+	],
+	tasks: [{
+		uid: "17f48e5b",
+		type: "custom",
+		title: "Armory"
+	}]
+}

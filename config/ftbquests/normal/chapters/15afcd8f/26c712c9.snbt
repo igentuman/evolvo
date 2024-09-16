@@ -1,0 +1,58 @@
+{
+	title: "Ракета 2 уровня",
+	icon: "galacticraftplanets:rocket_t2",
+	x: 0.5d,
+	y: -0.5d,
+	dependencies: [
+		"1a365372"
+	],
+	tasks: [{
+		uid: "6d6aef2f",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:rocket_t2"
+		},
+		{
+			item: "galacticraftplanets:rocket_t2 1 1"
+		},
+		{
+			item: "galacticraftplanets:rocket_t2 1 2"
+		},
+		{
+			item: "galacticraftplanets:rocket_t2 1 3"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8ed72537",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dd58d00f",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "daf1d830",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding 1 2"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "454b76a3",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding 1 3"
+		}],
+		ignore_nbt: 1b
+	}]
+}

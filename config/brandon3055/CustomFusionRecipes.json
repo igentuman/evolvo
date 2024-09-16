@@ -1,0 +1,19 @@
+[
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:dislocator",
+        "catalyst": "extendedcrafting:material,1,40",
+        "energy": 2000000,
+        "tier": 2,
+        "ingredients": [
+            "appliedenergistics2:material,1,48",
+			"thaumcraft:focus_2",
+			"mekanism:atomicalloy",
+			"galacticraftplanets:item_basic_mars,1,2",
+            "appliedenergistics2:material,1,48",
+            "thaumcraft:focus_2",
+            "mekanism:atomicalloy",
+			"galacticraftplanets:item_basic_mars,1,2"
+        ]
+    } 
+]

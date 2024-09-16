@@ -1,0 +1,65 @@
+{
+	"dependencies": "thermalfoundation",
+	"populate": {
+		"iridium": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "iridium"
+						},
+						"weight": 40
+					},
+					{
+						"name": "thermalfoundation:ore",
+						"properties": {
+							"type": "platinum"
+						},
+						"weight": 60
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+                    -30
+				]
+			}
+		},
+		
+        "diamonds": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "minecraft:diamond_ore"
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 4,
+			"min-height": 2,
+			"max-height": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-30
+				]
+			}
+		}
+	}
+}

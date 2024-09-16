@@ -1,0 +1,68 @@
+{
+	x: -2.5d,
+	y: -1.0d,
+	dependencies: [
+		"77cdc904",
+		"5df5da5e"
+	],
+	tasks: [{
+		uid: "bd94d143",
+		type: "item",
+		items: [{
+			id: "qmd:boots_hev",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 1000000L
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8b9b58d8",
+		type: "item",
+		items: [{
+			id: "qmd:legs_hev",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 1000000L
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d221d797",
+		type: "item",
+		items: [{
+			id: "qmd:chest_hev",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 1000000L
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6ca293df",
+		type: "item",
+		items: [{
+			id: "qmd:helm_hev",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 1000000L
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

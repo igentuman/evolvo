@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -4.0d,
+	description: "You can find this in treasure chests on Moon",
+	dependencies: [
+		"1a365372"
+	],
+	tasks: [{
+		uid: "9c79860e",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:schematic 1 2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

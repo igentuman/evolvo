@@ -1,0 +1,44 @@
+{
+	x: -7.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "6b389871",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:hazmat_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "246d1b8d",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:hazmat_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "758a2e1a",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:hazmat_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "26b97f66",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:rubber_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

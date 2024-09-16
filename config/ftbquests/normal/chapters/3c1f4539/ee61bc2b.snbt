@@ -1,0 +1,23 @@
+{
+	x: -7.488095238095234d,
+	y: 3.333333333333357d,
+	shape: "gear",
+	description: "Творческий полет",
+	dependencies: [
+		"eaa2599d"
+	],
+	optional: true,
+	tasks: [{
+		uid: "bd108147",
+		type: "item",
+		items: [{
+			item: "extrautils2:angelring"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3e05695e",
+		type: "random",
+		table: 1
+	}]
+}

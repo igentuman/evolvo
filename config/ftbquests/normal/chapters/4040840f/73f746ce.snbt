@@ -1,0 +1,30 @@
+{
+	x: -17.0d,
+	y: -0.5d,
+	dependencies: [
+		"ba0e8566",
+		"f11be372"
+	],
+	tasks: [{
+		uid: "04fdcea4",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "f6b01d99",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 3
+			},
+			Damage: 4s
+		}]
+	}]
+}

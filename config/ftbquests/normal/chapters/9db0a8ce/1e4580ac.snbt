@@ -1,0 +1,23 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "ad669d17",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:basemachine3 1 28"
+		}]
+	},
+	{
+		uid: "d4f0616f",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:rotor_wood",
+			tag: {
+				damage: 5400
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

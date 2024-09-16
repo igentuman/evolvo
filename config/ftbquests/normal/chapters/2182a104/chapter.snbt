@@ -1,0 +1,10 @@
+{
+	title: "Прогресс",
+	icon: "minecraft:book",
+	description: [
+		"Главное дерево прогресса"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

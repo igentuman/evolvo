@@ -1,0 +1,23 @@
+{
+	icon: "thaumcraft:crucible",
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"Примени пыль на котёл"
+	],
+	dependencies: [
+		"55c2e88d"
+	],
+	tasks: [{
+		uid: "bf4cb5cc",
+		type: "item",
+		items: [{
+			item: "minecraft:cauldron"
+		}]
+	}],
+	rewards: [{
+		uid: "123dd99c",
+		type: "random",
+		table: 0
+	}]
+}

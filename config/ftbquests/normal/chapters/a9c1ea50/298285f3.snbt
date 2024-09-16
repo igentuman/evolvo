@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -1.5d,
+	dependencies: [
+		"d5128ea2"
+	],
+	tasks: [{
+		uid: "929432ab",
+		type: "item",
+		items: [{
+			item: "opencomputers:hologram1"
+		}]
+	}]
+}

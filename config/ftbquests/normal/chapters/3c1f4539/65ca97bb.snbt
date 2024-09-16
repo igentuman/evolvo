@@ -1,0 +1,58 @@
+{
+	title: "Переходим к электронике?",
+	x: -1.5d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"9315d0dd",
+		"97df1b95",
+		"45d9cb7d",
+		"e5b21abd"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "eacba714",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:cutter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fd9bda58",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 2"
+		},
+		{
+			item: "extendedcrafting:table_advanced"
+		}]
+	},
+	{
+		uid: "eb2327a5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 27"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "09b55910",
+		type: "choice",
+		table: 0
+	},
+	{
+		uid: "6fd00b74",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "17575705",
+		type: "gamestage",
+		title: "Примитивные технологии",
+		icon: "minecraft:stone_pickaxe",
+		auto: "no_toast",
+		stage: "stone_age"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -8.5d,
+	y: -8.0d,
+	shape: "square",
+	dependencies: [
+		"dcafcf62"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "b545b6f8",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6278c528",
+		type: "random",
+		table: 0
+	}]
+}

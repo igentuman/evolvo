@@ -1,0 +1,46 @@
+{
+	title: "Сила пара",
+	x: -3.0d,
+	y: 4.0d,
+	text: [
+		"Используй любые жидкостные трубы для передачи пара"
+	],
+	dependencies: [
+		"049dee65"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f1d359ba",
+		type: "item",
+		items: [{
+			item: "ncsteamadditions:steam_boiler"
+		}]
+	},
+	{
+		uid: "d0e36610",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 16L
+	},
+	{
+		uid: "4d17b121",
+		type: "item",
+		items: [{
+			item: "minecraft:water_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0f9b56e9",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "9c1582b7",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

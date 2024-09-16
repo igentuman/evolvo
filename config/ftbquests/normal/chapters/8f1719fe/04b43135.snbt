@@ -1,0 +1,87 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	dependencies: [
+		"c449ddb1"
+	],
+	tasks: [{
+		uid: "f5a63d4c",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:programmer"
+		}]
+	},
+	{
+		uid: "bfea2a8d",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:processor"
+		}]
+	},
+	{
+		uid: "d90917b5",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:node"
+		}]
+	},
+	{
+		uid: "553a42c0",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:craftingstation"
+		}]
+	},
+	{
+		uid: "7af598ba",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:workbench"
+		}]
+	},
+	{
+		uid: "93b06a6a",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:program_card"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e42aab08",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:network_card"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9adb59a2",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:ram_chip"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ac4177d7",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:cpu_core_500"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5465502f",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:network_identifier"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -27.0d,
+	y: 3.5d,
+	shape: "square",
+	tasks: [{
+		uid: "68aeacaf",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device0"
+		}]
+	}],
+	rewards: [{
+		uid: "d6bf71d2",
+		type: "random",
+		table: 0
+	}]
+}

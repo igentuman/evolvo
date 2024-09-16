@@ -1,0 +1,7 @@
+{
+	title: "Хранение жидкостей",
+	icon: "minecraft:water_bucket",
+	always_invisible: false,
+	group: -1698634282,
+	default_quest_shape: ""
+}

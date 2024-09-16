@@ -1,0 +1,50 @@
+{
+	x: -9.5d,
+	y: -0.5d,
+	shape: "rsquare",
+	dependencies: [
+		"b25b8561"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "c2750061",
+		type: "dimension",
+		title: "Путешествие на Венеру",
+		icon: "galacticraftplanets:venus",
+		dim: -31
+	},
+	{
+		uid: "a6174495",
+		type: "kill",
+		icon: {
+			id: "draconicevolution:mob_soul",
+			tag: {
+				EntityName: "galacticraftplanets:spider_queen"
+			},
+			Damage: 1s
+		},
+		entity: "galacticraftplanets:spider_queen",
+		value: 1L
+	},
+	{
+		uid: "af579aae",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:venus 1 4"
+		}],
+		count: 32L
+	},
+	{
+		uid: "af6e3c13",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:venus 1 5"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "95054342",
+		type: "item",
+		item: "galacticraftplanets:basic_item_venus"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -8.0d,
+	y: 1.0d,
+	dependencies: [
+		"ef3f7eab"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "f8481ee5",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:depleted_fuel_uranium 1 9"
+		}],
+		count: 64L
+	},
+	{
+		uid: "88fa1e40",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:depleted_fuel_uranium 1 13"
+		}],
+		count: 64L
+	}]
+}

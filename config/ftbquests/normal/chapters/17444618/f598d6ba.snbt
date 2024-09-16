@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -1.5d,
+	dependencies: [
+		"7b652898"
+	],
+	tasks: [{
+		uid: "d3a22aba",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:tank_iu"
+		}]
+	}]
+}

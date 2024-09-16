@@ -1,0 +1,15 @@
+{
+	title: "Строй мультиблоки в 1 клик",
+	x: -7.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "97c09e22",
+		type: "item",
+		items: [{
+			id: "mbtool:mbtool",
+			tag: {
+				electricity: 10000.0f
+			}
+		}]
+	}]
+}

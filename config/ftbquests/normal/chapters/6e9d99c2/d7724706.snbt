@@ -1,0 +1,25 @@
+{
+	title: "Электросхемы",
+	x: -2.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"3c1f4539"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "783a2000",
+		type: "item",
+		items: [{
+			item: "mekanism:controlcircuit"
+		},
+		{
+			item: "industrialupgrade:crafting_elements 1 272"
+		}]
+	}],
+	rewards: [{
+		uid: "515571af",
+		type: "random",
+		table: 1
+	}]
+}

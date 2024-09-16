@@ -1,0 +1,63 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	dependencies: [
+		"3d936611"
+	],
+	tasks: [{
+		uid: "42f3dd5c",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_item_filter"
+		}]
+	},
+	{
+		uid: "fac7e620",
+		type: "item",
+		items: [{
+			item: "enderio:item_advanced_item_filter"
+		}]
+	},
+	{
+		uid: "eee7a399",
+		type: "item",
+		items: [{
+			item: "enderio:item_limited_item_filter"
+		}]
+	},
+	{
+		uid: "af19a072",
+		type: "item",
+		items: [{
+			item: "enderio:item_big_item_filter"
+		}]
+	},
+	{
+		uid: "1346ef27",
+		type: "item",
+		items: [{
+			item: "enderio:item_big_advanced_item_filter"
+		}]
+	},
+	{
+		uid: "78b7a39f",
+		type: "item",
+		items: [{
+			item: "enderio:item_existing_item_filter"
+		}]
+	},
+	{
+		uid: "3f968adc",
+		type: "item",
+		items: [{
+			item: "enderio:item_mod_item_filter"
+		}]
+	},
+	{
+		uid: "94a22fe2",
+		type: "item",
+		items: [{
+			item: "enderio:item_power_item_filter"
+		}]
+	}]
+}

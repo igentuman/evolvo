@@ -1,0 +1,25 @@
+{
+	x: -6.0d,
+	y: -0.5d,
+	dependencies: [
+		"90b19a87",
+		"286fe788"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "5ae1b9dc",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_uranium 1 9"
+		}],
+		count: 64L
+	},
+	{
+		uid: "b994ea2d",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_uranium 1 13"
+		}],
+		count: 64L
+	}]
+}

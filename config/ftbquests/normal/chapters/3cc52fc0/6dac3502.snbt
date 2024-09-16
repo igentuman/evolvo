@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "68ae8824",
+		type: "item",
+		items: [{
+			id: "wct:wct",
+			tag: {
+				InfinityEnergy: 0
+			},
+			Count: 1b
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

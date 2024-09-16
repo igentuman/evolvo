@@ -1,0 +1,16 @@
+{
+	x: -7.0d,
+	y: -0.5d,
+	description: "Плавное падение",
+	dependencies: [
+		"ce8567fc"
+	],
+	tasks: [{
+		uid: "1133cc8c",
+		type: "item",
+		items: [{
+			item: "extrautils2:chickenring"
+		}],
+		ignore_nbt: 1b
+	}]
+}

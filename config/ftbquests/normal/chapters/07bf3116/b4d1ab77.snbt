@@ -1,0 +1,26 @@
+{
+	x: 2.0d,
+	y: 3.5d,
+	dependencies: [
+		"04eb3c5f"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "1a50a89e",
+		type: "fluid",
+		fluid: "sulfuricacid",
+		amount: 100000
+	},
+	{
+		uid: "96a681cb",
+		type: "fluid",
+		fluid: "sulfuric_acid",
+		amount: 100000
+	},
+	{
+		uid: "656babf3",
+		type: "fluid",
+		fluid: "water",
+		amount: 100000
+	}]
+}

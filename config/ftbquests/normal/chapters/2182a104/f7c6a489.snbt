@@ -1,0 +1,10 @@
+{
+	title: "Ore Mining",
+	icon: "minecraft:diamond_ore",
+	x: 3.5d,
+	y: -5.5d,
+	tasks: [{
+		uid: "2d0464d6",
+		type: "custom"
+	}]
+}

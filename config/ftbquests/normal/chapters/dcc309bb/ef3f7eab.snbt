@@ -1,0 +1,164 @@
+{
+	x: -6.0d,
+	y: 1.0d,
+	dependencies: [
+		"0e854165"
+	],
+	tasks: [{
+		uid: "6c29bf1b",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_casing"
+		}],
+		count: 64L
+	},
+	{
+		uid: "4b8de62e",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_glass"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3dac9440",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_controller"
+		}]
+	},
+	{
+		uid: "c171376d",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_cell"
+		}],
+		count: 16L
+	},
+	{
+		uid: "c75e47dd",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_irradiator"
+		}]
+	},
+	{
+		uid: "bb96cb0c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:heavy_water_moderator"
+		}],
+		count: 16L
+	},
+	{
+		uid: "82e97867",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_sink 1 1"
+		}],
+		count: 16L
+	},
+	{
+		uid: "1014cc1d",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_sink"
+		}],
+		count: 16L
+	},
+	{
+		uid: "e65767fd",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_sink 1 8"
+		}],
+		count: 16L
+	},
+	{
+		uid: "4a358cb0",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_sink2 1 1"
+		}],
+		count: 8L
+	},
+	{
+		uid: "3fd6a0e4",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_sink 1 15"
+		}],
+		count: 8L
+	},
+	{
+		uid: "de26c693",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_sink 1 4"
+		}],
+		count: 8L
+	},
+	{
+		uid: "28ed30dc",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:solid_fission_sink 1 6"
+		}],
+		count: 8L
+	},
+	{
+		uid: "38bea62a",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_cell_port"
+		}],
+		count: 2L
+	},
+	{
+		uid: "3f90671b",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_irradiator_port"
+		}],
+		count: 2L
+	},
+	{
+		uid: "4b75b387",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_shield_manager"
+		}]
+	},
+	{
+		uid: "835999f9",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_shield"
+		}],
+		count: 4L
+	},
+	{
+		uid: "271e6e30",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_vent"
+		}],
+		count: 2L
+	},
+	{
+		uid: "a9cfd48f",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_source"
+		}],
+		count: 8L
+	},
+	{
+		uid: "dec5ca30",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_reflector"
+		}],
+		count: 4L
+	}]
+}

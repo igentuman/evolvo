@@ -1,0 +1,36 @@
+{
+  "name": "compactmachines3:machine-normal",
+  "target-item": "compactmachines3:machine",
+  "target-meta": 2,
+  "target-count": 1,
+
+  "duration": 880,
+
+
+  "catalyst": "enderio:block_infinity_fog",
+  "catalyst-meta": 0,
+
+  "input-types": {
+    "w": { "id": "compactmachines3:wallbreakable" },
+    "g": { "id": "minecraft:iron_block"}
+  },
+
+  "symmetrical": true,
+  "shape": [
+    [
+      ["w","w","w"],
+      ["w","w","w"],
+      ["w","w","w"]
+    ],
+    [
+      ["w","w","w"],
+      ["w","g","w"],
+      ["w","w","w"]
+    ],
+    [
+      ["w","w","w"],
+      ["w","w","w"],
+      ["w","w","w"]
+    ]
+  ]
+}

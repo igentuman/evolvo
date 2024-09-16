@@ -1,0 +1,27 @@
+{
+	title: "Звездное небо",
+	icon: "galacticresearch:telescope",
+	x: -8.0d,
+	y: -2.5d,
+	description: "Пора вглядеться в телескоп",
+	text: [
+		"Находи на небе другие планеты и отправляй космические аппараты для сбора информации"
+	],
+	dependencies: [
+		"3172abfc"
+	],
+	tasks: [{
+		uid: "c896f248",
+		type: "item",
+		items: [{
+			item: "galacticresearch:telescope"
+		}]
+	},
+	{
+		uid: "d85828d2",
+		type: "item",
+		items: [{
+			item: "galacticresearch:mission_control_station"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	description: "Генерируем электричество",
+	dependencies: [
+		"ea94774c"
+	],
+	tasks: [{
+		uid: "b393dcfb",
+		type: "item",
+		items: [{
+			item: "ncsteamadditions:steam_turbine"
+		}]
+	}],
+	rewards: [{
+		uid: "e7d1400a",
+		type: "random",
+		table: 0
+	}]
+}

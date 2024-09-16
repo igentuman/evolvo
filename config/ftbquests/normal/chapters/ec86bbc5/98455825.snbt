@@ -1,0 +1,43 @@
+{
+	x: -10.5d,
+	y: 0.0d,
+	dependencies: [
+		"e4ffbfb8"
+	],
+	tasks: [{
+		uid: "abac1d1d",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianhelmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c852a43d",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianchestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2ce9672f",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianleggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cd35d013",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianboots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

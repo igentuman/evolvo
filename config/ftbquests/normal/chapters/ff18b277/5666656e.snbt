@@ -1,0 +1,12 @@
+{
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "508476f3",
+		type: "kill",
+		title: "Kill 5 Ender Dragons",
+		icon: "minecraft:skull 1 5",
+		entity: "minecraft:ender_dragon",
+		value: 5L
+	}]
+}

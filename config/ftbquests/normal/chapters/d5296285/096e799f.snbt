@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	dependencies: [
+		"afa420cb"
+	],
+	tasks: [{
+		uid: "fbed1073",
+		type: "item",
+		items: [{
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 2
+			},
+			Damage: 1s
+		}]
+	}]
+}

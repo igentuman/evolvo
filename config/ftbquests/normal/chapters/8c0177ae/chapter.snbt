@@ -1,0 +1,7 @@
+{
+	title: "Player Progression",
+	icon: "minecraft:skull 1 3",
+	always_invisible: true,
+	group: 0,
+	default_quest_shape: ""
+}

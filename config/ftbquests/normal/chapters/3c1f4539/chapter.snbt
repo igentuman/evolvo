@@ -1,0 +1,10 @@
+{
+	title: "Почти Бомж",
+	icon: "minecraft:stone_pickaxe",
+	description: [
+		"Примитивные технологии"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

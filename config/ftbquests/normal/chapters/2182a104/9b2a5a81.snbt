@@ -1,0 +1,32 @@
+{
+	title: "Квестовое барахло",
+	x: -6.5d,
+	y: -5.5d,
+	shape: "pentagon",
+	text: [
+		"Квестовые экраны нужны для отображения и зачисления предметов/жидкостей",
+		"1. Выбери квест",
+		"2. Подключи трубу"
+	],
+	tasks: [{
+		uid: "cba6b6c3",
+		type: "item",
+		items: [{
+			item: "ftbquests:screen"
+		}]
+	},
+	{
+		uid: "93c62993",
+		type: "item",
+		items: [{
+			item: "ftbquests:progress_screen"
+		}]
+	},
+	{
+		uid: "7b4892fd",
+		type: "item",
+		items: [{
+			item: "ftbquests:progress_detector"
+		}]
+	}]
+}

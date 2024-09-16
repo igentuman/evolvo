@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	description: "Next level of redstone",
+	text: [
+		"This book will guide you into a beutiful world of analog redstone programing.",
+		"Autocrafting, control for reactors and machines"
+	],
+	dependencies: [
+		"4bc0b524"
+	],
+	tasks: [{
+		uid: "b7bbc4b2",
+		type: "checkmark",
+		title: "Let's do some redstone programming",
+		icon: "rftoolscontrol:cpu_core_2000"
+	}],
+	rewards: [{
+		uid: "f714fa77",
+		type: "item",
+		item: "rftoolscontrol:rftoolscontrol_manual"
+	}]
+}

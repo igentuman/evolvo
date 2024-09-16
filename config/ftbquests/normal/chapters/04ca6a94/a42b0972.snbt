@@ -1,0 +1,12 @@
+{
+	x: -9.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "afa0c498",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:moremachine3",
+			tag: {}
+		}]
+	}]
+}

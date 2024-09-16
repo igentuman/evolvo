@@ -1,0 +1,21 @@
+{
+	icon: "mekanism:machineblock2 1 13",
+	x: -6.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "6973d070",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 13"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3af7993d",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock2 1 14"
+		}],
+		ignore_nbt: 1b
+	}]
+}

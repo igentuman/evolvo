@@ -1,0 +1,12 @@
+{
+	x: -6.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a68d7297",
+		type: "kill",
+		title: "Kill 100 Skeletons",
+		icon: "minecraft:skull",
+		entity: "minecraft:skeleton",
+		value: 100L
+	}]
+}

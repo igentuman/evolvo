@@ -1,0 +1,254 @@
+{
+  "name": "Builder",
+
+  "target-block": "rftools:builder",
+  "target-count": 1,
+  "target-meta": 0,
+
+  "duration": 1000,
+
+  "catalyst": "rftools:shape_card",
+  "catalyst-meta": 0,
+
+  "input-types": {
+    "a": {
+      "id": "minecraft:iron_block",
+      "meta": 4
+    },
+    "b": {
+      "id": "minecraft:stained_glass",
+      "meta": 15
+    },
+    "c": {
+      "id": "minecraft:stone",
+      "meta": 0
+    },
+    "d": {
+      "id": "extrautils2:miner",
+      "meta": 1
+    },
+    "e": {
+      "id": "nuclearcraft:lithium_ion_battery_basic",
+      "meta": 0
+    },
+    "f": {
+      "id": "extrautils2:interactionproxy",
+      "meta": 0
+    },
+    "g": {
+      "id": "extrautils2:scanner",
+      "meta": 1
+    },
+    "h": {
+      "id": "extrautils2:user",
+      "meta": 1
+    }
+  },
+  "input-nbt": {
+    "d:A": {
+      "nbt": "{enchants:{},extrastacks:[],powered:0b,upgrades:{},Active:1b,contents:{Size:9,Items:[]},pulses:0,cooldown:4,ForgeCaps:{\"nuclearcraft:capability_default_radiation_resistance\":{shieldingRadResistance:0.0d,radiationResistance:0.0d}},Frequency:972088200,id:\"xu2:tilemine\",redstone:0s}"
+    },
+    "e:A": {
+      "nbt": "{energyConnections0:0,isRedstonePowered:0b,multiblockData:{energyStorage:{energy:0L,capacity:32000000L},comparatorStrength:0},energyConnections4:0,energyConnections3:0,energyConnections2:0,energyConnections1:0,waitingEnergy:0L,alternateComparator:0b,energyConnections5:0,capacity:32000000L,redstoneControl:0b,ignoreSide:[B;0B,0B,0B,0B,0B,0B],radiationLevel:0.0d,energyTier:3,ForgeCaps:{\"nuclearcraft:capability_default_radiation_resistance\":{shieldingRadResistance:0.0d,radiationResistance:0.0d}},id:\"nuclearcraft:lithium_ion_battery_basic\"}"
+    },
+    "f:A": {
+      "nbt": "{Active:1b,pos:0L,ForgeCaps:{\"nuclearcraft:capability_default_radiation_resistance\":{shieldingRadResistance:0.0d,radiationResistance:0.0d}},Frequency:972088200,id:\"xu2:tileinteractionproxy\",target_a:0L,power:0.0f,target_b:0L}"
+    },
+    "g:A": {
+      "nbt": "{powered:1b,ForgeCaps:{\"nuclearcraft:capability_default_radiation_resistance\":{shieldingRadResistance:0.0d,radiationResistance:0.0d}},block:\"minecraft:air\",id:\"xu2:tilescanner\",props:{}}"
+    },
+    "h:A": {
+      "nbt": "{extrastacks:[],select:0s,powered:0b,upgrades:{},button:0s,mode:0s,Active:1b,contents:{Size:9,Items:[]},pulses:0,cooldown:20,ForgeCaps:{\"nuclearcraft:capability_default_radiation_resistance\":{shieldingRadResistance:0.0d,radiationResistance:0.0d}},Frequency:972088200,id:\"xu2:tileuse\",sneak:0b,redstone:0s}"
+    }
+  },
+  "shape": [
+    [
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "c",
+        "c",
+        "c",
+        "a"
+      ],
+      [
+        "a",
+        "c",
+        "c",
+        "c",
+        "a"
+      ],
+      [
+        "a",
+        "c",
+        "c",
+        "c",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "b",
+        "b",
+        "b",
+        "a"
+      ],
+      [
+        "b",
+        "_",
+        "_",
+        "_",
+        "b"
+      ],
+      [
+        "b",
+        "_",
+        "_",
+        "_",
+        "b"
+      ],
+      [
+        "b",
+        "_",
+        "_",
+        "_",
+        "b"
+      ],
+      [
+        "a",
+        "b",
+        "b",
+        "b",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "b",
+        "b",
+        "b",
+        "a"
+      ],
+      [
+        "b",
+        "_",
+        "_",
+        "_",
+        "b"
+      ],
+      [
+        "b",
+        "_",
+        "_",
+        "_",
+        "b"
+      ],
+      [
+        "b",
+        "_",
+        "_",
+        "_",
+        "b"
+      ],
+      [
+        "a",
+        "b",
+        "b",
+        "b",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "b",
+        "b",
+        "b",
+        "a"
+      ],
+      [
+        "b",
+        "_",
+        "d:A",
+        "_",
+        "b"
+      ],
+      [
+        "b",
+        "g:A",
+        "f:A",
+        "e:A",
+        "b"
+      ],
+      [
+        "b",
+        "_",
+        "h:A",
+        "_",
+        "b"
+      ],
+      [
+        "a",
+        "b",
+        "b",
+        "b",
+        "a"
+      ]
+    ],
+    [
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ],
+      [
+        "a",
+        "c",
+        "c",
+        "c",
+        "a"
+      ],
+      [
+        "a",
+        "c",
+        "c",
+        "c",
+        "a"
+      ],
+      [
+        "a",
+        "c",
+        "c",
+        "c",
+        "a"
+      ],
+      [
+        "a",
+        "a",
+        "a",
+        "a",
+        "a"
+      ]
+    ]
+  ]
+
+
+
+}

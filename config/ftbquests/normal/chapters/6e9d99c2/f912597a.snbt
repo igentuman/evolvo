@@ -1,0 +1,42 @@
+{
+	title: "Сплавы",
+	x: -0.5d,
+	y: -4.0d,
+	dependencies: [
+		"d7724706"
+	],
+	tasks: [{
+		uid: "7dc120bf",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:alloy_furnace"
+		}]
+	},
+	{
+		uid: "5437e797",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	},
+	{
+		uid: "bba0698e",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock 1 10"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4d3d8be9",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:basemachine 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "966036da",
+		type: "random",
+		table: 1
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "Транспортировка предметов",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:conveyor"
+		}
+	},
+	always_invisible: false,
+	group: -1698634282,
+	default_quest_shape: ""
+}

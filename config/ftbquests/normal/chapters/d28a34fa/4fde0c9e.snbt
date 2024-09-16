@@ -1,0 +1,23 @@
+{
+	icon: "thaumcraft:arcane_workbench",
+	x: -3.0d,
+	y: 1.0d,
+	text: [
+		"Примени пыль на верстак"
+	],
+	dependencies: [
+		"55c2e88d"
+	],
+	tasks: [{
+		uid: "af48af85",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "d27fc045",
+		type: "random",
+		table: 0
+	}]
+}

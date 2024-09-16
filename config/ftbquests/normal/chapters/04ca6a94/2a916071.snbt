@@ -1,0 +1,13 @@
+{
+	x: -11.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "3a6fe81b",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:basemachine2",
+			tag: {},
+			Damage: 1s
+		}]
+	}]
+}

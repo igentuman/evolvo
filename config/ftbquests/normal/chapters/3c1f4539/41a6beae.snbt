@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	description: "Наполненный кровью алтарь трансформирует предметы в другие",
+	dependencies: [
+		"e2dc691b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "97bbd508",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate"
+		}]
+	},
+	{
+		uid: "9f5e7018",
+		type: "item",
+		items: [{
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:weak"
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

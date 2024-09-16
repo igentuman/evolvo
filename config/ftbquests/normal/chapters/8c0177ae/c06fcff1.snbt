@@ -1,0 +1,15 @@
+{
+	title: "BasicTech",
+	x: -5.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "dc9ebb27",
+		type: "custom"
+	}],
+	rewards: [{
+		uid: "d11067f5",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "parasites2"
+	}]
+}

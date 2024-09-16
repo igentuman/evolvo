@@ -1,0 +1,25 @@
+{
+	x: -18.0d,
+	y: 1.0d,
+	dependencies: [
+		"1292081e"
+	],
+	tasks: [{
+		uid: "3529e27f",
+		type: "item",
+		items: [{
+			id: "nuclearcraft:lithium_ion_battery_elite",
+			tag: {
+				energyStorage: {
+					energy: 0L,
+					capacity: 2048000000L
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "73759485",
+		type: "random",
+		table: 1
+	}]
+}

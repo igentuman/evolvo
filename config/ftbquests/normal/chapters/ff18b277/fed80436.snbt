@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "0d2f5cfe",
+		type: "kill",
+		title: "Kill 100 Efrites",
+		icon: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:blaze"
+			}
+		},
+		entity: "minecraft:blaze",
+		value: 100L
+	}]
+}

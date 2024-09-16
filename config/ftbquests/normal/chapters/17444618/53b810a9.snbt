@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "8ea4350c",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:fluid_storage_cell_1k",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

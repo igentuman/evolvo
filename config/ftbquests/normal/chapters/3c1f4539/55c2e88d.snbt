@@ -1,0 +1,53 @@
+{
+	x: 3.5d,
+	y: -6.0d,
+	text: [
+		"Любые 3 разные кристаллы"
+	],
+	dependencies: [
+		"c6323579"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ed9539b0",
+		type: "item",
+		items: [{
+			id: "thaumcraft:crystal_essence",
+			tag: {
+				Aspects: [{
+					amount: 1,
+					key: "mattery"
+				}]
+			}
+		}],
+		count: 3L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "98d729b8",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}]
+	},
+	{
+		uid: "b72548bd",
+		type: "item",
+		items: [{
+			item: "minecraft:bowl"
+		}]
+	},
+	{
+		uid: "3270f348",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}],
+	rewards: [{
+		uid: "f9544180",
+		type: "item",
+		item: "thaumcraft:salis_mundus"
+	}]
+}

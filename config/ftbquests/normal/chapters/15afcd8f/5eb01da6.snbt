@@ -1,0 +1,23 @@
+{
+	x: 2.0d,
+	y: -2.5d,
+	shape: "gear",
+	dependencies: [
+		"1a365372"
+	],
+	optional: true,
+	tasks: [{
+		uid: "fbc13f9c",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:distributor"
+		}]
+	},
+	{
+		uid: "a5cfe4cf",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:sealer"
+		}]
+	}]
+}

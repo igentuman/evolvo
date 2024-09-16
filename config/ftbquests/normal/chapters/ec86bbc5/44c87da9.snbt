@@ -1,0 +1,55 @@
+{
+	x: -7.5d,
+	y: -1.0d,
+	dependencies: [
+		"ce5add47"
+	],
+	tasks: [{
+		uid: "e440a4b5",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:nano_helmet",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a299aefc",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:nano_chestplate",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "863f184b",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:nano_leggings",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ac6ec452",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:nano_boots",
+			tag: {
+				ID_Item: 2147483647
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

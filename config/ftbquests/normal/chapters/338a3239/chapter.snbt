@@ -1,0 +1,7 @@
+{
+	title: "Энергия",
+	icon: "nuclearcraft:upgrade 1 1",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,37 @@
+{
+	title: "Первые крафты",
+	icon: "minecraft:stone_pickaxe",
+	x: -3.0d,
+	y: -6.0d,
+	dependencies: [
+		"c6323579"
+	],
+	tasks: [{
+		uid: "8d32b9f5",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_pickaxe"
+		}]
+	},
+	{
+		uid: "495302ca",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	},
+	{
+		uid: "cd57d2aa",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	},
+	{
+		uid: "62cdb45d",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}]
+	}]
+}

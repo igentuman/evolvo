@@ -1,0 +1,21 @@
+{
+	title: "Energy",
+	icon: {
+		id: "mekanism:energycube",
+		tag: {
+			tier: 4,
+			mekData: {
+				energyStored: 1.7976931348623157E308d
+			}
+		}
+	},
+	x: 3.5d,
+	y: -1.5d,
+	dependencies: [
+		"338a3239"
+	],
+	tasks: [{
+		uid: "d53ed5f9",
+		type: "custom"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	dependencies: [
+		"70dbc20d"
+	],
+	tasks: [{
+		uid: "641816db",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 5
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,41 @@
+{
+	x: -7.5d,
+	y: -2.0d,
+	shape: "gear",
+	text: [
+		"Настолько плоские, что умещаются между блоками"
+	],
+	dependencies: [
+		"29f5272f"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "3720b28d",
+		type: "item",
+		items: [{
+			item: "extrautils2:flattransfernode"
+		}]
+	},
+	{
+		uid: "063076a5",
+		type: "item",
+		items: [{
+			item: "extrautils2:flattransfernode 1 1"
+		}]
+	},
+	{
+		uid: "283bd308",
+		type: "item",
+		items: [{
+			item: "extrautils2:filter"
+		}]
+	},
+	{
+		uid: "b11021cc",
+		type: "item",
+		items: [{
+			item: "extrautils2:filterfluids"
+		}]
+	}]
+}

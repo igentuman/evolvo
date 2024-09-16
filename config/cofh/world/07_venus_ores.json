@@ -1,0 +1,54 @@
+{
+	"dependencies": "thermalfoundation",
+	"populate": {
+        "boron": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "nuclearcraft:ore",
+						"metadata": 5
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 14
+			},
+			"cluster-count": 2,
+			"min-height": 2,
+			"max-height": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-31
+				]
+			}
+		},
+        "lirium": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "xxlsolarpanels:lirium_ore"
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 12
+			},
+			"cluster-count": 2,
+			"min-height": 2,
+			"max-height": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-31
+				]
+			}
+		}
+	}
+}

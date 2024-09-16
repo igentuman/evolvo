@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 3.5d,
+	text: [
+		"With the power of Acids and energy this machine will produce a lot of dusts from ores"
+	],
+	dependencies: [
+		"b4d1ab77",
+		"c05a6129",
+		"a6a1fe3e"
+	],
+	tasks: [{
+		uid: "cf7ec0a7",
+		type: "item",
+		items: [{
+			item: "qmd:ore_leacher"
+		}]
+	}]
+}

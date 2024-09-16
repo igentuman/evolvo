@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 0.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "bee1fafb",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:chest"
+		}]
+	}],
+	rewards: [{
+		uid: "39239765",
+		type: "random",
+		table: 1
+	}]
+}

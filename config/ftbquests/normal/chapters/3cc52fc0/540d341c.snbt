@@ -1,0 +1,70 @@
+{
+	icon: "qmd:target_chamber_controller",
+	x: -3.0d,
+	y: -1.5d,
+	dependencies: [
+		"ca83c0ea"
+	],
+	tasks: [{
+		uid: "d6ff3662",
+		type: "item",
+		items: [{
+			item: "qmd:target_chamber_controller"
+		}]
+	},
+	{
+		uid: "e729137a",
+		type: "item",
+		items: [{
+			item: "qmd:particle_chamber_casing"
+		}],
+		count: 64L
+	},
+	{
+		uid: "e053663b",
+		type: "item",
+		items: [{
+			item: "qmd:particle_chamber_glass"
+		}],
+		count: 64L
+	},
+	{
+		uid: "fab983f9",
+		type: "item",
+		items: [{
+			item: "qmd:particle_chamber_port"
+		}],
+		count: 3L
+	},
+	{
+		uid: "03625bc1",
+		type: "item",
+		items: [{
+			item: "qmd:particle_chamber_beam"
+		}],
+		count: 9L
+	},
+	{
+		uid: "9f63ef11",
+		type: "item",
+		items: [{
+			item: "qmd:particle_chamber"
+		}]
+	},
+	{
+		uid: "6d1329c3",
+		type: "item",
+		items: [{
+			item: "qmd:particle_chamber_beam_port"
+		}],
+		count: 4L
+	},
+	{
+		uid: "8fe95023",
+		type: "item",
+		items: [{
+			item: "qmd:particle_chamber_detector"
+		}],
+		count: 9L
+	}]
+}

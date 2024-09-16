@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: -5.5d,
+	shape: "circle",
+	description: "Брось в моба и убей, пока на нем эффект",
+	dependencies: [
+		"c6323579"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b5726714",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}]
+	}]
+}

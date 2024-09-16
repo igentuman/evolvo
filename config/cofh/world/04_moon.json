@@ -1,0 +1,153 @@
+{
+	"priority": 100000000000,
+	"populate": {
+        "osmium": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "industrialupgrade:baseore1",
+					"metadata": 3
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 80,
+				"type": "large-vein",
+			},	
+			"cluster-count": 6,
+			"min-height": 5,
+			"max-height": 90,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-28
+				]
+			}
+		},
+		"silver": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "industrialupgrade:classicore",
+					"metadata": 11
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 100
+			},
+			"cluster-count": 2,
+			"min-height": 5,
+			"max-height": 90,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-28
+				]
+			}
+		},
+		"nickel": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "industrialupgrade:classicore",
+					"metadata": 6
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 6,
+			"min-height": 5,
+			"max-height": 20,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-27
+				]
+			}
+		},
+        "boron": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "nuclearcraft:ore",
+						"metadata": 5
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 20
+			},
+			"cluster-count": 2,
+			"min-height": 2,
+			"max-height": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-28
+				]
+			}
+		},
+        "diamonds_moon": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "minecraft:diamond_ore"
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 20
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 45,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-28
+				]
+			}
+		},
+        "certus_quartz": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+					{
+						"name": "appliedenergistics2:charged_quartz_ore"
+						"weight": 10
+					},
+					{
+						"name": "appliedenergistics2:quartz_ore"
+						"weight": 90
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 32
+			},
+			"cluster-count": 2,
+			"min-height": 2,
+			"max-height": 45,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-28
+				]
+			}
+		}
+	}
+}

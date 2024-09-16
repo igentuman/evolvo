@@ -1,0 +1,76 @@
+[
+  {
+    "dimension": 0,
+    "mob": "minecraft:skeleton",
+    "mincount": {
+      "amount": 2,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+    {
+    "dimension": -11325,
+    "mod": "srmonstress",
+    "mincount": {
+      "amount": 3,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": -11325,
+    "mob": "minecraft:vex",
+    "mincount": {
+      "amount": 1,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mod": "ancientbeasts",
+    "mincount": {
+      "amount": 2,
+      "mod": "ancientbeasts",
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mod": "ancientbeasts",
+    "mincount": {
+      "amount": 2,
+      "mod": "ancientbeasts",
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+    {
+    "dimension": -1,
+    "mod": "ancientbeasts",
+    "mincount": {
+      "amount": 4,
+      "mod": "ancientbeasts",
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  },
+    {
+    "dimension": 1,
+    "mod": "ancientbeasts",
+    "mincount": {
+      "amount": 4,
+      "mod": "ancientbeasts",
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  }
+]

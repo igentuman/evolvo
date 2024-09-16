@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "8b455d3e",
+		type: "item",
+		items: [{
+			item: "powerutils:powerutils 1 3"
+		}]
+	}]
+}

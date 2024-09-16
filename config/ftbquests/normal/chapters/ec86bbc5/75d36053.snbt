@@ -1,0 +1,59 @@
+{
+	x: -12.0d,
+	y: 0.0d,
+	optional: true,
+	tasks: [{
+		uid: "6b846183",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianpickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f977938c",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ee3ebe7b",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianshovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "613b462f",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianhoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "476f3222",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidiansword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a8bdb392",
+		type: "item",
+		items: [{
+			item: "mekanismtools:obsidianpaxel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

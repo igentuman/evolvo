@@ -1,0 +1,19 @@
+{
+	x: -4.476190476190482d,
+	y: 0.7857142857142705d,
+	shape: "gear",
+	text: [
+		"Этот механизм ускорит работу обычной печи, так же и коксовой и доменной печей"
+	],
+	dependencies: [
+		"93059650"
+	],
+	optional: true,
+	tasks: [{
+		uid: "faa34705",
+		type: "item",
+		items: [{
+			item: "mech_crafting:mechanical_bellows"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Стол исследований",
+	x: 3.5d,
+	y: 3.0d,
+	dependencies: [
+		"cff4bdf4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "35c2e1c0",
+		type: "item",
+		items: [{
+			item: "thaumcraft:table_wood"
+		}],
+		count: 2L
+	},
+	{
+		uid: "3575735f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:scribing_tools"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

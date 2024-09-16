@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: 1.5d,
+	shape: "gear",
+	dependencies: [
+		"a6c1791c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "748f4815",
+		type: "item",
+		items: [{
+			item: "bloodmagic:dagger_of_sacrifice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

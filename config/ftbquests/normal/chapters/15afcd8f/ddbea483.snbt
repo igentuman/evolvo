@@ -1,0 +1,18 @@
+{
+	title: "Возвращение домой",
+	x: -0.5d,
+	y: -1.5d,
+	shape: "gear",
+	description: "Не забудь прихватить загрузчик топлива, энергию и немного топлива для возврата домой",
+	dependencies: [
+		"009f68e1"
+	],
+	optional: true,
+	tasks: [{
+		uid: "6d1d594b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fuel_loader"
+		}]
+	}]
+}

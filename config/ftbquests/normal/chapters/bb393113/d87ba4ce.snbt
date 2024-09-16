@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "fa512579",
+		type: "item",
+		items: [{
+			item: "randomthings:igniter"
+		}]
+	}]
+}

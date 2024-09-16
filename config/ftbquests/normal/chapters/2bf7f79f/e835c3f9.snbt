@@ -1,0 +1,64 @@
+{
+	title: "Immersive Belts",
+	x: -3.0d,
+	y: -4.5d,
+	shape: "square",
+	tasks: [{
+		uid: "8c6410ba",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		},
+		{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:uncontrolled"
+			}
+		},
+		{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:covered"
+			}
+		}]
+	},
+	{
+		uid: "ddac8b3e",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:dropper"
+			}
+		}]
+	},
+	{
+		uid: "0b0c0ed0",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:vertical"
+			}
+		},
+		{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:verticalcovered"
+			}
+		}]
+	},
+	{
+		uid: "f1065454",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:splitter"
+			}
+		}]
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Механическое бурение",
+	x: -10.0d,
+	y: -3.0d,
+	shape: "square",
+	dependencies: [
+		"93059650"
+	],
+	tasks: [{
+		uid: "01acf5e4",
+		type: "item",
+		items: [{
+			item: "dveins:drill_iron_head"
+		},
+		{
+			item: "dveins:drill_emerald_head"
+		},
+		{
+			item: "dveins:drill_diamond_head"
+		}]
+	},
+	{
+		uid: "3c53af7a",
+		type: "item",
+		items: [{
+			item: "dveins:drill_base"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "8010ab79",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 3"
+		}]
+	}]
+}

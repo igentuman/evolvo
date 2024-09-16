@@ -1,0 +1,25 @@
+{
+	x: -7.44047619047619d,
+	y: 0.7619047619047876d,
+	description: "Плавное падение",
+	text: [
+		"Эти кольца позволят тебе парить и летать"
+	],
+	dependencies: [
+		"99cbbee0"
+	],
+	hide: true,
+	tasks: [{
+		uid: "fcf5b61a",
+		type: "item",
+		items: [{
+			item: "extrautils2:chickenring"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1344e95d",
+		type: "random",
+		table: 0
+	}]
+}

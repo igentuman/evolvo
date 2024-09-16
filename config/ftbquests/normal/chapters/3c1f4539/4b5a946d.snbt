@@ -1,0 +1,24 @@
+{
+	title: "Доменная печь",
+	x: -2.0d,
+	y: -0.5d,
+	description: "Choose what you like",
+	dependencies: [
+		"2f0657fb",
+		"c3b384e8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "7d18a783",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "630d5ebb",
+		type: "choice",
+		table: 0
+	}]
+}

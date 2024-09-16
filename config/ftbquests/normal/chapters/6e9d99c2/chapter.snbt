@@ -1,0 +1,10 @@
+{
+	title: "Продвинутые технологии",
+	icon: "industrialupgrade:crafting_elements 1 272",
+	description: [
+		"Первые технологии"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

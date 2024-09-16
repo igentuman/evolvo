@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	dependencies: [
+		"04b43135"
+	],
+	tasks: [{
+		uid: "7bbff326",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:advanced_network_card"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bb0fdaeb",
+		type: "item",
+		items: [{
+			item: "rftoolscontrol:cpu_core_2000"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

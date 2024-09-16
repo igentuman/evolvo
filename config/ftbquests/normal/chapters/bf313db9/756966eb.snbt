@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "95a4ff7d",
+		type: "item",
+		items: [{
+			id: "industrialupgrade:quarry_vein",
+			tag: {}
+		}]
+	}]
+}

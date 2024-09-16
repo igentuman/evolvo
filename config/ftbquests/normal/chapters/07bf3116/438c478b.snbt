@@ -1,0 +1,24 @@
+{
+	x: -4.0d,
+	y: 2.0d,
+	dependencies: [
+		"ecffd61f"
+	],
+	tasks: [{
+		uid: "c7deee2c",
+		type: "item",
+		items: [{
+			item: "compactmachines3:fieldprojector"
+		}],
+		count: 4L
+	},
+	{
+		uid: "a9dd9b1d",
+		type: "item",
+		items: [{
+			item: "compactmachines3:psd"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

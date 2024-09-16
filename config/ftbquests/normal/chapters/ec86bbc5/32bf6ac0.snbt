@@ -1,0 +1,13 @@
+{
+	x: -12.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "0a4681fd",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:spaxelhoe_hard_carbon"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

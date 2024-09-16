@@ -1,0 +1,7 @@
+{
+	title: "Ядерная",
+	icon: "industrialupgrade:water_reactors 1 36",
+	always_invisible: false,
+	group: 864694841,
+	default_quest_shape: ""
+}

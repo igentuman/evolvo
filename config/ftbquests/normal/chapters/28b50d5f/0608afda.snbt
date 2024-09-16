@@ -1,0 +1,25 @@
+{
+	x: -5.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "1da04bdc",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil 1 8"
+		}]
+	},
+	{
+		uid: "5fcef51d",
+		type: "item",
+		items: [{
+			item: "gregtech:multiblock_casing 1 4"
+		}]
+	},
+	{
+		uid: "4ad8d97d",
+		type: "item",
+		items: [{
+			item: "gregtech:multiblock_casing 1 3"
+		}]
+	}]
+}

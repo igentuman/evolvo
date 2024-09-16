@@ -1,0 +1,24 @@
+{
+	title: "Продвинутая энергетика",
+	x: -1.0d,
+	y: 1.0d,
+	shape: "square",
+	dependencies: [
+		"d7724706"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "bf42321d",
+		type: "item",
+		items: [{
+			item: "industrialupgrade:crafting_elements 1 273"
+		}]
+	},
+	{
+		uid: "84913806",
+		type: "item",
+		items: [{
+			item: "mekanism:controlcircuit 1 1"
+		}]
+	}]
+}

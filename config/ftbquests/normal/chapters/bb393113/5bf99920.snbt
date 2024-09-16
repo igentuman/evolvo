@@ -1,0 +1,39 @@
+{
+	x: -1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "afdd60ca",
+		type: "item",
+		items: [{
+			item: "randomthings:plate_redirector"
+		}]
+	},
+	{
+		uid: "a9e0fbe5",
+		type: "item",
+		items: [{
+			item: "randomthings:plate_filteredredirector"
+		}]
+	},
+	{
+		uid: "80634726",
+		type: "item",
+		items: [{
+			item: "randomthings:plate_redstone"
+		}]
+	},
+	{
+		uid: "61c3b737",
+		type: "item",
+		items: [{
+			item: "randomthings:plate_corrector"
+		}]
+	},
+	{
+		uid: "8dcb3d46",
+		type: "item",
+		items: [{
+			item: "randomthings:plate_processing"
+		}]
+	}]
+}
