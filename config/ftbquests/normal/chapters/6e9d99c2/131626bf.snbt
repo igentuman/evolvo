@@ -1,8 +1,8 @@
 {
 	title: "Автомтаизация печатных плат",
 	icon: "immersiveengineering:metal_multiblock 1 5",
-	x: 0.5d,
-	y: -1.5d,
+	x: -1.9642857142857082d,
+	y: -8.232142857142861d,
 	shape: "gear",
 	dependencies: [
 		"d7724706"

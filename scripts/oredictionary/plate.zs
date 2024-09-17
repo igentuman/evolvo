@@ -15,10 +15,7 @@ import crafttweaker.oredict.IOreDictEntry;
 
 <ore:plateElectrum>.remove(<immersiveengineering:metal:37>);
 
-<ore:plateAluminium>.remove(<immersiveengineering:metal:31>);
 <ore:plateIron>.remove(<immersiveengineering:metal:39>);
-
-<ore:plateAluminium>.remove(<immersiveengineering:metal:31>);
 
 <ore:plateGold>.remove(<immersiveengineering:metal:40>);
 

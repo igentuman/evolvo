@@ -1,10 +1,15 @@
 {
-	x: -2.0d,
-	y: 1.5d,
+	x: -1.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"В этой простой печи можно изготавливать сплавы"
+	],
 	dependencies: [
 		"4b5a946d"
 	],
 	hide: true,
+	optional: true,
 	tasks: [{
 		uid: "3db3384c",
 		type: "item",

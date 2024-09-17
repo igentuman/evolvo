@@ -201,85 +201,53 @@ hideItems([
 	<nuclearcraft:depleted_fuel_californium:12>,
 	<qmd:depleted_fuel_copernicium>,
 	<qmd:fuel_copernicium>,
-
 	<mekanism:nugget:5>,
 	<immersiveengineering:metal:20>,
-
 	<immersiveengineering:metal:22>,
-
 	<immersiveengineering:metal:24>,
-
 	<immersiveengineering:metal:23>,
-
 	<immersiveengineering:metal:28>,
 	<mekanism:nugget:4>,
-
 	<mekanism:nugget:2>,
-
 	<immersiveengineering:metal:27>,
-
 	<immersiveengineering:storage:5>,
 	<nuclearcraft:ingot_block:4>,
-
 	<mekanism:basicblock:12>,
 	<nuclearcraft:ingot_block>,
 	<immersiveengineering:storage>,
 	<galacticraftcore:basic_block_core:9>,
-
 	<galacticraftplanets:venus:12>,
 	<immersiveengineering:storage:2>,
 	<nuclearcraft:ingot_block:2>,
-
 	<galacticraftcore:basic_block_core:10>,
 	<mekanism:basicblock:13>,
 	<nuclearcraft:ingot_block:1>,
-
 	<immersiveengineering:storage:4>,
-
 	<immersiveengineering:storage:3>,
 	<nuclearcraft:ingot_block:13>,
-
 	<nuclearcraft:ingot_block:7>,
-
 	<mekanism:basicblock:5>,
 	<immersiveengineering:storage:8>,
-
 	<mekanism:basicblock:1>,
-
 	<immersiveengineering:storage:7>,
 	<nuclearcraft:dust:4>,
 	<immersiveengineering:metal:14>,
-
 	<enderio:item_material:26>,
 	<immersiveengineering:metal:9>,
-
 	<immersiveengineering:metal:11>,
 	<mekanism:dust:6>,
-
 	<enderio:item_material:27>,
-
 	<qmd:dust:10>,
-
 	<immersiveengineering:metal:13>,
 	<immersiveengineering:metal:12>,
 	<mekanism:dust:5>,
-
 	<nuclearcraft:dust:7>,
-
 	<immersiveengineering:metal:17>,
-
 	<immersiveengineering:metal:16>,
 	<immersiveengineering:metal:30>,
-
 	<immersiveengineering:metal:32>,
-
 	<immersiveengineering:metal:34>,
-
 	<immersiveengineering:metal:38>,
-
-
-	<immersiveengineering:metal:37>,
-
 	<nuclearcraft:dust:1>,
 	<mekanism:dust:4>,
 	<nuclearcraft:dust:2>,
@@ -312,9 +280,14 @@ hideItems([
 	<minecraft:structure_block>,
 	<minecraft:chainmail_helmet>,
 	<minecraft:chainmail_chestplate>,
+	<galacticraftplanets:titanium_leggings>.withTag({}),
+    <galacticraftplanets:titanium_chestplate>.withTag({}),
+    <galacticraftplanets:titanium_helmet>.withTag({}),
+    <galacticraftplanets:titanium_boots>.withTag({}),
+    <galacticraftplanets:titanium_shovel>,
+    <galacticraftplanets:titanium_sword>,
 	<minecraft:chainmail_leggings>,
 	<galacticraftcore:basic_block_core:7>,
-	<immersiveengineering:metal:31>,
 	<galacticraftcore:ic2compat:1>,
 	<galacticraftcore:ic2compat:2>,
 	<minecraft:chainmail_boots>,

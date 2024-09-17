@@ -1,7 +1,7 @@
 {
-	title: "Сплавы",
-	x: -0.5d,
-	y: -4.0d,
+	title: "Выплавка",
+	x: -2.0d,
+	y: -4.5d,
 	dependencies: [
 		"d7724706"
 	],
@@ -28,10 +28,10 @@
 		ignore_nbt: 1b
 	},
 	{
-		uid: "4d3d8be9",
+		uid: "974b0c4e",
 		type: "item",
 		items: [{
-			item: "industrialupgrade:basemachine 1 4"
+			item: "ic2:te 1 44"
 		}]
 	}],
 	rewards: [{

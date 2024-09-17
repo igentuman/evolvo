@@ -1,6 +1,6 @@
 {
-	title: "Продвинутые технологии",
-	icon: "industrialupgrade:crafting_elements 1 272",
+	title: "Tier 2 - Electric",
+	icon: "mekanism:controlcircuit",
 	description: [
 		"Первые технологии"
 	],

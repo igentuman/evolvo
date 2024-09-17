@@ -1,5 +1,6 @@
 {
 	title: "Basic",
+	icon: "ironchest:wood_iron_chest_upgrade",
 	loot_size: 1,
 	use_title: true,
 	rewards: [{
@@ -68,27 +69,23 @@
 		weight: 10
 	},
 	{
-		item: "industrialupgrade:crafting_elements 1 290",
+		item: "ic2:ingot 1 2",
+		count: 8
+	},
+	{
+		item: "ic2:ingot 1 6",
+		count: 8
+	},
+	{
+		item: "minecraft:dye 1 4",
 		count: 16
 	},
 	{
-		item: "industrialupgrade:cable_iu_item 1 11",
-		count: 16
+		item: "minecraft:glass",
+		count: 32
 	},
 	{
-		item: "industrialupgrade:itemingots 1 8",
-		count: 16
-	},
-	{
-		item: "industrialupgrade:itemingots 1 21",
-		count: 16
-	},
-	{
-		item: "industrialupgrade:itemingots 1 24",
-		count: 16
-	},
-	{
-		item: "industrialupgrade:itemingots 1 1",
-		count: 16
+		xp_levels: 5,
+		type: "xp_levels"
 	}]
 }

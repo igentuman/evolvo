@@ -1,8 +1,11 @@
 {
-	x: -9.5d,
-	y: 0.0d,
+	x: -8.5d,
+	y: -4.5d,
 	shape: "square",
 	description: "Передай энергию прямо в экран квеста",
+	dependencies: [
+		"f1960bbb"
+	],
 	tasks: [{
 		uid: "f6799376",
 		type: "forge_energy",

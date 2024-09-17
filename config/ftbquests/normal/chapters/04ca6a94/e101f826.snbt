@@ -23,6 +23,7 @@
 		items: [{
 			id: "industrialupgrade:basemachine3",
 			tag: {},
+			Count: 1b,
 			Damage: 9s
 		}]
 	},
@@ -32,6 +33,7 @@
 		items: [{
 			id: "industrialupgrade:basemachine3",
 			tag: {},
+			Count: 1b,
 			Damage: 80s
 		}]
 	},

@@ -15,6 +15,7 @@
 		items: [{
 			id: "industrialupgrade:basemachine",
 			tag: {},
+			Count: 1b,
 			Damage: 7s
 		}]
 	},

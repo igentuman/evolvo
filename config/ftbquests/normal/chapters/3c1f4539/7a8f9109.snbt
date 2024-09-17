@@ -65,22 +65,17 @@
 		ignore_nbt: 1b
 	},
 	{
-		uid: "1e5575a9",
+		uid: "78c38391",
 		type: "item",
 		items: [{
-			id: "chisel:chisel_hitech",
-			tag: {
-				chiseldata: {}
-			}
-		},
-		{
-			id: "chisel:chisel_diamond",
-			tag: {
-				chiseldata: {}
-			}
-		},
-		{
-			item: "chisel:chisel_iron"
+			item: "nuclearcraft:portable_ender_chest"
+		}]
+	},
+	{
+		uid: "1ad7ac55",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_pouch"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

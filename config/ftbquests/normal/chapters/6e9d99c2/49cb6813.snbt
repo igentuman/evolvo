@@ -1,7 +1,7 @@
 {
 	title: "Сжатие",
-	x: -2.5d,
-	y: -5.0d,
+	x: -3.0d,
+	y: -4.5d,
 	dependencies: [
 		"d7724706"
 	],
@@ -10,6 +10,20 @@
 		type: "item",
 		items: [{
 			item: "nuclearcraft:pressurizer"
+		}]
+	},
+	{
+		uid: "87495a67",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 43"
+		}]
+	},
+	{
+		uid: "4942419e",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 55"
 		}]
 	}],
 	rewards: [{

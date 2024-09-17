@@ -13,15 +13,6 @@
 		type: "item",
 		items: [{
 			item: "extrautils2:itembuilderswand"
-		},
-		{
-			item: "betterbuilderswands:wandstone"
-		},
-		{
-			item: "betterbuilderswands:wandiron"
-		},
-		{
-			item: "betterbuilderswands:wanddiamond"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -66,5 +57,47 @@
 		items: [{
 			item: "ironchest:iron_chest 1 2"
 		}]
+	},
+	{
+		uid: "7095e8d4",
+		type: "item",
+		items: [{
+			item: "chisel:chisel_iron"
+		},
+		{
+			id: "chisel:chisel_diamond",
+			tag: {
+				chiseldata: {}
+			}
+		},
+		{
+			id: "chisel:chisel_hitech",
+			tag: {
+				chiseldata: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8e0eeb07",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage"
+		}],
+		count: 2L
+	},
+	{
+		uid: "1706dd07",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage 1 1"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "95e3f658",
+		type: "random",
+		table: 0
 	}]
 }

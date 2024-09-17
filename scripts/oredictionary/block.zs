@@ -41,6 +41,3 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:blockAluminium>.remove(<nuclearcraft:ingot_block:12>);
 
 <ore:blockZinc>.remove(<ncsteamadditions:ingot_block>);
-
-<ore:blockTitanium>.remove(<galacticraftplanets:asteroids_block:7>);
-

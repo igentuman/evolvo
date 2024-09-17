@@ -1,6 +1,6 @@
 {
-	x: 0.5d,
-	y: -3.5d,
+	x: -1.0d,
+	y: -4.5d,
 	dependencies: [
 		"d7724706"
 	],
@@ -24,15 +24,6 @@
 		type: "item",
 		items: [{
 			item: "nuclearcraft:electrolyzer"
-		}]
-	},
-	{
-		uid: "cffffa64",
-		type: "item",
-		items: [{
-			id: "industrialupgrade:basemachine2",
-			tag: {},
-			Damage: 15s
 		}]
 	}],
 	rewards: [{

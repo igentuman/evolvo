@@ -6,7 +6,8 @@
 		type: "item",
 		items: [{
 			id: "industrialupgrade:moremachine3",
-			tag: {}
+			tag: {},
+			Count: 1b
 		}]
 	}]
 }

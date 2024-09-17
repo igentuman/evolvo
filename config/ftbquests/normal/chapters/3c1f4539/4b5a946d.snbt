@@ -2,7 +2,7 @@
 	title: "Доменная печь",
 	x: -2.0d,
 	y: -0.5d,
-	description: "Choose what you like",
+	description: "Сталь и чугун",
 	dependencies: [
 		"2f0657fb",
 		"c3b384e8"

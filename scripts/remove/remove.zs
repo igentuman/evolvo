@@ -103,8 +103,12 @@ removeAndHideItems([
 	<scannable:module_structure>,
     <mekanism:nugget:2>,
     <mekanism:nugget:6>,
-    <galacticraftplanets:asteroids_block:7>,
     <ncsteamadditions:ingot>,
+    <enderio:block_crafter>,
+    <enderio:block_simple_crafter>,
+    <draconicevolution:draconium_chest>,
+    <ic2:te:89>,
+    <galacticraftcore:machine>,
     <ncsteamadditions:dust>,
     <ncsteamadditions:ingot_block>,
     <ncsteamadditions:ore>,
@@ -536,19 +540,13 @@ removeAndHideAndFurnaceItems([
 
 	<qmd:ingot:5>,
 	<immersiveengineering:metal:4>,
-
 	<immersiveengineering:metal:3>,
-
 	<nuclearcraft:ingot:7>,
-
 	<immersiveengineering:metal:8>,
 	<mekanism:ingot:4>,
 	<nuclearcraft:alloy:5>,
-
 	<mekanism:ingot:2>,
 	<nuclearcraft:alloy>,
-
-	<immersiveengineering:metal:7>,
     <immersiveengineering:metal:40>,
     <enderio:item_material:25>,
     <appliedenergistics2:material:51>,
@@ -575,7 +573,6 @@ removeAndHideAndFurnaceItems([
     <qmd:ingot:8>,
     <qmd:ingot>,
     <qmd:ingot:2>,
-    <galacticraftplanets:item_basic_asteroids>,
     <qmd:ingot:3>
 ]);
 

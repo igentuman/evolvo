@@ -98,6 +98,9 @@ key_Галактическая карта:50
 key_Открыть инвентарь космического корабля:33
 key_Переключить режим Очков с сенсорами:37
 key_Gravi Fly Key:33
+key_openblocks.keybind.vario_switch:47
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -180,8 +183,8 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.5
-soundCategory_music:0.14084508
+soundCategory_master:0.17880794
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5
 soundCategory_block:1.0

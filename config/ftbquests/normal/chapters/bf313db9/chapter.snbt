@@ -1,7 +1,0 @@
-{
-	title: "Добыча руды",
-	icon: "minecraft:diamond_ore",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

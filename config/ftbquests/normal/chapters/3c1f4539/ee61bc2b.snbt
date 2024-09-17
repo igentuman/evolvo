@@ -1,6 +1,6 @@
 {
-	x: -7.488095238095234d,
-	y: 3.333333333333357d,
+	x: -7.5d,
+	y: 2.0d,
 	shape: "gear",
 	description: "Творческий полет",
 	dependencies: [

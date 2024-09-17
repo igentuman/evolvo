@@ -2,8 +2,11 @@
 	x: -6.0d,
 	y: -5.0d,
 	description: "Придется покрутить",
+	text: [
+		"Это уже своего рода автоматизация. GP сеть это не электричество. Эта сеть используется для работы некоторых блоков и предметов из мода Extra Utils"
+	],
 	dependencies: [
-		"2843a41e"
+		"b1b157a8"
 	],
 	hide: true,
 	tasks: [{
@@ -11,6 +14,13 @@
 		type: "item",
 		items: [{
 			item: "extrautils2:passivegenerator 1 7"
+		}]
+	},
+	{
+		uid: "6b188950",
+		type: "item",
+		items: [{
+			item: "extrautils2:resonator"
 		}]
 	}],
 	rewards: [{

@@ -1,25 +1,15 @@
 {
 	title: "Переходим к электронике?",
-	x: -1.5d,
-	y: 7.5d,
+	x: -3.0d,
+	y: 3.0d,
 	shape: "rsquare",
 	dependencies: [
-		"9315d0dd",
-		"97df1b95",
-		"45d9cb7d",
-		"e5b21abd"
+		"2496089a",
+		"2f0657fb",
+		"99cbbee0"
 	],
-	size: 1.5d,
+	size: 2.0d,
 	tasks: [{
-		uid: "eacba714",
-		type: "item",
-		items: [{
-			item: "industrialupgrade:cutter"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
 		uid: "fd9bda58",
 		type: "item",
 		items: [{
@@ -53,6 +43,6 @@
 		title: "Примитивные технологии",
 		icon: "minecraft:stone_pickaxe",
 		auto: "no_toast",
-		stage: "stone_age"
+		stage: "tier_1"
 	}]
 }

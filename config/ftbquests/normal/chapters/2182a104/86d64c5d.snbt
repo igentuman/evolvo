@@ -3,7 +3,8 @@
 		id: "industrialupgrade:nano_chestplate",
 		tag: {
 			ID_Item: 2147483647
-		}
+		},
+		Count: 1b
 	},
 	x: 1.5d,
 	y: -6.0d,

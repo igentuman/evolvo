@@ -2056,226 +2056,226 @@ opencomputers:misc:0, EEPROM (Lua BIOS)
 enderstorage:ender_storage:0, Сундук Края
 enderstorage:ender_storage:1, Цистерна Края
 enderstorage:ender_pouch, Сумка Края
-extrautils2:snowglobe:0, Волшебный снежный шар
-extrautils2:snowglobe:1, Волшебный снежный шар
-extrautils2:wateringcan, Лейка
-extrautils2:itemcreativedestructionwand, Креативный жезл разрушения
-extrautils2:unstableingots:0, Нестабильный слиток
-extrautils2:unstableingots:1, Стабильный - Нестабильный слиток
-extrautils2:unstableingots:2, Стабильный - Нестабильный слиток
-extrautils2:itembuilderswand, Жезл строителя
-extrautils2:itemdestructionwand, Жезл разрушения
-extrautils2:itemcreativebuilderswand, Креативный жезл строителя
-extrautils2:soundmuffler, Беззвучный блок
-extrautils2:decorativesolidwood:0, Магические доски
-extrautils2:decorativesolidwood:1, Магическая древесина
-extrautils2:decorativesolidwood:2, Диагональная древесина
-extrautils2:trashcan, Мусорка
-extrautils2:trashcanfluid, Мусорка (Жидкости)
-extrautils2:trashcanenergy, Мусорка (Энергия)
-extrautils2:angelblock, Ангельский блок
-extrautils2:passivegenerator:0, Солнечная панель
-extrautils2:passivegenerator:1, Лунная солнечная панель
-extrautils2:passivegenerator:2, Лавовая мельница
-extrautils2:passivegenerator:3, Водяная мельница
-extrautils2:passivegenerator:4, Ветрянная мельница
-extrautils2:passivegenerator:5, Огенная мельница
-extrautils2:passivegenerator:6, Креативная мельница
-extrautils2:passivegenerator:7, Ручная мельница
-extrautils2:passivegenerator:8, Мельница драконьего яйца
-extrautils2:supermobspawner, Востанновленый спавнер мобов
-extrautils2:cursedearth, Проклятая земля
-extrautils2:redstoneclock, Редстоун таймер
-extrautils2:compressedcobblestone:0, Сжатый булыжник
-extrautils2:compressedcobblestone:1, Дважды сжатый булыжник
-extrautils2:compressedcobblestone:2, Трижды сжатый булыжник
-extrautils2:compressedcobblestone:3, Четырежды сжатый булыжник
-extrautils2:compressedcobblestone:4, Пятикратно сжатый булыжник
-extrautils2:compressedcobblestone:5, Шестикратно сжатый булыжник
-extrautils2:compressedcobblestone:6, Семикратно сжатый булыжник
-extrautils2:compressedcobblestone:7, Восьмикратно сжатый булыжник
-extrautils2:glasscutter, Стеклорез
-extrautils2:endershard, Осколок края
-extrautils2:sickle_wood, Деревянный серп
-extrautils2:sickle_stone, Каменный серп
-extrautils2:sickle_iron, Железный серп
-extrautils2:sickle_gold, Золотой серп
-extrautils2:sickle_diamond, Алмазный серп
-extrautils2:poweroverload, Энергетическая нагрузка
-extrautils2:resonator, Резонатор
-extrautils2:suncrystal, Солнечный кристалл
-extrautils2:spotlight, Прожектор
-extrautils2:screen, Экран
-extrautils2:decorativesolid:0, Каменная колонна
-extrautils2:decorativesolid:1, Каменная плитка
-extrautils2:decorativesolid:2, Полированный камень
-extrautils2:decorativesolid:3, Обоженный камень
-extrautils2:decorativesolid:4, Песочное стекло
-extrautils2:decorativesolid:5, Узорный камень
-extrautils2:decorativesolid:6, Синий кварц
-extrautils2:decorativesolid:7, Сгоревший кварц
-extrautils2:decorativesolid:8, Радужный камень
-extrautils2:ingredients:0, Резонирующий красный кристалл
-extrautils2:ingredients:1, Редстоуновая шестеренка
-extrautils2:ingredients:2, Око красной пыли
-extrautils2:ingredients:3, Лунный элемент
-extrautils2:ingredients:4, Красный уголь
-extrautils2:ingredients:5, Лунный камень
-extrautils2:ingredients:6, Улучшение скорость
-extrautils2:ingredients:7, Улучшение стак
-extrautils2:ingredients:8, Улучшение добыча
-extrautils2:ingredients:9, Улучшение основа
-extrautils2:ingredients:10, Семя зла
-extrautils2:ingredients:11, Демонический слиток
-extrautils2:ingredients:12, Зачарованный слиток
-extrautils2:ingredients:13, Беспроводная RF нагревательная катушка
-extrautils2:ingredients:14, Синий краситель
-extrautils2:ingredients:15, Улучшение скорость (Магическое)
-extrautils2:ingredients:16, Улучшение Скорость (Максимальное)
-extrautils2:ingredients:17, Насыщенный злом железный слиток
-extrautils2:goldenlasso:0, Золотое лассо
-extrautils2:goldenlasso:1, Проклятое лассо
-extrautils2:chickenring:0, Кольцо куриные крылья
-extrautils2:chickenring:1, Кольцо парящего спрута
-extrautils2:angelring:0, Ангельское кольцо
-extrautils2:angelring:1, Ангельское кольцо
-extrautils2:angelring:2, Ангельское кольцо
-extrautils2:angelring:3, Ангельское кольцо
-extrautils2:angelring:4, Ангельское кольцо
-extrautils2:angelring:5, Ангельское кольцо
-extrautils2:powermanager, Менеджер питания
-extrautils2:bagofholding, Сумка удержания
-extrautils2:decorativeglass:0, Укрепленное стекло
-extrautils2:decorativeglass:1, Укрепленное стекло (Рамка)
-extrautils2:decorativeglass:2, Ажурное стекор
-extrautils2:decorativeglass:3, Темное стекло
-extrautils2:decorativeglass:4, Светящееся стекло
-extrautils2:decorativeglass:5, Редстоун стекло
-extrautils2:ineffableglass:0, Эфирное стекло
-extrautils2:ineffableglass:1, Обратное святому стеклу
-extrautils2:ineffableglass:2, Святое стекло
-extrautils2:ineffableglass:3, Темное святое стело
-extrautils2:pipe, Транспортная труба
-extrautils2:playerchest, Сундук игрока
-extrautils2:wrench, Ключ
-extrautils2:contract, Контракт
-extrautils2:filter, Фильтр
-extrautils2:filterfluids, Фильтр жидкости
-extrautils2:grocket:0, Транспортный узел (Предметы)
-extrautils2:grocket:1, Транспортный фильтр
-extrautils2:grocket:2, Транспортный узел (Жидкости)
-extrautils2:grocket:3, Поисковый узел (Предметы)
-extrautils2:grocket:4, Поисковый узел (Жидкости)
-extrautils2:grocket:5, Труба перемещения Фильтр
-extrautils2:grocket:6, Узел перемещения (Энергия)
-extrautils2:indexer, Индексатор
-extrautils2:indexerremote, Беспроводной индексатор
-extrautils2:crafter, Механический создатель
-extrautils2:scanner, Сканнер
-extrautils2:miner, Механический шахтер
-extrautils2:user, Механический пользователь
-extrautils2:klein:0, Бутылка кляйна
-extrautils2:drum:0, Каменная бочка
-extrautils2:drum:1, Железная бочка
-extrautils2:drum:2, Укрепленная большая бочка
-extrautils2:drum:3, Демоническая бочка
-extrautils2:drum:4, Креативная бочка
-extrautils2:machine:0, Корпус механизма
-extrautils2:machine:0, Печь
-extrautils2:machine:0, Дробитель
-extrautils2:machine:0, Зачаровыватель
-extrautils2:machine:0, Генератор выжившего
-extrautils2:machine:0, Генератор внутреннего сгорания
-extrautils2:machine:0, Кулинарный генератор
-extrautils2:machine:0, Магматический генератор
-extrautils2:machine:0, Генератор на разогретом редстоуне
-extrautils2:machine:0, Генератор края
-extrautils2:machine:0, Генератор на зельях
-extrautils2:machine:0, Розовый генератор
-extrautils2:machine:0, Генератор тактовой частоты
-extrautils2:machine:0, Генератор на взрывчатке
-extrautils2:machine:0, Генератор на звезде ада
-extrautils2:machine:0, Генератор дыхания дракона
-extrautils2:machine:0, Морозный генератор
-extrautils2:machine:0, Трупный генератор
-extrautils2:machine:0, Генератор на зачарованиях
-extrautils2:machine:0, Слизне генератор
-extrautils2:teleporter:0, Надземный портал
-extrautils2:teleporter:1, Глубокий темный портал
-extrautils2:powertransmitter, Беспроводной RF передатчик
-extrautils2:powerbattery, Беспроводная RF батарея
-extrautils2:quarryproxy, Блок квантового карьера
-extrautils2:quarry, Квантовый карьер
-extrautils2:spike_wood, Деревянный шип
-extrautils2:spike_stone, Каменный шип
-extrautils2:spike_iron, Железный шип
-extrautils2:spike_gold, Золотой шип
-extrautils2:spike_diamond, Алмазный шип
-extrautils2:spike_creative, Креативный шип
-extrautils2:redstonelantern, Редстоун лампа
-extrautils2:largishchest, Немного больший сундук
-extrautils2:minichest, Мини-сундук
-extrautils2:rainbowgenerator:0, Радужный генератор!
-extrautils2:rainbowgenerator:1, Радужный генератор (1-я половина)
-extrautils2:rainbowgenerator:2, Радужный генератор (2-я половина)
-extrautils2:magicapple, Волшебное яблоко
-extrautils2:simpledecorative:0, Блок зачаренного металла
-extrautils2:simpledecorative:1, Блок демонического металла
-extrautils2:simpledecorative:2, Блок насыщенного злом железа
-extrautils2:trowel, Мастерок
-extrautils2:biomemarker, Создатель биомов
-extrautils2:terraformer:0, Терраформер
-extrautils2:terraformer:1, Антенна
-extrautils2:terraformer:2, Увлажнитель
-extrautils2:terraformer:3, Осушитель
-extrautils2:terraformer:4, Обогреватель
-extrautils2:terraformer:5, Охладитель
-extrautils2:terraformer:6, Враждебный порт
-extrautils2:terraformer:7, Волшебный поглотитель
-extrautils2:terraformer:8, Волшебный выпариватель
-extrautils2:terraformer:9, Базовый блок климографа
-extrautils2:trashchest, Мусорный ящик
-extrautils2:opinium:0, Ядро опиниума I
-extrautils2:opinium:1, Ядро опиниума II
-extrautils2:opinium:2, Ядро опиниума III
-extrautils2:opinium:3, Ядро опиниума IV
-extrautils2:opinium:4, Ядро опиниума V
-extrautils2:opinium:5, Ядро опиниума VI
-extrautils2:opinium:6, Ядро опиниума VII
-extrautils2:opinium:7, Ядро опиниума VIII
-extrautils2:opinium:8, Ядро опиниума IX
-extrautils2:lawsword, Кикоку
-extrautils2:flattransfernode:0, Плоский транспортный узел (Предметы)
-extrautils2:flattransfernode:1, Плоский транспортный узел (Жидкости)
-extrautils2:analogcrafter, Аналоговый крафтер
-extrautils2:decorativebedrock:0, Бедроковые кирпичи
-extrautils2:decorativebedrock:1, Бедроковые ступени
-extrautils2:decorativebedrock:2, Бедроковый булыжник
-extrautils2:interactionproxy, Эндер порт
-extrautils2:luxsaber:0, Джедайский меч
-extrautils2:luxsaber:0, Джедайский меч
-extrautils2:luxsaber:1, Джедайский меч
-extrautils2:luxsaber:1, Джедайский меч
-extrautils2:luxsaber:2, Джедайский меч
-extrautils2:luxsaber:2, Джедайский меч
-extrautils2:luxsaber:3, Джедайский меч
-extrautils2:luxsaber:3, Джедайский меч
-extrautils2:luxsaber:4, Джедайский меч
-extrautils2:luxsaber:4, Джедайский меч
-extrautils2:luxsaber:5, Джедайский меч
-extrautils2:luxsaber:5, Джедайский меч
-extrautils2:luxsaber:6, Джедайский меч
-extrautils2:luxsaber:6, Джедайский меч
-extrautils2:luxsaber:7, Джедайский меч
-extrautils2:luxsaber:7, Джедайский меч
-extrautils2:ironwood_leaves:0, Черные листья можжевельника
-extrautils2:ironwood_leaves:1, Сожженные черные листья можжевельника
-extrautils2:ironwood_log:0, Бревно черного можжевельника
-extrautils2:ironwood_log:1, Бревно черного можжевельника
-extrautils2:ironwood_sapling:0, Сажанец черного можжевельника
-extrautils2:ironwood_sapling:1, Мертвый сажанец черного можжевельника
-extrautils2:ironwood_planks:0, Доски черного можжевельника
-extrautils2:ironwood_planks:1, Сырые доски черного можжевельника
+extrautils2:snowglobe:0, Magical Snow Globe
+extrautils2:snowglobe:1, Magical Snow Globe
+extrautils2:wateringcan, Watering Can
+extrautils2:itemcreativedestructionwand, Creative Destruction Wand
+extrautils2:unstableingots:0, Unstable Ingot
+extrautils2:unstableingots:1, Stable-'Unstable Nugget'
+extrautils2:unstableingots:2, Stable-'Unstable Ingot'
+extrautils2:itembuilderswand, Builders Wand
+extrautils2:itemdestructionwand, Destruction Wand
+extrautils2:itemcreativebuilderswand, Creative Builders Wand
+extrautils2:soundmuffler, Sound Muffler
+extrautils2:decorativesolidwood:0, Magical Planks
+extrautils2:decorativesolidwood:1, Magical Wood
+extrautils2:decorativesolidwood:2, Diagonal Wood
+extrautils2:trashcan, Trash Can
+extrautils2:trashcanfluid, Trash Can (Fluid)
+extrautils2:trashcanenergy, Trash Can (Energy)
+extrautils2:angelblock, Angel Block
+extrautils2:passivegenerator:0, Solar Panel
+extrautils2:passivegenerator:1, Lunar Panel
+extrautils2:passivegenerator:2, Lava Mill
+extrautils2:passivegenerator:3, Water Mill
+extrautils2:passivegenerator:4, Wind Mill
+extrautils2:passivegenerator:5, Fire Mill
+extrautils2:passivegenerator:6, Creative Mill
+extrautils2:passivegenerator:7, Manual Mill
+extrautils2:passivegenerator:8, Dragon Egg Mill
+extrautils2:supermobspawner, Resturbed Mob Spawner
+extrautils2:cursedearth, Cursed Earth
+extrautils2:redstoneclock, Redstone Clock
+extrautils2:compressedcobblestone:0, Compressed Cobblestone
+extrautils2:compressedcobblestone:1, Double Compressed Cobblestone
+extrautils2:compressedcobblestone:2, Triple Compressed Cobblestone
+extrautils2:compressedcobblestone:3, Quadruple Compressed Cobblestone
+extrautils2:compressedcobblestone:4, Quintuple Compressed Cobblestone
+extrautils2:compressedcobblestone:5, Sextuple Compressed Cobblestone
+extrautils2:compressedcobblestone:6, Septuple Compressed Cobblestone
+extrautils2:compressedcobblestone:7, Octuple Compressed Cobblestone
+extrautils2:glasscutter, Glass Cutter
+extrautils2:endershard, Ender Shard
+extrautils2:sickle_wood, Wooden Sickle
+extrautils2:sickle_stone, Stone Sickle
+extrautils2:sickle_iron, Iron Sickle
+extrautils2:sickle_gold, Golden Sickle
+extrautils2:sickle_diamond, Diamond Sickle
+extrautils2:poweroverload, Power Overload
+extrautils2:resonator, Resonator
+extrautils2:suncrystal, Sun Crystal
+extrautils2:spotlight, Spotlight
+extrautils2:screen, Screen
+extrautils2:decorativesolid:0, Border Stone
+extrautils2:decorativesolid:1, Crossed Stone
+extrautils2:decorativesolid:2, Polished Stone
+extrautils2:decorativesolid:3, Stoneburnt
+extrautils2:decorativesolid:4, Sandy Glass
+extrautils2:decorativesolid:5, Truchet
+extrautils2:decorativesolid:6, Blue Quartz
+extrautils2:decorativesolid:7, Quartzburnt
+extrautils2:decorativesolid:8, Rainbow Stone
+extrautils2:ingredients:0, Resonating Redstone Crystal
+extrautils2:ingredients:1, Redstone Gear
+extrautils2:ingredients:2, Eye of Redstone
+extrautils2:ingredients:3, Lunar Reactive Dust
+extrautils2:ingredients:4, Red Coal
+extrautils2:ingredients:5, Moon Stone
+extrautils2:ingredients:6, Upgrade Speed
+extrautils2:ingredients:7, Upgrade Stack
+extrautils2:ingredients:8, Upgrade Mining
+extrautils2:ingredients:9, Upgrade Base
+extrautils2:ingredients:10, Drop of Evil
+extrautils2:ingredients:11, Demon Ingot
+extrautils2:ingredients:12, Enchanted Ingot
+extrautils2:ingredients:13, Wireless RF Heating Coil
+extrautils2:ingredients:14, Blue Dye
+extrautils2:ingredients:15, Upgrade Speed (Magical)
+extrautils2:ingredients:16, Upgrade Speed (Ultimate)
+extrautils2:ingredients:17, Evil Infused Iron Ingot
+extrautils2:goldenlasso:0, Golden Lasso
+extrautils2:goldenlasso:1, Cursed Lasso
+extrautils2:chickenring:0, Chicken Wing Ring
+extrautils2:chickenring:1, Ring of the Flying Squid
+extrautils2:angelring:0, Angel Ring
+extrautils2:angelring:1, Angel Ring
+extrautils2:angelring:2, Angel Ring
+extrautils2:angelring:3, Angel Ring
+extrautils2:angelring:4, Angel Ring
+extrautils2:angelring:5, Angel Ring
+extrautils2:powermanager, Power Manager
+extrautils2:bagofholding, Bag Of Holding
+extrautils2:decorativeglass:0, Thickened Glass
+extrautils2:decorativeglass:1, Thickened Glass (Bordered)
+extrautils2:decorativeglass:2, Thickened Glass (Patterned)
+extrautils2:decorativeglass:3, Dark Glass
+extrautils2:decorativeglass:4, Glowing Glass
+extrautils2:decorativeglass:5, Redstone Glass
+extrautils2:ineffableglass:0, Ethereal Glass
+extrautils2:ineffableglass:1, Reverse Ethereal Glass
+extrautils2:ineffableglass:2, Ineffable Glass
+extrautils2:ineffableglass:3, Dark Ineffable Glass
+extrautils2:pipe, Transfer Pipe
+extrautils2:playerchest, Player Chest
+extrautils2:wrench, Wrench
+extrautils2:contract, Contract
+extrautils2:filter, Filter
+extrautils2:filterfluids, Filter Fluids
+extrautils2:grocket:0, Transfer Node (Items)
+extrautils2:grocket:1, Transfer Filter
+extrautils2:grocket:2, Transfer Node (Fluids)
+extrautils2:grocket:3, Retrieval Node (Items)
+extrautils2:grocket:4, Retrieval Node (Fluids)
+extrautils2:grocket:5, Transfer Pipe Filter
+extrautils2:grocket:6, Transfer Node (Energy)
+extrautils2:indexer, Indexer
+extrautils2:indexerremote, Indexer Remote
+extrautils2:crafter, Mechanical Crafter
+extrautils2:scanner, Scanner
+extrautils2:miner, Mechanical Miner
+extrautils2:user, Mechanical User
+extrautils2:klein:0, Klein Bottle
+extrautils2:drum:0, Stone Drum
+extrautils2:drum:1, Iron Drum
+extrautils2:drum:2, Reinforced Large Drum
+extrautils2:drum:3, Demonically Gargantuan Drum
+extrautils2:drum:4, Creative Drum
+extrautils2:machine:0, Machine Block
+extrautils2:machine:0, Furnace
+extrautils2:machine:0, Crusher
+extrautils2:machine:0, Enchanter
+extrautils2:machine:0, Survival Generator
+extrautils2:machine:0, Furnace Generator
+extrautils2:machine:0, Culinary Generator
+extrautils2:machine:0, Magmatic Generator
+extrautils2:machine:0, Heated Redstone Generator
+extrautils2:machine:0, Ender Generator
+extrautils2:machine:0, Potion Generator
+extrautils2:machine:0, Pink Generator
+extrautils2:machine:0, Overclocked Generator
+extrautils2:machine:0, Explosive Generator
+extrautils2:machine:0, Netherstar Generator
+extrautils2:machine:0, Halitosis Generator
+extrautils2:machine:0, Frosty Generator
+extrautils2:machine:0, Death Generator
+extrautils2:machine:0, Dischantment Generator
+extrautils2:machine:0, Slimey Generator
+extrautils2:teleporter:0, Overworld Portal
+extrautils2:teleporter:1, Deep Dark Portal
+extrautils2:powertransmitter, Wireless RF Transmitter
+extrautils2:powerbattery, Wireless RF Battery
+extrautils2:quarryproxy, Quantum Quarry Actuator
+extrautils2:quarry, Quantum Quarry
+extrautils2:spike_wood, Wooden Spikes
+extrautils2:spike_stone, Stone Spikes
+extrautils2:spike_iron, Iron Spikes
+extrautils2:spike_gold, Golden Spikes
+extrautils2:spike_diamond, Diamond Spikes
+extrautils2:spike_creative, Creative Spikes
+extrautils2:redstonelantern, Redstone Lantern
+extrautils2:largishchest, Slightly-Larger Chest
+extrautils2:minichest, Mini Chest
+extrautils2:rainbowgenerator:0, Rainbow Generator!
+extrautils2:rainbowgenerator:1, Rainbow Generator (bottom half)
+extrautils2:rainbowgenerator:2, Rainbow Generator (top half)
+extrautils2:magicapple, Magical Apple
+extrautils2:simpledecorative:0, Block of Enchanted Metal
+extrautils2:simpledecorative:1, Block of Demon Metal
+extrautils2:simpledecorative:2, Block of Evil Infused Iron
+extrautils2:trowel, Trowel
+extrautils2:biomemarker, Biome Marker
+extrautils2:terraformer:0, Terraformer
+extrautils2:terraformer:1, Antenna
+extrautils2:terraformer:2, Humidifier
+extrautils2:terraformer:3, Dehumidifier
+extrautils2:terraformer:4, Heater
+extrautils2:terraformer:5, Cooler
+extrautils2:terraformer:6, Dehostilifier
+extrautils2:terraformer:7, Magic Absorbtion
+extrautils2:terraformer:8, Magic Infuser
+extrautils2:terraformer:9, Climograph Base Unit
+extrautils2:trashchest, Trash Chest
+extrautils2:opinium:0, Opinium Core (Pathetic)
+extrautils2:opinium:1, Opinium Core (Mediocre)
+extrautils2:opinium:2, Opinium Core (Passable)
+extrautils2:opinium:3, Opinium Core (Decent)
+extrautils2:opinium:4, Opinium Core (Good)
+extrautils2:opinium:5, Opinium Core (Damn Good)
+extrautils2:opinium:6, Opinium Core (Amazing)
+extrautils2:opinium:7, Opinium Core (Inspiring)
+extrautils2:opinium:8, Opinium Core (Perfected)
+extrautils2:lawsword, Kikoku
+extrautils2:flattransfernode:0, Flat Transfer Node (Items)
+extrautils2:flattransfernode:1, Flat Transfer Node (Fluids)
+extrautils2:analogcrafter, Analog Crafter
+extrautils2:decorativebedrock:0, Bedrock Bricks
+extrautils2:decorativebedrock:1, Bedrock Slabs
+extrautils2:decorativebedrock:2, Bedrock Cobblestone
+extrautils2:interactionproxy, Ender Porcupine
+extrautils2:luxsaber:0, Lux Saber
+extrautils2:luxsaber:0, Lux Saber
+extrautils2:luxsaber:1, Lux Saber
+extrautils2:luxsaber:1, Lux Saber
+extrautils2:luxsaber:2, Lux Saber
+extrautils2:luxsaber:2, Lux Saber
+extrautils2:luxsaber:3, Lux Saber
+extrautils2:luxsaber:3, Lux Saber
+extrautils2:luxsaber:4, Lux Saber
+extrautils2:luxsaber:4, Lux Saber
+extrautils2:luxsaber:5, Lux Saber
+extrautils2:luxsaber:5, Lux Saber
+extrautils2:luxsaber:6, Lux Saber
+extrautils2:luxsaber:6, Lux Saber
+extrautils2:luxsaber:7, Lux Saber
+extrautils2:luxsaber:7, Lux Saber
+extrautils2:ironwood_leaves:0, Ferrous-Juniper Leaves
+extrautils2:ironwood_leaves:1, Burnt Ferrous-Juniper Leaves
+extrautils2:ironwood_log:0, Ferrous-Juniper Log
+extrautils2:ironwood_log:1, Ferrous-Juniper Log
+extrautils2:ironwood_sapling:0, Ferrous-Juniper Sapling
+extrautils2:ironwood_sapling:1, Dead Ferrous-Juniper Sapling
+extrautils2:ironwood_planks:0, Ferrous-Juniper Planks
+extrautils2:ironwood_planks:1, Raw Ferrous-Juniper Planks
 gravisuite:advancedlappack, gravisuite.advancedLappack.name
 gravisuite:advancedjetpack, gravisuite.advancedJetpack.name
 gravisuite:advancednanochestplate, gravisuite.advancedNanoChestplate.name
@@ -3220,6 +3220,223 @@ ncsteamadditions:compressed_coal, Сжатый Уголь
 ncsteamadditions:copper_wire, Медный Провод
 ncsteamadditions:core_of_transformation:0, Ядро Трансформации
 ncsteamadditions:core_of_transformation:1, item.ncsteamadditions.core_of_transformation.uranium_oxide.name
+openblocks:ladder, Люк-лестница
+openblocks:guide, Руководитель по строительству
+openblocks:builder_guide, Улучшенный руководитель по строительству
+openblocks:elevator:0, Лифт
+openblocks:elevator:1, Лифт
+openblocks:elevator:2, Лифт
+openblocks:elevator:3, Лифт
+openblocks:elevator:4, Лифт
+openblocks:elevator:5, Лифт
+openblocks:elevator:6, Лифт
+openblocks:elevator:7, Лифт
+openblocks:elevator:8, Лифт
+openblocks:elevator:9, Лифт
+openblocks:elevator:10, Лифт
+openblocks:elevator:11, Лифт
+openblocks:elevator:12, Лифт
+openblocks:elevator:13, Лифт
+openblocks:elevator:14, Лифт
+openblocks:elevator:15, Лифт
+openblocks:elevator_rotating:0, Вращающийся лифт
+openblocks:elevator_rotating:1, Вращающийся лифт
+openblocks:elevator_rotating:2, Вращающийся лифт
+openblocks:elevator_rotating:3, Вращающийся лифт
+openblocks:elevator_rotating:4, Вращающийся лифт
+openblocks:elevator_rotating:5, Вращающийся лифт
+openblocks:elevator_rotating:6, Вращающийся лифт
+openblocks:elevator_rotating:7, Вращающийся лифт
+openblocks:elevator_rotating:8, Вращающийся лифт
+openblocks:elevator_rotating:9, Вращающийся лифт
+openblocks:elevator_rotating:10, Вращающийся лифт
+openblocks:elevator_rotating:11, Вращающийся лифт
+openblocks:elevator_rotating:12, Вращающийся лифт
+openblocks:elevator_rotating:13, Вращающийся лифт
+openblocks:elevator_rotating:14, Вращающийся лифт
+openblocks:elevator_rotating:15, Вращающийся лифт
+openblocks:heal, Исцелитель
+openblocks:target, Мишень
+openblocks:grave, Могила
+openblocks:flag:5, Флаг
+openblocks:tank, Резервуар
+openblocks:trophy, Трофей
+openblocks:beartrap, Медвежий капкан
+openblocks:sprinkler, Разбрызгиватель
+openblocks:cannon, Предметная пушка
+openblocks:vacuum_hopper, Вакуумная воронка
+openblocks:sponge, Губка
+openblocks:big_button, Большая кнопка
+openblocks:big_button_wood, Большая деревянная кнопка
+openblocks:imaginary:0, Магический карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:imaginary:1, Магический цветной карандаш
+openblocks:fan, Вентилятор
+openblocks:xp_bottler, Разливщик опыта
+openblocks:village_highlighter, Подсвечиватель деревни
+openblocks:path, Путь
+openblocks:auto_anvil, Автоматическая наковальня
+openblocks:auto_enchantment_table, Автоматический стол зачаровывания
+openblocks:xp_drain, Всасыватель опыта
+openblocks:block_breaker, Разрушитель блоков
+openblocks:block_placer, Разместитель блоков
+openblocks:item_dropper, Выбрасыватель предметов
+openblocks:rope_ladder, Верёвочная лестница
+openblocks:donation_station, Станция пожертвований
+openblocks:paint_mixer, Смеситель краски
+openblocks:canvas, Холст
+openblocks:paint_can, Банка краски
+openblocks:canvas_glass, Холст
+openblocks:projector, Проектор карты высот
+openblocks:drawing_table, Стол для рисования
+openblocks:sky:0, Небесный блок
+openblocks:sky:1, Небесный блок
+openblocks:xp_shower, Насадка для потока опыта
+openblocks:golden_egg, Золотое яйцо
+openblocks:scaffolding, Строительные леса
+openblocks:hang_glider, Дельтаплан
+openblocks:generic:0, Крыло дельтаплана
+openblocks:generic:1, Балка
+openblocks:generic:2, Крановый двигатель
+openblocks:generic:3, Крановый магнит
+openblocks:generic:5, Шнур
+openblocks:generic:6, Модуль «Контроллер карты»
+openblocks:generic:7, Модуль «Память карты»
+openblocks:generic:9, Основание помощника
+openblocks:generic:10, Неподготовленный трафарет
+openblocks:generic:11, Карандаш для рисования
+openblocks:luggage, Багаж
+openblocks:sonic_glasses, Звуковые очки
+openblocks:pencil_glasses:0, Обычные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:crayon_glasses:0, Цветные очки
+openblocks:technicolor_glasses:0, Удивительные яркие очки
+openblocks:serious_glasses:0, Очки задиры
+openblocks:crane_control, Крановое управление
+openblocks:crane_backpack, Крановое хранилище
+openblocks:slimalyzer, Слаймлизёр
+openblocks:xp_bucket, Ведро опыта
+openblocks:sleeping_bag, Спальной мешок
+openblocks:paintbrush, Кисточка
+openblocks:stencil:0, Трафарет
+openblocks:stencil:1, Трафарет
+openblocks:stencil:2, Трафарет
+openblocks:stencil:3, Трафарет
+openblocks:stencil:4, Трафарет
+openblocks:stencil:5, Трафарет
+openblocks:stencil:6, Трафарет
+openblocks:stencil:7, Трафарет
+openblocks:stencil:8, Трафарет
+openblocks:stencil:9, Трафарет
+openblocks:stencil:10, Трафарет
+openblocks:stencil:11, Трафарет
+openblocks:stencil:12, Трафарет
+openblocks:stencil:13, Трафарет
+openblocks:stencil:14, Трафарет
+openblocks:squeegee, Резиновая швабра
+openblocks:empty_map, Пустая карта
+openblocks:cartographer:0, Картограф
+openblocks:tasty_clay, Вкусный клей
+openblocks:golden_eye, Золотой глаз
+openblocks:generic_unstackable:0, Указатель
+openblocks:cursor, Курсор
+openblocks:info_book, Мировое господство с OpenBlocks
+openblocks:dev_null, /dev/null
+openblocks:sponge_on_a_stick, Губка на палочке
+openblocks:pedometer, Шагомер
+openblocks:epic_eraser, Эпичный стиратель
+openblocks:wrench, Большой металлический ключ
+openblocks:glyph:32, ' ' Glyph
+openblocks:glyph:48, '0' Glyph
+openblocks:glyph:49, '1' Glyph
+openblocks:glyph:50, '2' Glyph
+openblocks:glyph:51, '3' Glyph
+openblocks:glyph:52, '4' Glyph
+openblocks:glyph:53, '5' Glyph
+openblocks:glyph:54, '6' Glyph
+openblocks:glyph:55, '7' Glyph
+openblocks:glyph:56, '8' Glyph
+openblocks:glyph:57, '9' Glyph
+openblocks:glyph:65, 'A' Glyph
+openblocks:glyph:66, 'B' Glyph
+openblocks:glyph:67, 'C' Glyph
+openblocks:glyph:68, 'D' Glyph
+openblocks:glyph:69, 'E' Glyph
+openblocks:glyph:70, 'F' Glyph
+openblocks:glyph:71, 'G' Glyph
+openblocks:glyph:72, 'H' Glyph
+openblocks:glyph:73, 'I' Glyph
+openblocks:glyph:74, 'J' Glyph
+openblocks:glyph:75, 'K' Glyph
+openblocks:glyph:76, 'L' Glyph
+openblocks:glyph:77, 'M' Glyph
+openblocks:glyph:78, 'N' Glyph
+openblocks:glyph:79, 'O' Glyph
+openblocks:glyph:80, 'P' Glyph
+openblocks:glyph:81, 'Q' Glyph
+openblocks:glyph:82, 'R' Glyph
+openblocks:glyph:83, 'S' Glyph
+openblocks:glyph:84, 'T' Glyph
+openblocks:glyph:85, 'U' Glyph
+openblocks:glyph:86, 'V' Glyph
+openblocks:glyph:87, 'W' Glyph
+openblocks:glyph:88, 'X' Glyph
+openblocks:glyph:89, 'Y' Glyph
+openblocks:glyph:90, 'Z' Glyph
+openblocks:glyph:97, 'a' Glyph
+openblocks:glyph:98, 'b' Glyph
+openblocks:glyph:99, 'c' Glyph
+openblocks:glyph:100, 'd' Glyph
+openblocks:glyph:101, 'e' Glyph
+openblocks:glyph:102, 'f' Glyph
+openblocks:glyph:103, 'g' Glyph
+openblocks:glyph:104, 'h' Glyph
+openblocks:glyph:105, 'i' Glyph
+openblocks:glyph:106, 'j' Glyph
+openblocks:glyph:107, 'k' Glyph
+openblocks:glyph:108, 'l' Glyph
+openblocks:glyph:109, 'm' Glyph
+openblocks:glyph:110, 'n' Glyph
+openblocks:glyph:111, 'o' Glyph
+openblocks:glyph:112, 'p' Glyph
+openblocks:glyph:113, 'q' Glyph
+openblocks:glyph:114, 'r' Glyph
+openblocks:glyph:115, 's' Glyph
+openblocks:glyph:116, 't' Glyph
+openblocks:glyph:117, 'u' Glyph
+openblocks:glyph:118, 'v' Glyph
+openblocks:glyph:119, 'w' Glyph
+openblocks:glyph:120, 'x' Glyph
+openblocks:glyph:121, 'y' Glyph
+openblocks:glyph:122, 'z' Glyph
 qmd:beamline, Труба пучка частиц
 qmd:linear_accelerator_controller, Контроллер линейного ускорителя
 qmd:ring_accelerator_controller, Контроллер кольцевого ускорителя (синхротрон)
@@ -6635,45 +6852,45 @@ appliedenergistics2:facade:0, Кабельный фасад - Заряженны
 appliedenergistics2:facade:0, Кабельный фасад - Dislocation Normalization Field Projector
 appliedenergistics2:facade:0, Кабельный фасад - Блок хамелиума
 appliedenergistics2:facade:0, Кабельный фасад - Камень края
-appliedenergistics2:facade:0, Кабельный фасад - Магические доски
-appliedenergistics2:facade:0, Кабельный фасад - Магическая древесина
-appliedenergistics2:facade:0, Кабельный фасад - Диагональная древесина
-appliedenergistics2:facade:0, Кабельный фасад - Ангельский блок
-appliedenergistics2:facade:0, Кабельный фасад - Проклятая земля
-appliedenergistics2:facade:0, Кабельный фасад - Редстоун таймер
-appliedenergistics2:facade:0, Кабельный фасад - Сжатый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Дважды сжатый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Трижды сжатый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Четырежды сжатый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Пятикратно сжатый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Шестикратно сжатый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Семикратно сжатый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Восьмикратно сжатый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Каменная колонна
-appliedenergistics2:facade:0, Кабельный фасад - Каменная плитка
-appliedenergistics2:facade:0, Кабельный фасад - Полированный камень
-appliedenergistics2:facade:0, Кабельный фасад - Обоженный камень
-appliedenergistics2:facade:0, Кабельный фасад - Песочное стекло
-appliedenergistics2:facade:0, Кабельный фасад - Узорный камень
-appliedenergistics2:facade:0, Кабельный фасад - Синий кварц
-appliedenergistics2:facade:0, Кабельный фасад - Сгоревший кварц
-appliedenergistics2:facade:0, Кабельный фасад - Радужный камень
-appliedenergistics2:facade:0, Кабельный фасад - Укрепленное стекло
-appliedenergistics2:facade:0, Кабельный фасад - Укрепленное стекло (Рамка)
-appliedenergistics2:facade:0, Кабельный фасад - Ажурное стекор
-appliedenergistics2:facade:0, Кабельный фасад - Темное стекло
-appliedenergistics2:facade:0, Кабельный фасад - Светящееся стекло
-appliedenergistics2:facade:0, Кабельный фасад - Редстоун стекло
-appliedenergistics2:facade:0, Кабельный фасад - Блок зачаренного металла
-appliedenergistics2:facade:0, Кабельный фасад - Блок демонического металла
-appliedenergistics2:facade:0, Кабельный фасад - Блок насыщенного злом железа
-appliedenergistics2:facade:0, Кабельный фасад - Бедроковые кирпичи
-appliedenergistics2:facade:0, Кабельный фасад - Бедроковые ступени
-appliedenergistics2:facade:0, Кабельный фасад - Бедроковый булыжник
-appliedenergistics2:facade:0, Кабельный фасад - Бревно черного можжевельника
-appliedenergistics2:facade:0, Кабельный фасад - Бревно черного можжевельника
-appliedenergistics2:facade:0, Кабельный фасад - Доски черного можжевельника
-appliedenergistics2:facade:0, Кабельный фасад - Сырые доски черного можжевельника
+appliedenergistics2:facade:0, Кабельный фасад - Magical Planks
+appliedenergistics2:facade:0, Кабельный фасад - Magical Wood
+appliedenergistics2:facade:0, Кабельный фасад - Diagonal Wood
+appliedenergistics2:facade:0, Кабельный фасад - Angel Block
+appliedenergistics2:facade:0, Кабельный фасад - Cursed Earth
+appliedenergistics2:facade:0, Кабельный фасад - Redstone Clock
+appliedenergistics2:facade:0, Кабельный фасад - Compressed Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Double Compressed Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Triple Compressed Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Quadruple Compressed Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Quintuple Compressed Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Sextuple Compressed Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Septuple Compressed Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Octuple Compressed Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Border Stone
+appliedenergistics2:facade:0, Кабельный фасад - Crossed Stone
+appliedenergistics2:facade:0, Кабельный фасад - Polished Stone
+appliedenergistics2:facade:0, Кабельный фасад - Stoneburnt
+appliedenergistics2:facade:0, Кабельный фасад - Sandy Glass
+appliedenergistics2:facade:0, Кабельный фасад - Truchet
+appliedenergistics2:facade:0, Кабельный фасад - Blue Quartz
+appliedenergistics2:facade:0, Кабельный фасад - Quartzburnt
+appliedenergistics2:facade:0, Кабельный фасад - Rainbow Stone
+appliedenergistics2:facade:0, Кабельный фасад - Thickened Glass
+appliedenergistics2:facade:0, Кабельный фасад - Thickened Glass (Bordered)
+appliedenergistics2:facade:0, Кабельный фасад - Thickened Glass (Patterned)
+appliedenergistics2:facade:0, Кабельный фасад - Dark Glass
+appliedenergistics2:facade:0, Кабельный фасад - Glowing Glass
+appliedenergistics2:facade:0, Кабельный фасад - Redstone Glass
+appliedenergistics2:facade:0, Кабельный фасад - Block of Enchanted Metal
+appliedenergistics2:facade:0, Кабельный фасад - Block of Demon Metal
+appliedenergistics2:facade:0, Кабельный фасад - Block of Evil Infused Iron
+appliedenergistics2:facade:0, Кабельный фасад - Bedrock Bricks
+appliedenergistics2:facade:0, Кабельный фасад - Bedrock Slabs
+appliedenergistics2:facade:0, Кабельный фасад - Bedrock Cobblestone
+appliedenergistics2:facade:0, Кабельный фасад - Ferrous-Juniper Log
+appliedenergistics2:facade:0, Кабельный фасад - Ferrous-Juniper Log
+appliedenergistics2:facade:0, Кабельный фасад - Ferrous-Juniper Planks
+appliedenergistics2:facade:0, Кабельный фасад - Raw Ferrous-Juniper Planks
 appliedenergistics2:facade:0, Кабельный фасад - Медная руда
 appliedenergistics2:facade:0, Кабельный фасад - Оловянная руда
 appliedenergistics2:facade:0, Кабельный фасад - Свинцовая руда
@@ -6716,6 +6933,9 @@ appliedenergistics2:facade:0, Кабельный фасад - Тритиевая
 appliedenergistics2:facade:0, Кабельный фасад - Застывший кориум
 appliedenergistics2:facade:0, Кабельный фасад - Блок Цинка
 appliedenergistics2:facade:0, Кабельный фасад - Цинковая руда
+appliedenergistics2:facade:0, Кабельный фасад - Лифт
+appliedenergistics2:facade:0, Кабельный фасад - Губка
+appliedenergistics2:facade:0, Кабельный фасад - Строительные леса
 appliedenergistics2:facade:0, Кабельный фасад - Карбид вольфрамовый отражатель нейтронов
 appliedenergistics2:facade:0, Кабельный фасад - Газоразрядная лампа
 appliedenergistics2:facade:0, Кабельный фасад - Водородная газоразрядная лампа
@@ -12386,6 +12606,18 @@ galacticresearch:satellite_rocket:0, Спутниковая Ракета
 galacticresearch:mining_rocket:0, Добывающая Ракета
 galacticresearch:probe, Спутник
 galacticresearch:research_paper, Исследовательский Отчет
+threng:machine:0, Изменчивый агрегатор
+threng:machine:1, Пульсирующая центрифуга
+threng:machine:2, МЭ Сдавливатель схем
+threng:machine:3, Вытяжная сборочная единица
+threng:machine:4, МЭ Поддерживатель уровня
+threng:machine:5, Crystal Energizer
+threng:big_assembler:0, Рамка массивного сборщика
+threng:big_assembler:1, Выход массивного сборщика
+threng:big_assembler:2, Контроллер массивного сборщика
+threng:big_assembler:3, МС Шаблон провайдера
+threng:big_assembler:4, МС Крафт-сопроцессор
+threng:big_assembler:5, Mass Assembler IO Port
 threng:material:0, Изменчивое железо
 threng:material:1, Карбоновый изменчивый сплав
 threng:material:2, Изменчивая железная пластина
@@ -12401,18 +12633,6 @@ threng:material:11, Спекулятивное ядро (16x)
 threng:material:12, Спекулятивное ядро (32x)
 threng:material:13, Спекулятивное ядро (64x)
 threng:material:14, Спекулятивный процессор
-threng:machine:0, Изменчивый агрегатор
-threng:machine:1, Пульсирующая центрифуга
-threng:machine:2, МЭ Сдавливатель схем
-threng:machine:3, Вытяжная сборочная единица
-threng:machine:4, МЭ Поддерживатель уровня
-threng:machine:5, Crystal Energizer
-threng:big_assembler:0, Рамка массивного сборщика
-threng:big_assembler:1, Выход массивного сборщика
-threng:big_assembler:2, Контроллер массивного сборщика
-threng:big_assembler:3, МС Шаблон провайдера
-threng:big_assembler:4, МС Крафт-сопроцессор
-threng:big_assembler:5, Mass Assembler IO Port
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
 mbtool:mbtool, Мультистроительный инструмент
 patchouli:guide_book, Руководство

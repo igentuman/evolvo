@@ -36,12 +36,8 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:ingotAluminium>.remove(<immersiveengineering:metal:1>);
 <ore:ingotAluminium>.remove(<nuclearcraft:ingot:12>);
 
-
 <ore:ingotSilver>.remove(<nuclearcraft:ingot:13>);
 
 <ore:ingotOsmium>.remove(<qmd:ingot:8>);
-
-<ore:ingotTitanium>.remove(<galacticraftplanets:item_basic_asteroids>);
-
 
 

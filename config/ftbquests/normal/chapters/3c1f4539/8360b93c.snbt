@@ -13,11 +13,22 @@
 			item: "immersiveengineering:tool"
 		},
 		{
-			item: "industrialupgrade:forge_hammer"
+			item: "ic2:forge_hammer"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b,
 		only_from_crafting: false
+	},
+	{
+		uid: "cafa02cb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool 1 1"
+		},
+		{
+			item: "ic2:cutter"
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "ec2e07b7",

@@ -3,9 +3,7 @@
 	icon: "minecraft:stone_pickaxe",
 	x: -3.0d,
 	y: -6.0d,
-	dependencies: [
-		"c6323579"
-	],
+	size: 2.0d,
 	tasks: [{
 		uid: "8d32b9f5",
 		type: "item",
@@ -33,5 +31,50 @@
 		items: [{
 			item: "minecraft:chest"
 		}]
+	},
+	{
+		uid: "ce817936",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ore"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1023439f",
+		type: "item",
+		items: [{
+			item: "ic2:resource 1 1"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "54de82b4",
+		type: "item",
+		items: [{
+			item: "ic2:resource 1 3"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "1575457f",
+		type: "item",
+		items: [{
+			item: "ic2:resource 1 2"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "a3d0a6f4",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "2c84e21a",
+		type: "random",
+		table: 0
 	}]
 }

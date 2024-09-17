@@ -1,7 +1,13 @@
-mods.MobStages.addStage("stone_age", "mutantbeasts:creeper_minion");
-mods.MobStages.addStage("stone_age", "mutantbeasts:mutant_creeper");
-mods.MobStages.addStage("stone_age", "mutantbeasts:mutant_enderman");
-mods.MobStages.addStage("stone_age", "mutantbeasts:mutant_skeleton");
-mods.MobStages.addStage("stone_age", "mutantbeasts:mutant_snow_golem");
-mods.MobStages.addStage("stone_age", "mutantbeasts:mutant_zombie");
-mods.MobStages.addStage("stone_age", "mutantbeasts:spider_pig");
+mods.MobStages.addStage("tier_1", "minecraft:creeper");
+mods.MobStages.addStage("tier_1", "mutantbeasts:mutant_zombie");
+mods.MobStages.addStage("tier_1", "cyberware:cyberzombie");
+
+mods.MobStages.addStage("tier_2", "mutantbeasts:mutant_skeleton");
+mods.MobStages.addStage("tier_2", "mutantbeasts:creeper_minion");
+
+mods.MobStages.addStage("tier_3", "grue:entitygrue");
+mods.MobStages.addStage("tier_3", "mutantbeasts:mutant_creeper");
+mods.MobStages.addStage("tier_3", "mutantbeasts:mutant_enderman");
+mods.MobStages.addStage("tier_3", "mutantbeasts:mutant_snow_golem");
+
+mods.MobStages.addStage("no_stage", "mutantbeasts:spider_pig");

@@ -14,31 +14,24 @@
 		}]
 	},
 	{
-		uid: "320332c1",
+		uid: "71071ea4",
 		type: "item",
 		items: [{
-			item: "industrialupgrade:classicore"
+			item: "ic2:resource 1 1"
 		}]
 	},
 	{
-		uid: "329d526e",
+		uid: "c47166b1",
 		type: "item",
 		items: [{
-			item: "industrialupgrade:classicore 1 1"
+			item: "ic2:resource 1 3"
 		}]
 	},
 	{
-		uid: "7d5f4349",
+		uid: "e1bb7feb",
 		type: "item",
 		items: [{
-			item: "industrialupgrade:classicore 1 2"
-		}]
-	},
-	{
-		uid: "7b34005e",
-		type: "item",
-		items: [{
-			item: "minecraft:coal"
+			item: "ic2:resource 1 2"
 		}]
 	}],
 	rewards: [{

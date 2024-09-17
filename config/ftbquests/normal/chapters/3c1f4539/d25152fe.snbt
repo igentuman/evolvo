@@ -37,5 +37,10 @@
 		items: [{
 			item: "extrautils2:filterfluids"
 		}]
+	}],
+	rewards: [{
+		uid: "b61d0d52",
+		type: "random",
+		table: 0
 	}]
 }
