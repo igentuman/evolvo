@@ -1,6 +1,6 @@
 {
 	"populate": {
-        "diamonds": {
+        "diamonds_asteroid": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {

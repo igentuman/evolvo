@@ -1,6 +1,6 @@
 {
 	"populate": {
-        "diamonds": {
+        "diamonds_mars": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {

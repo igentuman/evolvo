@@ -1,7 +1,7 @@
 {
 	"priority": 100000000000,
 	"populate": {
-        "osmium": {
+        "osmium_moon": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -24,7 +24,7 @@
 				]
 			}
 		},
-		"silver": {
+		"silver_moon": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -47,7 +47,7 @@
 				]
 			}
 		},
-		"nickel": {
+		"nickel_moon": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -70,7 +70,7 @@
 				]
 			}
 		},
-        "boron": {
+        "boron_moon": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -119,7 +119,7 @@
 				]
 			}
 		},
-        "certus_quartz": {
+        "certus_quartz_moon": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {

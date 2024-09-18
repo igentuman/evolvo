@@ -285,7 +285,6 @@ hideItems([
     <galacticraftplanets:titanium_shovel>,
     <galacticraftplanets:titanium_sword>,
 	<minecraft:chainmail_leggings>,
-	<galacticraftcore:basic_block_core:7>,
 	<galacticraftcore:ic2compat:1>,
 	<galacticraftcore:ic2compat:2>,
 	<minecraft:chainmail_boots>,

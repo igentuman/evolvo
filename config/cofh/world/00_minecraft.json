@@ -236,7 +236,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 4
 			},
-			"cluster-count": 2,
+			"cluster-count": 3,
 			"min-height": 0,
 			"max-height": 16,
 			"retrogen": false,
@@ -259,7 +259,7 @@
 			"generator": {
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 3
 			},
 			"cluster-count": 1,
 			"min-height": 0,
@@ -380,7 +380,7 @@
 			"generator": {
 				"block": "quartz_ore",
 				"material": "minecraft:netherrack",
-				"cluster-size": 2
+				"cluster-size": 5
 			},
 			"cluster-count": 2,
 			"min-height": 10,

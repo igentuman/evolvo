@@ -82,7 +82,7 @@
 				]
 			}
 		},
-		"uranium": {
+		"uranium_waste": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -122,7 +122,7 @@
 				]
 			}
 		},
-		"thorium": {
+		"thorium_waste": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {

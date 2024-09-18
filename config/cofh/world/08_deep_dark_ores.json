@@ -1,7 +1,7 @@
 {
 	"priority": 100000000000,
 	"populate": {
-		"copper": {
+		"copper_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -25,7 +25,7 @@
 			}
 		},
 
-		"nikel": {
+		"nikel_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -48,7 +48,7 @@
 				]
 			}
 		},
-		"aluminium": {
+		"aluminium_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -72,7 +72,7 @@
 			}
 		},
 
-		"uranium": {
+		"uranium_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -100,7 +100,7 @@
 				]
 			}
 		},
-		"thorium": {
+		"thorium_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -129,13 +129,13 @@
 				]
 			}
 		},
-		"tin": {
+		"tin_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
 					"name": "ic2:resource",
-					"metadata": 2
+					"metadata": 3
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 9
@@ -152,7 +152,7 @@
 				]
 			}
 		},
-		"silver": {
+		"silver_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -175,7 +175,7 @@
 				]
 			}
 		},
-		"lead": {
+		"lead_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
@@ -198,7 +198,30 @@
 				]
 			}
 		},
-		"magnesium": {
+		"osmium_deep": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "mekanism:oreblock"
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 9
+			},
+			"cluster-count": 4,
+			"min-height": 10,
+			"max-height": 70,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0,
+					-9999
+				]
+			}
+		},
+		"magnesium_deep": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
