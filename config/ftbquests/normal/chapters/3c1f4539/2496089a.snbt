@@ -1,0 +1,40 @@
+{
+	x: 0.5d,
+	y: 0.0d,
+	dependencies: [
+		"12e9fd74"
+	],
+	tasks: [{
+		uid: "bc1577ef",
+		type: "item",
+		items: [{
+			item: "minecraft:bread"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "bae20c95",
+		type: "item",
+		items: [{
+			item: "minecraft:baked_potato"
+		}],
+		count: 8L,
+		consume_items: true
+	},
+	{
+		uid: "b2c05699",
+		type: "item",
+		items: [{
+			item: "minecraft:beetroot_soup"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f8c27ac6",
+		type: "random",
+		table: 0
+	}]
+}
