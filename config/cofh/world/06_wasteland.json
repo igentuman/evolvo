@@ -88,8 +88,8 @@
 			"generator": {
 				"type": "large-vein",
 				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 3
+					"name": "ic2:resource",
+					"metadata": 4
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 48
@@ -128,8 +128,8 @@
 			"generator": {
 				"type": "large-vein",
 				"block": {
-					"name": "industrialupgrade:thorium_ore",
-					"metadata": 0
+					"name": "nuclearcraft:ore",
+					"metadata": 3
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 48
@@ -161,127 +161,6 @@
 					4598
 				]
 			}
-		},
-		
-		"curium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"type": "large-vein",
-				"block": {
-					"name": "industrialupgrade:blockradiationore",
-					"metadata": 2
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 38
-			},
-			"cluster-count": 2,
-			"vein-height": 15,
-			"vein-diameter": 4,
-			"vertical-density": 3,
-			"horizontal-density": 7,
-			"min-height": 10,
-			"max-height": 75,
-			"retrogen": "false",
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"nuclearcraft:wasteland",
-							"nuclearcraft:nuclear_wasteland"
-						]
-					}
-				]
-			},
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					0,
-					4598
-				]
-			}
-		},
-		"neptunium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"type": "large-vein",
-				"block": {
-					"name": "industrialupgrade:blockradiationore",
-					"metadata": 1
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 58
-			},
-			"cluster-count": 1,
-			"vein-height": 15,
-			"vein-diameter": 4,
-			"vertical-density": 3,
-			"horizontal-density": 7,
-			"min-height": 10,
-			"max-height": 75,
-			"retrogen": "false",
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"nuclearcraft:wasteland",
-							"nuclearcraft:nuclear_wasteland"
-						]
-					}
-				]
-			},
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					0,
-					4598
-				]
-			}
-		},
-		"uranite": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"type": "large-vein",
-				"block": {
-					"name": "industrialupgrade:heavyore",
-					"metadata": 6
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 98
-			},
-			"cluster-count": 1,
-			"vein-height": 15,
-			"vein-diameter": 4,
-			"vertical-density": 3,
-			"horizontal-density": 7,
-			"min-height": 0,
-			"max-height": 75,
-			"retrogen": "false",
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"nuclearcraft:wasteland",
-							"nuclearcraft:nuclear_wasteland"
-						]
-					}
-				]
-			},
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					0,
-					4598
-				]
-			}
-		},
+		}
 	}
 }

@@ -6,8 +6,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 0
+					"name": "ic2:resource",
+					"metadata": 1
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 8
@@ -54,8 +54,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 6
+					"name": "immersiveengineering:ore",
+					"metadata": 4
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 8
@@ -78,7 +78,7 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:baseore",
+					"name": "galacticraftcore:basic_block_core",
 					"metadata": 1
 				},
 				"material": "minecraft:stone",
@@ -97,37 +97,13 @@
 				]
 			}
 		},
-		"nickel": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 6
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 3
-			},
-			"cluster-count": 4,
-			"min-height": 40,
-			"max-height": 75,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					0,
-					-9999
-				]
-			}
-		},
 		"uranium": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 3
+					"name": "ic2:resource",
+					"metadata": 4
 				},
 				"material": [
 					"minecraft:stone",
@@ -155,7 +131,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:thorium_ore"
+					"name": "nuclearcraft:ore",
+					"metadata": 3
 				},
 				"material": [
 					"minecraft:stone",
@@ -184,7 +161,7 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
+					"name": "ic2:resource",
 					"metadata": 2
 				},
 				"material": "minecraft:stone",
@@ -207,8 +184,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 11
+					"name": "immersiveengineering:ore",
+					"metadata": 3
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 4
@@ -226,61 +203,12 @@
 				]
 			}
 		},
-		"cadmium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore1",
-					"metadata": 5
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 5,
-			"max-height": 30,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"tantalum": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore1",
-					"metadata": 4
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 5,
-			"max-height": 30,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
 		"osmium": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:baseore1",
-					"metadata": 3
+					"name": "mekanism:oreblock"
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 4
@@ -298,37 +226,13 @@
 				]
 			}
 		},
-		
-		"tungsten": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 3
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 10,
-			"max-height": 20,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
+
 		"lead": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
+					"name": "ic2:resource",
 					"metadata": 2
 				},
 				"material": "minecraft:stone",
@@ -352,8 +256,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 0
+					"name": "ic2:resource",
+					"metadata": 1
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 8
@@ -384,8 +288,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 0
+					"name": "ic2:resource",
+					"metadata": 1
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 9
@@ -403,85 +307,13 @@
 				]
 			}
 		},
-		"germanium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 15
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 2
-			},
-			"cluster-count": 2,
-			"min-height": 10,
-			"max-height": 20,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"cobalt": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 4
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 2,
-			"min-height": 10,
-			"max-height": 30,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"iridium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 14
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 2
-			},
-			"cluster-count": 1,
-			"min-height": 1,
-			"max-height": 10,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
 		"magnesium": {
 			"enabled": "true",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 5
+					"name": "nuclearcraft:ore",
+					"metadata": 7
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 4
@@ -489,246 +321,6 @@
 			"cluster-count": 3,
 			"min-height": 20,
 			"max-height": 40,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"manganese": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 13
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 4,
-			"min-height": 10,
-			"max-height": 40,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"zinc": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 12
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 6
-			},
-			"cluster-count": 5,
-			"min-height": 20,
-			"max-height": 70,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"mikhail": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 0
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 3
-			},
-			"cluster-count": 1,
-			"min-height": 1,
-			"max-height": 10,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"vanadium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 2
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 2,
-			"max-height": 15,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"titanium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 8
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 1,
-			"max-height": 15,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"chromium": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 9
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 3,
-			"min-height": 10,
-			"max-height": 70,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"shpinel": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:baseore",
-					"metadata": 10
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 1,
-			"max-height": 20,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"topaz": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:blockpreciousore",
-					"metadata": 2
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 2,
-			"min-height": 10,
-			"max-height": 20,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"sapphfire": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:blockpreciousore",
-					"metadata": 1
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 10,
-			"max-height": 20,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-                    0,
-					-9999
-				]
-			}
-		},
-		"ruby": {
-			"enabled": "true",
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "industrialupgrade:blockpreciousore",
-					"metadata": 0
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 4
-			},
-			"cluster-count": 1,
-			"min-height": 10,
-			"max-height": 20,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {

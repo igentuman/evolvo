@@ -6,12 +6,11 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:baseore1",
-					"metadata": 3
+					"name": "mekanism:oreblock"
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 80,
-				"type": "large-vein",
+				"type": "large-vein"
 			},	
 			"cluster-count": 6,
 			"min-height": 5,
@@ -30,8 +29,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 11
+					"name": "immersiveengineering:ore",
+					"metadata": 3
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 100
@@ -53,8 +52,8 @@
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "industrialupgrade:classicore",
-					"metadata": 6
+					"name": "immersiveengineering:ore",
+					"metadata": 4
 				},
 				"material": "minecraft:stone",
 				"cluster-size": 6
@@ -126,11 +125,11 @@
 			"generator": {
 				"block": [
 					{
-						"name": "appliedenergistics2:charged_quartz_ore"
+						"name": "appliedenergistics2:charged_quartz_ore",
 						"weight": 10
 					},
 					{
-						"name": "appliedenergistics2:quartz_ore"
+						"name": "appliedenergistics2:quartz_ore",
 						"weight": 90
 					}
 				],

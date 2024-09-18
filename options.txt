@@ -98,9 +98,6 @@ key_Галактическая карта:50
 key_Открыть инвентарь космического корабля:33
 key_Переключить режим Очков с сенсорами:37
 key_Gravi Fly Key:33
-key_openblocks.keybind.vario_switch:47
-key_openblocks.keybind.vario_vol_up:0
-key_openblocks.keybind.vario_vol_down:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
