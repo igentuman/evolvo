@@ -578,6 +578,7 @@ removeAndHideAndFurnaceItems([
 
 
 removeRecipes([
+    <ic2:crafting:1>,
 	<rftools:builder>,
 	<draconicevolution:particle_generator:2>,
 	<galacticraftcore:landing_pad>,

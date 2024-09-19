@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -75,7 +75,7 @@ key_key.spectatorOutlines:0
 key_key.swapHands:33
 key_key.saveToolbarActivator:46
 key_key.loadToolbarActivator:45
-key_key.advancements:38
+key_key.advancements:0
 key_key.hotbar.1:2
 key_key.hotbar.2:3
 key_key.hotbar.3:4
@@ -93,17 +93,20 @@ key_Hub Expand Key:45
 key_key.xu2.searchforitems:20
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
-key_key.ftbquests.quests:0
+key_key.ftbquests.quests:41
 key_Галактическая карта:50
 key_Открыть инвентарь космического корабля:33
 key_Переключить режим Очков с сенсорами:37
 key_Gravi Fly Key:33
+key_openblocks.keybind.vario_switch:47
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
 key_key.jei.toggleEditMode:0
-key_key.jei.showRecipe:19
-key_key.jei.showUses:22
+key_key.jei.showRecipe:0
+key_key.jei.showUses:0
 key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
@@ -117,10 +120,10 @@ key_key.open_wireless_fluid_terminal.desc:33:SHIFT
 key_mekanism.key.mode:50
 key_mekanism.key.armorMode:34
 key_mekanism.key.feetMode:35
-key_mekanism.key.voice:22
-key_cyberware.keybinds.menu:19
-key_key.draconicevolution.placeItem:25
-key_key.draconicevolution.toolConfig:46
+key_mekanism.key.voice:0
+key_cyberware.keybinds.menu:0
+key_key.draconicevolution.placeItem:0
+key_key.draconicevolution.toolConfig:0
 key_key.draconicevolution.toolProfileChange:43
 key_key.draconicevolution.armorProfileChange:43:ALT
 key_key.draconicevolution.toggleFlight:0
@@ -129,7 +132,7 @@ key_key.draconicevolution.cycleDigAOE:0
 key_key.draconicevolution.cycleAttackAOE:0
 key_key.draconicevolution.toggleShields:0
 key_key.clipboardPaste:210
-key_key.toggleLiquids:38
+key_key.toggleLiquids:0
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
