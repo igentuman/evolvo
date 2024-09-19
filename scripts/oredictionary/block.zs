@@ -30,7 +30,6 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:blockMagnesium>.remove(<nuclearcraft:ingot_block:7>);
 
 <ore:blockSteel>.remove(<mekanism:basicblock:5>);
-<ore:blockSteel>.remove(<immersiveengineering:storage:8>);
 
 <ore:blockBronze>.remove(<mekanism:basicblock:1>);
 
@@ -41,3 +40,5 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:blockAluminium>.remove(<nuclearcraft:ingot_block:12>);
 
 <ore:blockZinc>.remove(<ncsteamadditions:ingot_block>);
+
+<ore:blockRefinedSteel>.add(<immersiveengineering:storage:8>);

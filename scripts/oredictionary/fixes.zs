@@ -12,6 +12,7 @@ import mods.jei.JEI;
 BlastFurnace.removeRecipe(<immersiveengineering:metal:8>);
 BlastFurnace.removeRecipe(<immersiveengineering:storage:8>);
 ArcFurnace.removeRecipe(<immersiveengineering:metal:8>);
+BlastFurnace.addRecipe(<immersiveengineering:storage:8>, <ore:blockSteel>, 500);
 BlastFurnace.addRecipe(<ic2:ingot:5>, <ore:ingotIron>, 2000);
 BlastFurnace.addRecipe(<ic2:resource:8>, <ore:blockIron>, 4000);
 ArcFurnace.addRecipe(<ic2:ingot:5>, <ore:ingotIron>, null, 10, 4096, [<ore:coal>], "Alloying");

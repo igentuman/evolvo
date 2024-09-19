@@ -1,22 +1,23 @@
 {
-  "name": "Energy Core Stabilizer",
-
-
-  "target-block": "draconicevolution:particle_generator",
-  "target-count": 39,
-  "target-meta": 2,
-
-  "duration": 5000,
-
-  "catalyst": "draconicevolution:draconic_core",
+  "name": "Fusion Crafting Core",
+  "label": "Fusion Crafting Core",
+  "target-item": "draconicevolution:energy_storage_core",
+  "target-meta": 0,
+  "duration": 3000,
+  "catalyst": "draconicevolution:energy_crystal",
   "catalyst-meta": 0,
-
   "input-types": {
     "a": {
-      "id": "minecraft:diamond_block"
+      "id": "draconicevolution:draconium_block",
+      "meta": 0
     },
     "b": {
-      "id": "minecraft:gold_block"
+      "id": "immersiveengineering:sheetmetal",
+      "meta": 8
+    },
+    "c": {
+      "id": "minecraft:quartz_block",
+      "meta": 0
     }
   },
   "shape": [
@@ -152,13 +153,13 @@
     ],
     [
       [
-        "b",
+        "c",
         "_",
         "_",
         "_",
         "_",
         "_",
-        "b"
+        "c"
       ],
       [
         "_",
@@ -206,13 +207,13 @@
         "_"
       ],
       [
-        "b",
+        "c",
         "_",
         "_",
         "_",
         "_",
         "_",
-        "b"
+        "c"
       ]
     ],
     [
@@ -282,13 +283,13 @@
     ],
     [
       [
-        "b",
+        "c",
         "_",
         "_",
         "_",
         "_",
         "_",
-        "b"
+        "c"
       ],
       [
         "_",
@@ -336,13 +337,13 @@
         "_"
       ],
       [
-        "b",
+        "c",
         "_",
         "_",
         "_",
         "_",
         "_",
-        "b"
+        "c"
       ]
     ],
     [

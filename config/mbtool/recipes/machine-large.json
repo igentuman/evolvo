@@ -1,18 +1,18 @@
 {
-  "name": "compactmachines3:machine-maximum",
+  "name": "compactmachines3:machine-large",
+  "label": "compactmachines3:machine-large",
   "target-item": "compactmachines3:machine",
-  "target-meta": 5,
+  "target-meta": 3,
   "target-count": 1,
 
-  "duration": 2000,
+  "duration": 1220,
 
 
   "catalyst": "enderio:block_infinity_fog",
   "catalyst-meta": 0,
 
   "input-types": {
-    "w": { "id": "compactmachines3:wallbreakable" },
-    "e": { "id": "extrautils2:simpledecorative"}
+    "w": { "id": "compactmachines3:wallbreakable" }
   },
 
   "symmetrical": true,
@@ -34,7 +34,7 @@
     [
       ["w","w","_","w","w"],
       ["w","_","_","_","w"],
-      ["_","_","e","_","_"],
+      ["_","_","_","_","_"],
       ["w","_","_","_","w"],
       ["w","w","_","w","w"]
     ],

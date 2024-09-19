@@ -1,10 +1,11 @@
 {
-  "name": "compactmachines3:machine-maximum",
+  "name": "compactmachines3:machine-giant",
+  "label": "compactmachines3:machine-giant",
   "target-item": "compactmachines3:machine",
-  "target-meta": 5,
+  "target-meta": 4,
   "target-count": 1,
 
-  "duration": 2000,
+  "duration": 1560,
 
 
   "catalyst": "enderio:block_infinity_fog",
@@ -12,7 +13,7 @@
 
   "input-types": {
     "w": { "id": "compactmachines3:wallbreakable" },
-    "e": { "id": "extrautils2:simpledecorative"}
+    "d": { "id": "minecraft:iron_block" }
   },
 
   "symmetrical": true,
@@ -34,7 +35,7 @@
     [
       ["w","w","_","w","w"],
       ["w","_","_","_","w"],
-      ["_","_","e","_","_"],
+      ["_","_","d","_","_"],
       ["w","_","_","_","w"],
       ["w","w","_","w","w"]
     ],

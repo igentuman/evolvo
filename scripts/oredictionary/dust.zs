@@ -7,7 +7,7 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:dustUranium>.remove(<nuclearcraft:dust:4>);
 <ore:dustUranium>.remove(<immersiveengineering:metal:14>);
 
-<ore:dustOsmium>.remove(<mekanism:dust:2>);
+<ore:dustOsmium>.remove(<qmd:dust:8>);
 
 <ore:dustCopper>.remove(<enderio:item_material:26>);
 <ore:dustCopper>.remove(<immersiveengineering:metal:9>);
@@ -42,6 +42,8 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:dustIron>.remove(<mekanism:dust>);
 
 <ore:dustAluminium>.remove(<immersiveengineering:metal:10>);
+<ore:dustAluminum>.remove(<immersiveengineering:metal:10>);
+<ore:dustAluminum>.remove(<nuclearcraft:dust:12>);
 <ore:dustAluminium>.remove(<galacticraftcore:ic2compat>);
 <ore:dustAluminium>.remove(<nuclearcraft:dust:12>);
 

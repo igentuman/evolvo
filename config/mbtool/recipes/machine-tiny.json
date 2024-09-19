@@ -1,5 +1,6 @@
 {
   "name": "compactmachines3:machine-tiny",
+  "label": "compactmachines3:machine-tiny",
   "target-item": "compactmachines3:machine",
   "target-meta": 0,
   "target-count": 1,

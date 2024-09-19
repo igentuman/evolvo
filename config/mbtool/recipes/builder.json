@@ -1,7 +1,7 @@
 {
   "name": "Builder",
-
-  "target-block": "rftools:builder",
+  "label": "Builder",
+  "target-item": "rftools:builder",
   "target-count": 1,
   "target-meta": 0,
 

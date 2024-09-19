@@ -163,7 +163,6 @@ removeAndHideItems([
     <galacticraftplanets:walkway:1>,
     <immersiveengineering:metal:39>,
     <randomthings:floosign>,
-    <galacticraftcore:basic_item:5>,
     <immersiveengineering:metal:1>,
     <immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:uncontrolled"}),
     <immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:dropper"}),
@@ -196,8 +195,8 @@ removeAndHideItems([
     <immersiveengineering:metal_device1:10>,
     <immersiveengineering:metal:21>,
     <immersiveengineering:metal:10>,
-    <galacticraftcore:ic2compat>,
     <enderio:item_endergy_conduit:2>,
+    <nuclearcraft:dust:12>,
     <mekanism:dust>,
     <enderio:item_endergy_conduit:1>,
     <appliedenergistics2:material:40>,
@@ -292,6 +291,7 @@ removeAndHideItems([
     <mutantbeasts:hulk_hammer>,
     <randomthings:emeraldcompass>,
     <randomthings:superlubricentboots>,
+    <galacticraftcore:machine:12>,
 	<qmd:sword_tungsten_carbide>,
 	<qmd:pickaxe_tungsten_carbide>,
 	<qmd:shovel_tungsten_carbide>,
@@ -513,7 +513,20 @@ removeAndHideItems([
 	<galacticraftplanets:titanium_hoe>,
 	<galacticraftplanets:titanium_axe>,
 	<galacticraftplanets:titanium_pickaxe>,
-	<galacticraftplanets:laser_turret>
+	<galacticraftplanets:laser_turret>,
+	<draconicevolution:draconic_axe>,
+    <draconicevolution:draconic_hoe>,
+    <draconicevolution:draconic_pick>,
+    <draconicevolution:draconic_shovel>,
+	<draconicevolution:wyvern_axe>,
+    <draconicevolution:wyvern_pick>,
+    <draconicevolution:wyvern_shovel>,
+    <draconicevolution:wyvern_sword>,
+    <draconicevolution:wyvern_helm>,
+    <draconicevolution:wyvern_legs>,
+    <draconicevolution:wyvern_boots>,
+    <draconicevolution:wyvern_chest>,
+	<draconicevolution:wyvern_bow>
 ]);
 
 removeAndHideAndFurnaceItems([
@@ -578,9 +591,14 @@ removeAndHideAndFurnaceItems([
 
 
 removeRecipes([
+    <immersiveengineering:storage:8>,
+    <draconicevolution:draconic_bow>,
     <ic2:crafting:1>,
 	<rftools:builder>,
+	<threng:big_assembler:2>,
 	<draconicevolution:particle_generator:2>,
+	<enderio:item_dark_steel_bow>,
+	<enderio:item_end_steel_bow>,
 	<galacticraftcore:landing_pad>,
 	<draconicevolution:dislocator>,
 	<galacticraftcore:arclamp>,

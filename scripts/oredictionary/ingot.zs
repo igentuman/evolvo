@@ -33,8 +33,11 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:ingotBronze>.remove(<mekanism:ingot:2>);
 <ore:ingotBronze>.remove(<nuclearcraft:alloy>);
 
+<ore:ingotAluminum>.remove(<immersiveengineering:metal:1>);
 <ore:ingotAluminium>.remove(<immersiveengineering:metal:1>);
 <ore:ingotAluminium>.remove(<nuclearcraft:ingot:12>);
+<ore:ingotAluminum>.remove(<nuclearcraft:ingot:12>);
+<ore:ingotAluminum>.add(<galacticraftcore:basic_item:5>);
 
 <ore:ingotSilver>.remove(<nuclearcraft:ingot:13>);
 

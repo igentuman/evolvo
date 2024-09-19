@@ -1,8 +1,8 @@
 {
   "name": "Energy Core Stabilizer",
+  "label": "Energy Core Stabilizer",
 
-
-  "target-block": "draconicevolution:particle_generator",
+  "target-item": "draconicevolution:particle_generator",
   "target-count": 39,
   "target-meta": 2,
 

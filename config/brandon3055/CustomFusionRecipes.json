@@ -3,17 +3,67 @@
         "mode": "ADD",
         "result": "draconicevolution:dislocator",
         "catalyst": "extendedcrafting:material,1,40",
-        "energy": 2000000,
+        "energy": 20000000,
         "tier": 2,
         "ingredients": [
             "appliedenergistics2:material,1,48",
-			"thaumcraft:focus_2",
+			"enderio:item_material,1,20",
 			"mekanism:atomicalloy",
 			"galacticraftplanets:item_basic_mars,1,2",
             "appliedenergistics2:material,1,48",
-            "thaumcraft:focus_2",
+            "enderio:item_material,1,20",
             "mekanism:atomicalloy",
 			"galacticraftplanets:item_basic_mars,1,2"
         ]
-    } 
+    },
+    {
+      "mode": "ADD",
+      "result": "draconicevolution:draconic_bow",
+      "catalyst": "enderio:item_end_steel_bow",
+      "energy": 200000000,
+      "tier": 2,
+      "ingredients": [
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:draconic_ingot",
+        "minecraft:dragon_egg",
+        "draconicevolution:wyvern_core",
+        "minecraft:dragon_egg",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:draconic_ingot"
+      ]
+    },
+    {
+      "mode": "ADD",
+      "result": "draconicevolution:draconic_staff_of_power",
+      "catalyst": "draconicevolution:draconic_sword",
+      "energy": 500000000,
+      "tier": 2,
+      "ingredients": [
+        "extendedcrafting:material,1,32",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:wyvern_core",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:draconic_ingot",
+        "extendedcrafting:material,1,32"
+      ]
+    },
+    {
+      "mode": "ADD",
+      "result": "draconicevolution:draconic_sword",
+      "catalyst": "enderio:item_end_steel_sword",
+      "energy": 500000000,
+      "tier": 2,
+      "ingredients": [
+        "extendedcrafting:material,1,32",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:wyvern_core",
+        "draconicevolution:draconic_ingot",
+        "draconicevolution:draconic_ingot",
+        "extendedcrafting:material,1,32"
+      ]
+    }
 ]

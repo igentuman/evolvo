@@ -17,4 +17,4 @@ FissionIrradiator.addRecipe(<ore:dustCobalt>, <draconicevolution:draconium_dust>
 FissionIrradiator.addRecipe(<minecraft:dirt>, <trinity:radioactive_earth>, 2200000, 0.0, 0.0, 1);
 FissionIrradiator.addRecipe(<minecraft:sand>, <trinity:salted_sand>, 2200000, 0.0, 0.0, 1);
 FissionIrradiator.addRecipe(<extendedcrafting:material:40>, <minecraft:end_crystal>, 4200000, 0.0, 0.0, 1);
-FissionIrradiator.addRecipe(<extrautils2:opinium:5>, <draconicevolution:draconic_core>, 8200000, 0.0, 0.0, 1);
+FissionIrradiator.addRecipe(<extrautils2:opinium>, <draconicevolution:draconic_core>, 1000000, 0.0, 0.0, 1);
