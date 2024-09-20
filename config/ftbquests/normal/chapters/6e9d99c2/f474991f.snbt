@@ -10,5 +10,15 @@
 		uid: "f6799376",
 		type: "forge_energy",
 		value: 100000L
+	}],
+	rewards: [{
+		uid: "c3b34601",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "f42c91f3",
+		type: "random",
+		table: 1
 	}]
 }

@@ -1,6 +1,6 @@
 {
   "name": "collision_chamber",
-  "label": "Collision Chamber",
+  "label": "Камера Столкновений",
   "target-item": "qmd:collision_chamber_controller",
 
   "input-types": {

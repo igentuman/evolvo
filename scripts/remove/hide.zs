@@ -7,6 +7,8 @@ function hideItems(items as IItemStack[]) {
 	}
 }
 
+
+
 hideItems([
     <theoneprobe:iron_helmet_probe>.withTag({theoneprobe: 1}),
     <theoneprobe:diamond_helmet_probe>.withTag({theoneprobe: 1}),
@@ -14,6 +16,7 @@ hideItems([
     <theoneprobe:probenote>,
     <theoneprobe:probe>,
     <minecraft:deadbush>,
+    <forge:bucketfilled>.withTag({FluidName: "rocket_fuel", Amount: 1000}),
     <minecraft:web>,
     <minecraft:tallgrass:2>,
     <mekanism:gastank>.withTag({tier: 4, mekData: {stored: {amount: 2147483647, gasName: "lithium"}}}),
@@ -75,7 +78,6 @@ hideItems([
 	<galacticraftcore:basic_block_core:5>,
 	<mekanism:oreblock:1>,
     <immersiveengineering:ore:2>,
-    <immersiveengineering:ore:4>,
     <immersiveengineering:ore:5>,
 	<nuclearcraft:heat_exchanger_controller>,
     <nuclearcraft:heat_exchanger_casing>,
@@ -202,12 +204,10 @@ hideItems([
 	<mekanism:nugget:5>,
 	<immersiveengineering:metal:20>,
 	<immersiveengineering:metal:22>,
-	<immersiveengineering:metal:24>,
 	<immersiveengineering:metal:23>,
 	<immersiveengineering:metal:28>,
 	<mekanism:nugget:4>,
 	<mekanism:nugget:2>,
-	<immersiveengineering:metal:27>,
 	<immersiveengineering:storage:5>,
 	<nuclearcraft:ingot_block:4>,
 	<mekanism:basicblock:12>,
@@ -220,13 +220,11 @@ hideItems([
 	<galacticraftcore:basic_block_core:10>,
 	<mekanism:basicblock:13>,
 	<nuclearcraft:ingot_block:1>,
-	<immersiveengineering:storage:4>,
 	<immersiveengineering:storage:3>,
 	<nuclearcraft:ingot_block:13>,
 	<nuclearcraft:ingot_block:7>,
 	<mekanism:basicblock:5>,
 	<mekanism:basicblock:1>,
-	<immersiveengineering:storage:7>,
 	<nuclearcraft:dust:4>,
 	<immersiveengineering:metal:14>,
 	<enderio:item_material:26>,
@@ -243,7 +241,6 @@ hideItems([
 	<immersiveengineering:metal:16>,
 	<immersiveengineering:metal:30>,
 	<immersiveengineering:metal:32>,
-	<immersiveengineering:metal:34>,
 	<immersiveengineering:metal:38>,
 	<nuclearcraft:dust:1>,
 	<mekanism:dust:4>,

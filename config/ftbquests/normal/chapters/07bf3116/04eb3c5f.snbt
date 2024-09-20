@@ -9,12 +9,5 @@
 	],
 	dependencies: [
 		"96cb4ca5"
-	],
-	tasks: [{
-		uid: "c56a32dd",
-		type: "item",
-		items: [{
-			item: "industrialupgrade:itemdust 1 31"
-		}]
-	}]
+	]
 }

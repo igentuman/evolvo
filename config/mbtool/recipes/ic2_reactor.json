@@ -1,6 +1,6 @@
 {
   "name": "ic2_reactor",
-  "label": "IC2 Reactor",
+  "label": "Реактор IC2",
   "target-item": "ic2:te",
   "target-item-meta": 22,
   "input-types": {

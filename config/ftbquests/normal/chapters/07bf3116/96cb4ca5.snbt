@@ -48,13 +48,6 @@
 		ignore_nbt: 1b
 	},
 	{
-		uid: "dba2b675",
-		type: "item",
-		items: [{
-			item: "galacticraftplanets:mars_machine_t2 1 8"
-		}]
-	},
-	{
 		uid: "918d8e2f",
 		type: "item",
 		items: [{
@@ -66,16 +59,6 @@
 		type: "item",
 		items: [{
 			item: "nuclearcraft:salt_mixer"
-		}]
-	},
-	{
-		uid: "063a3517",
-		type: "item",
-		items: [{
-			id: "industrialupgrade:basemachine2",
-			tag: {},
-			Count: 1b,
-			Damage: 15s
 		}]
 	}],
 	rewards: [{

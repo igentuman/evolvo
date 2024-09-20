@@ -1,6 +1,6 @@
 {
   "name": "mek_tank",
-  "label": "Dynamic Tank",
+  "label": "Динамический Резервуар",
 
   "input-types": {
     "a": {

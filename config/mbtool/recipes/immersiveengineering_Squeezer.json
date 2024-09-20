@@ -1,7 +1,8 @@
 {
   "name": "immersiveengineering_Squeezer",
-  "label": "Squeezer",
-  "target-item": "immersiveengineering:tool",
+  "label": "Маслобойня",
+  "target-item": "immersiveengineering:metal_multiblock",
+  "target-item-meta": 7,
 
   "input-types": {
     "a": {

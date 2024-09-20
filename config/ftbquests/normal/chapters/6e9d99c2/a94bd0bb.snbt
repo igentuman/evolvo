@@ -4,11 +4,19 @@
 	dependencies: [
 		"d7724706"
 	],
+	hide: true,
 	tasks: [{
 		uid: "1547f36c",
 		type: "item",
 		items: [{
 			item: "nuclearcraft:assembler"
+		}]
+	},
+	{
+		uid: "88ed27d2",
+		type: "item",
+		items: [{
+			item: "rftools:crafter1"
 		}]
 	}],
 	rewards: [{

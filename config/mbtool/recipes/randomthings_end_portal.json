@@ -1,7 +1,7 @@
 {
   "name": "randomthings_end_portal",
   "label": "Artificial End Portal",
-  "target-item": "randomthings:ingredient",
+  "target-item": "randomthings:ingredient33",
   "target-item-meta": 1,
   "input-types": {
     "a": {

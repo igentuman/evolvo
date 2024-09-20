@@ -1,6 +1,6 @@
 {
   "name": "compactmachines3:machine-small",
-  "label": "compactmachines3:machine-small",
+  "label": "Маленькая комната",
   "target-item": "compactmachines3:machine",
   "target-meta": 1,
   "target-count": 1,

@@ -1,6 +1,6 @@
 {
   "name": "compactmachines3:machine-giant",
-  "label": "compactmachines3:machine-giant",
+  "label": "Гигантская комната",
   "target-item": "compactmachines3:machine",
   "target-meta": 4,
   "target-count": 1,

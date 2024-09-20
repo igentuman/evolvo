@@ -1,6 +1,6 @@
 {
   "name": "Fusion Crafting Core",
-  "target-block": "draconicevolution:energy_storage_core",
+  "target-item": "draconicevolution:fusion_crafting_core",
   "target-count": 1,
   "target-meta": 0,
   "duration": 3000,

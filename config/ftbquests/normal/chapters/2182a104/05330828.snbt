@@ -17,7 +17,7 @@
 		type: "gamestage",
 		title: "Примитивные технологии",
 		icon: "minecraft:stone_pickaxe",
-		stage: "stone_age"
+		stage: "tier_1"
 	}],
 	rewards: [{
 		uid: "6f3fd560",

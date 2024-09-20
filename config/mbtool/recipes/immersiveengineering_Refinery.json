@@ -1,8 +1,9 @@
 {
   "name": "immersiveengineering_Refinery",
 
-  "label": "Refinery",
-  "target-item": "immersiveengineering:tool",
+  "label": "Очистительный завод",
+  "target-item": "immersiveengineering:metal_multiblock",
+  "target-item-meta": 9,
 
   "input-types": {
     "a": {

@@ -1,7 +1,7 @@
 {
   "name": "Fusion Crafting Core",
-  "label": "Fusion Crafting Core",
-  "target-item": "draconicevolution:energy_storage_core",
+  "label": "Рамка Слияния",
+  "target-item": "draconicevolution:fusion_crafting_core",
   "target-meta": 0,
   "duration": 3000,
   "catalyst": "draconicevolution:energy_crystal",

@@ -1,6 +1,6 @@
 {
   "name": "compactmachines3:machine-tiny",
-  "label": "compactmachines3:machine-tiny",
+  "label": "Микро комната",
   "target-item": "compactmachines3:machine",
   "target-meta": 0,
   "target-count": 1,

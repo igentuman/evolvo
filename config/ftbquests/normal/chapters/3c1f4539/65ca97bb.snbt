@@ -8,15 +8,13 @@
 		"2f0657fb",
 		"99cbbee0"
 	],
+	hide: true,
 	size: 2.0d,
 	tasks: [{
 		uid: "fd9bda58",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:wooden_device0 1 2"
-		},
-		{
-			item: "extendedcrafting:table_advanced"
 		}]
 	},
 	{

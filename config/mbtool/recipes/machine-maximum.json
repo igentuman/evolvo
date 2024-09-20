@@ -1,6 +1,6 @@
 {
   "name": "compactmachines3:machine-maximum",
-  "label": "compactmachines3:machine-maximum",
+  "label": "Максимальная комната",
   "target-item": "compactmachines3:machine",
   "target-meta": 5,
   "target-count": 1,

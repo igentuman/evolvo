@@ -1,6 +1,6 @@
 {
   "name": "draconic_reactor",
-  "label": "Draconic Reactor",
+  "label": "Реактор Драконик",
   "target-item": "draconicevolution:reactor_core",
   "input-types": {
     "a": {

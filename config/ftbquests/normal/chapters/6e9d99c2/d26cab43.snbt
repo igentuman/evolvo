@@ -1,11 +1,11 @@
 {
-	x: -8.0d,
-	y: 0.0d,
+	x: -5.0d,
+	y: -3.5d,
 	dependencies: [
-		"ba3f1daa"
+		"a94bd0bb"
 	],
 	tasks: [{
-		uid: "e8a3c264",
+		uid: "09c649ea",
 		type: "item",
 		items: [{
 			item: "rftools:crafter3"

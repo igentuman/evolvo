@@ -1,7 +1,8 @@
 {
   "name": "immersiveengineering_ArcFurnace",
-  "label": "Arc Furnace",
-  "target-item": "immersiveengineering:tool",
+  "label": "Дуговая Печь",
+  "target-item": "immersiveengineering:metal_multiblock",
+  "target-item-meta": 13,
   "input-types": {
     "a": {
       "id": "immersiveengineering:storage",

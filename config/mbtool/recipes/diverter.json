@@ -1,6 +1,6 @@
 {
   "name": "diverter",
-  "label": "Beam Diverter",
+  "label": "Отклонитель Пучка",
   "target-item": "qmd:beam_diverter_controller",
 
   "input-types": {

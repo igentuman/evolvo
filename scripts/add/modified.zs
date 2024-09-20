@@ -119,6 +119,7 @@ recipes.addShaped("mekanismReactorBlock", <bfr:reactor:1> * 4, [
 	[plateMeteor, basicCase, plateMeteor],
 ]);
 
+furnace.addRecipe(<opencomputers:material:4>, <rftoolscontrol:card_base>);
 
 recipes.addShaped("compactmachines3_fieldprojector", <compactmachines3:fieldprojector> * 4, [[null, <galacticraftcore:arclamp>, null], [null, <minecraft:redstone_torch>, null], [<minecraft:diamond>, <compactmachines3:psd>, <minecraft:diamond>]]);
 
@@ -131,9 +132,19 @@ recipes.addShaped("immersiveengineering_wirecoil_mv_i", <immersiveengineering:wi
 recipes.addShaped("immersiveengineering_wirecoil_hv", <immersiveengineering:wirecoil:2>, [[null, <ic2:cable:3>.withTag({type: 3 as byte, insulation: 0 as byte}), null], [<ic2:cable:3>.withTag({type: 3 as byte, insulation: 0 as byte}), <ore:stickWood> | <ore:stickTreatedWood>, <ic2:cable:3>.withTag({type: 3 as byte, insulation: 0 as byte})], [null, <ic2:cable:3>.withTag({type: 3 as byte, insulation: 0 as byte}), null]]);
 recipes.addShaped("enderio_dark_bow", <enderio:item_dark_steel_bow>, [[null, <enderio:item_alloy_ingot:6>, null], [<enderio:item_alloy_ingot:6>, <mekanism:electricbow>, null], [null, <enderio:item_alloy_ingot:6>, null]]);
 recipes.addShaped("enderio_ender_bow", <enderio:item_end_steel_bow>, [[null, <ore:itemInfinityRod>, null], [<ore:itemInfinityRod>, <enderio:item_dark_steel_bow>, null], [null, <ore:itemInfinityRod>, null]]);
+mods.nuclearcraft.Separator.addRecipe(<minecraft:magma_cream>, <minecraft:slime_ball>, <minecraft:blaze_powder>);
 
+recipes.addShaped("circuit_2", <ic2:crafting:2>, [
+    [<ore:dustGlowstone>, <ore:circuitBasic>, <ore:dustGlowstone>],
+    [<ore:gemLapis>, null, <ore:gemLapis>],
+    [<ore:dustRedstone>, <ore:plateNickel>, <ore:dustRedstone>]]);
 
-recipes.addShaped("galacticresearch_telescope", <galacticresearch:telescope>, 
+recipes.addShaped("extrautils2_case", <extrautils2:machine>, [
+    [<ore:plateSteel>, <ore:itemCompressedRedstone>, <ore:plateSteel>],
+    [<extrautils2:decorativesolid:3>, <ore:chestWood>, <extrautils2:decorativesolid:3>],
+    [<ore:plateSteel>, <ore:plateNickel>, <ore:plateSteel>]]);
+
+recipes.addShaped("galacticresearch_telescope", <galacticresearch:telescope>,
 	[[<ore:compressedAluminum>, <minecraft:glass_pane>, <ore:compressedAluminum>], 
 	[<ore:compressedBronze>, <galacticraftcore:steel_pole>, <ore:compressedBronze>], 
 	[<ore:itemCopperCable>, <galacticraftcore:view_screen>, <ore:itemCopperCable>]]);
@@ -145,6 +156,7 @@ mods.extendedcrafting.TableCrafting.addShaped(2, <galacticraftcore:machine2>, [
 	[<ore:plateSteel>, <ore:gearIronInfinity>, null, <ore:gearIronInfinity>, <ore:plateSteel>],
 	[<ore:plateAdvancedAlloy>, <ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>, <ore:plateAdvancedAlloy>]
 ]);
+
 mods.extendedcrafting.TableCrafting.addShaped(2, <immersiveengineering:material:27>*20, [
 	[<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>], 
 	[<ore:itemCopperCable>, <ore:alloyBasic>, <ore:alloyBasic>, <ore:alloyBasic>, <ore:itemCopperCable>], 
@@ -223,7 +235,7 @@ mods.extendedcrafting.TableCrafting.addShaped(2, <nuclearcraft:solid_fission_con
 
 mods.extendedcrafting.TableCrafting.addShaped(2, <nuclearcraft:turbine_controller>, [
 	[<nuclearcraft:turbine_casing>, <ore:ingotHSLASteel>, <ore:ingotHSLASteel>, <ore:ingotHSLASteel>, <nuclearcraft:turbine_casing>], 
-	[<ore:ingotHSLASteel>, <ncsteamadditions:steam_turbine>, <xnet:redstone_proxy>, <ncsteamadditions:steam_turbine>, <ore:ingotHSLASteel>], 
+	[<ore:ingotHSLASteel>, <ic2:te:34>, <xnet:redstone_proxy>, <ic2:te:34>, <ore:ingotHSLASteel>],
 	[<ore:ingotHSLASteel>, <rftools:screen>, <rftools:screen>, <rftools:screen>, <ore:ingotHSLASteel>], 
 	[<ore:ingotHSLASteel>, <ore:oc:materialNumPad>, <ore:oc:materialNumPad>, <ore:oc:materialNumPad>, <ore:ingotHSLASteel>], 
 	[<nuclearcraft:turbine_casing>, <ore:ingotHSLASteel>, <ore:ingotHSLASteel>, <ore:ingotHSLASteel>, <nuclearcraft:turbine_casing>]
@@ -276,6 +288,7 @@ mods.extendedcrafting.TableCrafting.addShaped(1, <threng:big_assembler:2>, [
 	[<ore:blockSheetmetalSteel>, <galacticraftcore:item_basic_moon:2>, <appliedenergistics2:interface>, <galacticraftcore:item_basic_moon:2>, <ore:blockSheetmetalSteel>],
 	[<threng:big_assembler>, <ore:blockSheetmetalSteel>, <minecraft:purpur_block>, <ore:blockSheetmetalSteel>, <threng:big_assembler>],
 ]);
+recipes.addShaped("scannable_scanner", <scannable:scanner>, [[<ore:ingotIron>, null, <ore:ingotIron>], [<minecraft:iron_bars>, <ore:circuitBasic>, <minecraft:iron_bars>], [<ore:ingotGold>, <ore:gemQuartz>, <ore:ingotGold>]]);
 
 
 mods.extendedcrafting.TableCrafting.addShaped(2, <minecraft:end_crystal>*4, [
@@ -302,9 +315,21 @@ recipes.addShaped("enderio_simple_s_a_g_mill", <enderio:block_simple_sag_mill>, 
 recipes.addShaped("mekanism_machineblock_8", <mekanism:machineblock:8>, [[<ore:ingotIron>, <immersiveengineering:material:27>, <ore:ingotIron>], [<ore:dustRedstone>, <ore:ingotOsmium>, <ore:dustRedstone>], [<ore:ingotIron>, <minecraft:furnace>, <ore:ingotIron>]]);
 recipes.addShaped("nuclearcraft_alloy_furnace", <nuclearcraft:alloy_furnace>, [[<ore:plateBasic>, <ore:circuitBasic>, <ore:plateBasic>], [<minecraft:brick:*>, <minecraft:furnace:*>, <minecraft:brick:*>], [<ore:plateBasic>, <ore:solenoidCopper>, <ore:plateBasic>]]);
 recipes.addShaped("enderio_simple_alloy_smelter", <enderio:block_simple_alloy_smelter>, [[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>], [<minecraft:furnace>, <ore:itemSimpleMachineChassi>, <minecraft:furnace>], [<ore:gearStone>, <ore:circuitBasic>, <ore:gearStone>]]);
-recipes.addShaped("nuclearcraft_solar_panel_basic_1", <nuclearcraft:solar_panel_basic>, [[<ore:dustGraphite>, <ore:dustNetherQuartz>, <ore:dustGraphite>], [<minecraft:heavy_weighted_pressure_plate:*>, <ore:circuitBasic>, <minecraft:heavy_weighted_pressure_plate:*>], [<ore:solenoidCopper>, <minecraft:daylight_detector>, <ore:solenoidCopper>]]);
+recipes.addShaped("nuclearcraft_solar_panel_basic_1", <nuclearcraft:solar_panel_basic>, [[<ore:dustGraphite>, <ore:dustNetherQuartz>, <ore:dustGraphite>], [<minecraft:heavy_weighted_pressure_plate:*>, <immersiveengineering:material:27>, <minecraft:heavy_weighted_pressure_plate:*>], [<ore:solenoidCopper>, <minecraft:daylight_detector>, <ore:solenoidCopper>]]);
 recipes.addShaped("opencomputers_transistor", <opencomputers:material:6> * 4, [[<ore:stickIron>, <ore:stickIron>, <ore:stickIron>], [<ore:nuggetGold>, <ore:itemSilicon>, <ore:nuggetGold>], [<ore:nuggetBlackIron>, <minecraft:redstone>, <ore:nuggetBlackIron>]]);
 recipes.addShaped("minecraft_end_crystal", <minecraft:end_crystal>, [[<ore:paneGlassColorless>, <ore:paneGlassColorless>, <ore:paneGlassColorless>], [<ore:paneGlassColorless>, <ore:netherStar>, <ore:paneGlassColorless>], [<ore:paneGlassColorless>, <minecraft:ghast_tear:*>, <ore:paneGlassColorless>]]);
+recipes.addShaped("galacticraftplanets_item_basic_asteroids_1_alt", <galacticraftplanets:item_basic_asteroids:1>, [[<opencomputers:material:11>, <minecraft:flint_and_steel>, null], [<galacticraftplanets:item_basic_asteroids:5>, <mekanism:gastank>.withTag({tier: 3}), <galacticraftplanets:item_basic_asteroids:5>], [<galacticraftplanets:item_basic_asteroids:5>, <galacticraftcore:air_vent>, <galacticraftplanets:item_basic_asteroids:5>]]);
+
+mods.rockytweaks.Anvil.addRecipe(<extrautils2:fakecopy:8>, <appliedenergistics2:material:1>, <minecraft:nether_star>, 10);
+
+mods.nuclearcraft.Centrifuge.addRecipe(<liquid:gasoline>*1000, <liquid:fuel>*100, <liquid:coal>*100, <liquid:lubricant>*100, <liquid:ic2biogas>*500, null, null);
+
+
+recipes.addShaped("immersiveengineering_metal_devices_capacitor_lv", <immersiveengineering:metal_device0>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<immersiveengineering:metal_decoration0>, <ore:ingotLead>, <immersiveengineering:metal_decoration0>], [<ore:plankTreatedWood>, <immersiveengineering:material:27>, <ore:plankTreatedWood>]]);
+recipes.addShaped("immersiveengineering_metal_devices_capacitor_mv", <immersiveengineering:metal_device0:1>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>], [<ore:plateElectrum>, <ore:ingotLead>, <ore:plateElectrum>], [<ore:plankTreatedWood>, <ore:circuitBasic>, <ore:plankTreatedWood>]]);
+recipes.addShaped("immersiveengineering_metal_devices_capacitor_hv", <immersiveengineering:metal_device0:2>, [[<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>], [<ore:plateAluminum>, <ore:blockLead>, <ore:plateAluminum>], [<ore:plankTreatedWood>, <ore:circuitAdvanced>, <ore:plankTreatedWood>]]);
+recipes.addShaped("immersiveengineering_metal_devices_coresample_drill", <immersiveengineering:metal_device1:7>, [[<ore:scaffoldingSteel>, <ore:fenceSteel>, <ore:scaffoldingSteel>], [<ore:scaffoldingSteel>, <ore:fenceSteel>, <ore:scaffoldingSteel>], [<immersiveengineering:metal_decoration0:4>, <immersiveengineering:drillhead>, <immersiveengineering:metal_decoration0:4>]]);
+
 
 
 /*
@@ -345,4 +370,3 @@ recipes.addShaped("galacticraftcore_fuel_loader", <galacticraftcore:fuel_loader>
 recipes.addShaped("galacticresearch_rocket_assembler", <galacticresearch:rocket_assembler>, [[<ore:compressedAluminum>, <galacticraftplanets:item_basic_asteroids:5>, <ore:compressedAluminum>], [<ore:waferAdvanced>, <galacticraftcore:rocket_workbench>, <ore:waferAdvanced>], [<ore:itemCopperCable>, <minecraft:chest>, <ore:itemCopperCable>]]);
 recipes.addShaped("galacticresearch_mcs", <galacticresearch:mission_control_station>, [[<ore:compressedAluminum>, <ore:compressedAluminum>, <ore:compressedAluminum>], [<ore:waferAdvanced>, <immersiveengineering:material:2>, <ore:waferAdvanced>], [<ore:itemCopperCable>, <galacticraftcore:view_screen>, <ore:itemCopperCable>]]);
 recipes.addShaped("rftoolscontrol_card_base", <rftoolscontrol:card_base>, [[<minecraft:redstone>, <ore:nuggetTungsten>, <minecraft:redstone>], [<ore:nuggetTungsten>, <immersiveengineering:material:27>, <ore:nuggetTungsten>], [<ore:nuggetGold>, <ore:nuggetTungsten>, <ore:nuggetGold>]]);
-recipes.addShaped("oc_board_base", <opencomputers:material:4>, [[<ore:casingElectrum>, <ore:casingElectrum>, <ore:casingElectrum>], [<ore:dyeGreen>, <rftoolscontrol:card_base>, <ore:dyeGreen>], [<ore:casingOsmium>, null, <ore:casingOsmium>]]);

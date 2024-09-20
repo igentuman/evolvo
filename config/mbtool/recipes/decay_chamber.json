@@ -1,6 +1,6 @@
 {
   "name": "decay_chamber",
-  "label": "Decay Chamber",
+  "label": "Камера Распада",
   "target-item": "qmd:decay_chamber_controller",
 
   "input-types": {

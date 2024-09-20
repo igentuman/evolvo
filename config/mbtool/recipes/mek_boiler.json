@@ -1,6 +1,6 @@
 {
   "name": "mek_boiler",
-  "label": "Boiler",
+  "label": "Бойлер",
   "target-item": "mekanism:basicblock2",
   "target-item-meta": 5,
   "input-types": {

@@ -1,7 +1,8 @@
 {
   "name": "immersiveengineering_AutoWorkbench",
-  "label": "Auto Workbench",
-  "target-item": "immersiveengineering:blueprint",
+  "label": "Авто Сборщик",
+  "target-item": "immersiveengineering:metal_multiblock",
+  "target-item-meta": 5,
 
   "input-types": {
     "a": {

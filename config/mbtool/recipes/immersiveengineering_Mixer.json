@@ -1,7 +1,8 @@
 {
   "name": "immersiveengineering_Mixer",
-  "label": "Mixer",
-  "target-item": "immersiveengineering:tool",
+  "label": "Миксер",
+  "target-item": "immersiveengineering:metal_multiblock",
+  "target-item-meta": 15,
 
   "input-types": {
     "a": {

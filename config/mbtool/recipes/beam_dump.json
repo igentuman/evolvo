@@ -1,6 +1,6 @@
 {
   "name": "beam_dump",
-  "label": "Beam Dump",
+  "label": "Сжижатель Пучка",
   "target-item": "qmd:beam_splitter_controller",
 
   "input-types": {

@@ -17,5 +17,6 @@ JEI.hideCategory("EnderGenerator");
 JEI.hideCategory("LavaGenerator");
 JEI.hideCategory("galacticraft.methaneSynthesizer");
 JEI.hideCategory("qmd.atmosphere_collector");
+JEI.hideCategory("assets.multiblock");
 
 

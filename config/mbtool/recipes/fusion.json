@@ -1,6 +1,6 @@
 {
   "name": "fusion",
-  "label": "Fusion Reactor",
+  "label": "Термоядерный Реактор",
   "target-item": "bfr:reactor",
 
   "input-types": {

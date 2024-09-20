@@ -1,6 +1,6 @@
 {
   "name": "beam_splitter",
-  "label": "Beam Splitter",
+  "label": "Делитель Пучка",
   "target-item": "qmd:beam_splitter_controller",
   "input-types": {
     "a": {

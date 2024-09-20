@@ -1,6 +1,6 @@
 {
   "name": "mek_turbine",
-  "label": "Turbine",
+  "label": "Турбина Меканизма",
 
   "target-item": "mekanismgenerators:turbineblade",
 

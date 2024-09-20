@@ -12086,6 +12086,24 @@ immersivepetroleum:upgrades:2, Расширенный топливный бак
 immersivepetroleum:upgrades:3, Маневровый руль
 immersivepetroleum:upgrades:4, Вёсла
 immersivepetroleum:oil_can, Резервуар для смазки
+ironchest:iron_gold_chest_upgrade, Улучшение из железного в золотой сундук
+ironchest:gold_diamond_chest_upgrade, Улучшение из золотого в алмазный сундук
+ironchest:copper_silver_chest_upgrade, Улучшение из медного в серебряный сундук
+ironchest:silver_gold_chest_upgrade, Улучшение из серебряного в золотой сундук
+ironchest:copper_iron_chest_upgrade, Улучшение из медного в железный сундук
+ironchest:diamond_crystal_chest_upgrade, Улучшение из алмазного в кристальный сундук
+ironchest:wood_iron_chest_upgrade, Улучшение из деревянного в железный сундук
+ironchest:wood_copper_chest_upgrade, Улучшение из деревянного в медный сундук
+ironchest:diamond_obsidian_chest_upgrade, Улучшение из алмазного в обсидиановый сундук
+ironchest:iron_gold_shulker_upgrade, Улучшение из железного в золотой Шалкеровый ящик
+ironchest:gold_diamond_shulker_upgrade, Улучшение из золотого в алмазный Шалкеровый ящик
+ironchest:copper_silver_shulker_upgrade, Улучшение из медного в серебряный Шалкеровый ящик
+ironchest:silver_gold_shulker_upgrade, Улучшение из серебряного в золотой Шалкеровый ящик
+ironchest:copper_iron_shulker_upgrade, Улучшение из медного в железный Шалкеровый ящик
+ironchest:diamond_crystal_shulker_upgrade, Улучшение из алмазного в кристальный Шалкеровый ящик
+ironchest:vanilla_iron_shulker_upgrade, Улучшение из обычного в железный Шалкеровый ящик
+ironchest:vanilla_copper_shulker_upgrade, Улучшение из обычного в медный Шалкеровый ящик
+ironchest:diamond_obsidian_shulker_upgrade, Улучшение из алмазного в обсидиановый Шалкеровый ящик
 ironchest:iron_chest:0, Железный сундук
 ironchest:iron_chest:1, Золотой сундук
 ironchest:iron_chest:2, Алмазный сундук
@@ -12206,24 +12224,6 @@ ironchest:iron_shulker_box_black:3, Чёрный Медный Шалкеровы
 ironchest:iron_shulker_box_black:4, Чёрный Серебряный Шалкеровый ящик
 ironchest:iron_shulker_box_black:5, Чёрный Кристальный Шалкеровый ящик
 ironchest:iron_shulker_box_black:6, Чёрный Обсидиановый Шалкеровый ящик
-ironchest:iron_gold_chest_upgrade, Улучшение из железного в золотой сундук
-ironchest:gold_diamond_chest_upgrade, Улучшение из золотого в алмазный сундук
-ironchest:copper_silver_chest_upgrade, Улучшение из медного в серебряный сундук
-ironchest:silver_gold_chest_upgrade, Улучшение из серебряного в золотой сундук
-ironchest:copper_iron_chest_upgrade, Улучшение из медного в железный сундук
-ironchest:diamond_crystal_chest_upgrade, Улучшение из алмазного в кристальный сундук
-ironchest:wood_iron_chest_upgrade, Улучшение из деревянного в железный сундук
-ironchest:wood_copper_chest_upgrade, Улучшение из деревянного в медный сундук
-ironchest:diamond_obsidian_chest_upgrade, Улучшение из алмазного в обсидиановый сундук
-ironchest:iron_gold_shulker_upgrade, Улучшение из железного в золотой Шалкеровый ящик
-ironchest:gold_diamond_shulker_upgrade, Улучшение из золотого в алмазный Шалкеровый ящик
-ironchest:copper_silver_shulker_upgrade, Улучшение из медного в серебряный Шалкеровый ящик
-ironchest:silver_gold_shulker_upgrade, Улучшение из серебряного в золотой Шалкеровый ящик
-ironchest:copper_iron_shulker_upgrade, Улучшение из медного в железный Шалкеровый ящик
-ironchest:diamond_crystal_shulker_upgrade, Улучшение из алмазного в кристальный Шалкеровый ящик
-ironchest:vanilla_iron_shulker_upgrade, Улучшение из обычного в железный Шалкеровый ящик
-ironchest:vanilla_copper_shulker_upgrade, Улучшение из обычного в медный Шалкеровый ящик
-ironchest:diamond_obsidian_shulker_upgrade, Улучшение из алмазного в обсидиановый Шалкеровый ящик
 jecalculation:item_calculator:0, Калькулятор создания
 jecalculation:item_calculator:1, Математический калькулятор
 mekanismtools:woodpaxel, Деревянный мульти-инcтрумент
@@ -12490,6 +12490,7 @@ xnet:wireless_router, Wireless Router
 xnet:antenna, Antenna
 xnet:antenna_base, Antenna Base
 xnet:antenna_dish, Antenna Dish
+progressivebosses:nether_star_shard, Nether Star Shard
 rftoolscontrol:rftoolscontrol_manual, RFTools Control Manual
 rftoolscontrol:program_card, Program Card
 rftoolscontrol:cpu_core_500, CPU Core B500
@@ -12574,6 +12575,8 @@ tis3d:casing, Casing
 tis3d:controller, Controller
 researchtable:table, Исследовательский стол
 base:wrench, Wrench
+blockbooster:booster_t1, Ускоритель Уровень 1
+blockbooster:booster_t2, Ускоритель Уровень 2
 contenttweaker:green_pack, Green Science Pack
 contenttweaker:red_pack, Red Science Pack
 contenttweaker:blue_pack, Blue Science Pack

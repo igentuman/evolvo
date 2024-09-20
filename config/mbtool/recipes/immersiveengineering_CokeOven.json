@@ -1,7 +1,7 @@
 {
   "name": "immersiveengineering_CokeOven",
-  "label": "Coke Oven",
-  "target-item": "immersiveengineering:tool",
+  "label": "Коксовая Печь",
+  "target-item": "immersiveengineering:stone_device",
 
   "input-types": {
     "a": {

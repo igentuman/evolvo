@@ -33,10 +33,36 @@ removeRecipesByName([
     "mekanismgenerators:generator_7"
 ]);
 
+furnace.remove(<opencomputers:material:4>);
+
 removeAndHideItems([
+    <immersivepetroleum:schematic>,
+    <mekanism:jetpack>,
+    <mekanism:gasmask>,
+    <mekanism:scubatank>,
+    <mekanism:armoredjetpack>,
+    <mekanism:flamethrower>,
+    <mekanism:freerunners>,
+    <mekanism:transmitter>.withTag({tier: 3}),
+    <mekanism:transmitter:2>.withTag({tier: 0}),
+    <mekanism:transmitter:2>.withTag({tier: 1}),
+    <mekanismgenerators:generator:6>,
+    <mekanism:transmitter:2>.withTag({tier: 3}),
+    <mekanism:transmitter:2>.withTag({tier: 2}),
+    <mekanismgenerators:generator:1>,
+    <mekanismgenerators:solarpanel>,
+    <mekanismgenerators:generator:5>,
     <mekanism:transmitter>.withTag({tier: 0}),
     <mekanism:transmitter>.withTag({tier: 1}),
     <extrautils2:terraformer>,
+    <immersivepetroleum:metal_device:1>,
+    <immersivepetroleum:oil_can>,
+    <immersivepetroleum:upgrades:4>,
+    <immersivepetroleum:upgrades:2>,
+    <immersivepetroleum:upgrades:1>,
+    <immersivepetroleum:speedboat>,
+    <immersivepetroleum:upgrades>,
+    <immersivepetroleum:upgrades:3>,
     <extrautils2:terraformer:5>,
     <extrautils2:terraformer:3>,
     <extrautils2:terraformer:4>,
@@ -464,21 +490,17 @@ removeAndHideItems([
 	<enderio:item_inventory_remote:2>.withTag({"enderio:energy": 150000, "enderio:famount": 1500}),
 	<qmd:ingot:7>,
 	<mutantbeasts:endersoul_hand>,
-	<mekanism:basicblock>,
 	<enderio:block_inventory_chest_small>,
 	<enderio:block_inventory_panel_sensor>,
 	<enderio:item_inventory_remote:2>,
 	<enderio:item_inventory_remote:1>,
-	<mekanism:ingot:1>,
 	<mekanism:dust:2>,
-	<mekanism:oreblock>,
 	<enderio:block_inventory_chest_large>,
 	<enderio:block_inventory_chest_huge>,
 	<enderio:block_inventory_chest_medium>,
 	<enderio:block_inventory_chest_tiny>,
 	<enderio:block_inventory_panel>,
 	<enderio:item_inventory_remote>,
-	<mekanism:nugget:1>,
 	<mutantbeasts:mutant_skeleton_limb>,
 	<mekanism:oreblock:2>,
 	<mutantbeasts:chemical_x>,
@@ -526,7 +548,10 @@ removeAndHideItems([
     <draconicevolution:wyvern_legs>,
     <draconicevolution:wyvern_boots>,
     <draconicevolution:wyvern_chest>,
-	<draconicevolution:wyvern_bow>
+	<draconicevolution:wyvern_bow>,
+	<qmd:dust:5>,
+	<extrautils2:machine>,
+	<ic2:crafting:2>
 ]);
 
 removeAndHideAndFurnaceItems([
@@ -552,7 +577,6 @@ removeAndHideAndFurnaceItems([
 	<nuclearcraft:ingot:3>,
 
 	<qmd:ingot:5>,
-	<immersiveengineering:metal:4>,
 	<immersiveengineering:metal:3>,
 	<nuclearcraft:ingot:7>,
 	<immersiveengineering:metal:8>,
@@ -567,7 +591,6 @@ removeAndHideAndFurnaceItems([
     <mekanism:dust:1>,
     <qmd:dust:7>,
     <immersiveengineering:material:25>,
-    <immersiveengineering:metal:33>,
     <nuclearcraft:dust:13>,
     <nuclearcraft:gem_dust:6>,
     <mekanism:otherdust:3>,
@@ -591,6 +614,8 @@ removeAndHideAndFurnaceItems([
 
 
 removeRecipes([
+    <galacticraftcore:engine>,
+    <galacticraftplanets:item_basic_asteroids:1>,
     <immersiveengineering:storage:8>,
     <draconicevolution:draconic_bow>,
     <ic2:crafting:1>,
@@ -674,7 +699,16 @@ removeRecipes([
 	<mekanism:controlcircuit:3>,
 	<mekanism:controlcircuit:2>,
 	<mekanism:controlcircuit:1>,
-	<extrautils2:machine>.withTag({Type: "extrautils2:generator_survival"})
+	<scannable:scanner>,
+	<immersiveengineering:metal_device0>,
+	<immersiveengineering:metal_device0:1>,
+	<immersiveengineering:metal_device0:2>,
+	<immersiveengineering:metal_device1:7>,
+	<qmd:drill_basic>,
+	<qmd:drill_advanced>,
+	<extrautils2:machine>.withTag({Type: "extrautils2:generator_survival"}),
+	<galacticraftcore:bucket_oil>,
+	<galacticraftcore:oil_canister_partial:1>
 ]);
 
 mods.immersiveengineering.Blueprint.removeRecipe(<immersiveengineering:material:27>);

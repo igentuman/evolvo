@@ -5,6 +5,7 @@
 	dependencies: [
 		"d7724706"
 	],
+	hide: true,
 	tasks: [{
 		uid: "7dc120bf",
 		type: "item",
@@ -17,6 +18,9 @@
 		type: "item",
 		items: [{
 			item: "enderio:block_simple_alloy_smelter"
+		},
+		{
+			item: "enderio:block_alloy_smelter"
 		}]
 	},
 	{

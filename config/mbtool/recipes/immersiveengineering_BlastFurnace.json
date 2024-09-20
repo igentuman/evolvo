@@ -1,7 +1,8 @@
 {
   "name": "immersiveengineering_BlastFurnace",
-  "label": "Blast Furnace",
-  "target-item": "immersiveengineering:tool",
+  "label": "Доменная Печь",
+  "target-item": "immersiveengineering:stone_device",
+  "target-item-meta": 1,
 
   "input-types": {
     "a": {

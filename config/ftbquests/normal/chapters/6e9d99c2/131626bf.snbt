@@ -57,5 +57,10 @@
 			item: "immersiveengineering:metal_decoration0 1 4"
 		}],
 		count: 4L
+	}],
+	rewards: [{
+		uid: "e33c1e12",
+		type: "random",
+		table: 1
 	}]
 }

@@ -1,6 +1,6 @@
 {
   "name": "Energy Core Stabilizer",
-  "label": "Energy Core Stabilizer",
+  "label": "Стабилизатор ядра",
 
   "target-item": "draconicevolution:particle_generator",
   "target-count": 39,

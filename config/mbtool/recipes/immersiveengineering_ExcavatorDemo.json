@@ -1,7 +1,8 @@
 {
   "name": "immersiveengineering_ExcavatorDemo",
-  "label": "Excavator",
-  "target-item": "immersiveengineering:tool",
+  "label": "Экскаватор",
+  "target-item": "immersiveengineering:metal_multiblock",
+  "target-item-meta": 11,
 
   "input-types": {
     "a": {

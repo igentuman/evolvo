@@ -7,8 +7,6 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:blockUranium>.remove(<immersiveengineering:storage:5>);
 <ore:blockUranium>.remove(<nuclearcraft:ingot_block:4>);
 
-<ore:blockOsmium>.remove(<mekanism:basicblock>);
-
 <ore:blockCopper>.remove(<mekanism:basicblock:12>);
 <ore:blockCopper>.remove(<nuclearcraft:ingot_block>);
 <ore:blockCopper>.remove(<immersiveengineering:storage>);
@@ -22,8 +20,6 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:blockTin>.remove(<mekanism:basicblock:13>);
 <ore:blockTin>.remove(<nuclearcraft:ingot_block:1>);
 
-<ore:blockNickel>.remove(<immersiveengineering:storage:4>);
-
 <ore:blockSilver>.remove(<immersiveengineering:storage:3>);
 <ore:blockSilver>.remove(<nuclearcraft:ingot_block:13>);
 
@@ -32,8 +28,6 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:blockSteel>.remove(<mekanism:basicblock:5>);
 
 <ore:blockBronze>.remove(<mekanism:basicblock:1>);
-
-<ore:blockElectrum>.remove(<immersiveengineering:storage:7>);
 
 <ore:blockAluminium>.remove(<immersiveengineering:storage:1>);
 <ore:blockAluminium>.remove(<galacticraftcore:basic_block_core:11>);

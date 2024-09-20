@@ -28,4 +28,4 @@ recipes.replaceAllOccurences(<mekanism:energycube>.withTag({tier: 1}),<nuclearcr
 recipes.replaceAllOccurences(<mekanism:energycube>.withTag({tier: 2}),<nuclearcraft:lithium_ion_battery_du>,<mekanism:basicblock2:3>.withTag({tier: 2}));
 recipes.replaceAllOccurences(<mekanism:energycube>.withTag({tier: 3}),<nuclearcraft:lithium_ion_battery_elite>,<mekanism:basicblock2:3>.withTag({tier: 3}));
 
-recipes.replaceAllOccurences(<ore:blockMagnesium>,<immersiveengineering:metal_device0>,<nuclearcraft:voltaic_pile_basic>.withTag({energyStorage: {energy: 0 as long, capacity: 1600000 as long}}));
+recipes.replaceAllOccurences(<ore:blockMagnesium>,<immersiveengineering:metal_device0>,<nuclearcraft:voltaic_pile_basic>);

@@ -1,6 +1,6 @@
 {
   "name": "nucleo_synth",
-  "label": "Nucleo Chamber",
+  "label": "Ядерный Синтезатор",
   "target-item": "qmd:nucleosynthesis_chamber_controller",
   "allow-rotate": false,
   "input-types": {

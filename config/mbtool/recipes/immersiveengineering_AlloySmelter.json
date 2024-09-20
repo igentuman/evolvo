@@ -1,8 +1,8 @@
 {
   "name": "immersiveengineering_AlloySmelter",
-  "label": "Kiln",
-  "target-item": "immersiveengineering:tool",
-
+  "label": "Сплавная Печь IE",
+  "target-item": "immersiveengineering:stone_device",
+  "target-item-meta": 7,
   "input-types": {
     "a": {
       "id": "immersiveengineering:stone_decoration",

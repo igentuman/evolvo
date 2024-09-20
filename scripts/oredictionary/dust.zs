@@ -24,7 +24,7 @@ import crafttweaker.oredict.IOreDictEntry;
 
 <ore:dustPlatinum>.remove(<qmd:dust:10>);
 
-<ore:dustNickel>.remove(<immersiveengineering:metal:13>);
+<ore:dustNickel>.remove(<qmd:dust:5>);
 
 <ore:dustSilver>.remove(<immersiveengineering:metal:12>);
 <ore:dustSilver>.remove(<mekanism:dust:5>);

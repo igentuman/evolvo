@@ -1,6 +1,6 @@
 {
   "name": "accelerator",
-  "label": "Linear Accelerator",
+  "label": "Линейный Ускоритель",
   "target-item": "qmd:linear_accelerator_controller",
   "allow-rotate": false,
   "input-types": {

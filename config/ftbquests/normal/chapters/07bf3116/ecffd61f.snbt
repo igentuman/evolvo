@@ -8,17 +8,10 @@
 	],
 	size: 1.5d,
 	tasks: [{
-		uid: "bf42321d",
+		uid: "9c844529",
 		type: "item",
 		items: [{
-			item: "industrialupgrade:crafting_elements 1 273"
-		}]
-	},
-	{
-		uid: "84913806",
-		type: "item",
-		items: [{
-			item: "mekanism:controlcircuit 1 1"
+			item: "mekanism:controlcircuit 1 2"
 		}]
 	}]
 }

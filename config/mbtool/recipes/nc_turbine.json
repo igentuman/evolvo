@@ -1,6 +1,6 @@
 {
   "name": "nc_turbine",
-  "label": "NC Turbine",
+  "label": "Турбина NC",
   "target-item": "nuclearcraft:turbine_controller",
   "allow-rotate": false,
   "input-types": {

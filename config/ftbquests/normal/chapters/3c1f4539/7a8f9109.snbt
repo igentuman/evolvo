@@ -65,13 +65,6 @@
 		ignore_nbt: 1b
 	},
 	{
-		uid: "78c38391",
-		type: "item",
-		items: [{
-			item: "nuclearcraft:portable_ender_chest"
-		}]
-	},
-	{
 		uid: "1ad7ac55",
 		type: "item",
 		items: [{

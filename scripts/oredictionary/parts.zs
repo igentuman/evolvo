@@ -7,6 +7,9 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:gearWood>.remove(<appliedenergistics2:material:40>);
 <ore:craftingToolForgeHammer>.add(<immersiveengineering:tool>);
 <ore:craftingToolWireCutter>.add(<immersiveengineering:tool:1>);
+<ore:wireCopper>.add(<ic2:cable>.withTag({type: 0 as byte, insulation: 0 as byte}));
+<ore:wireCopper>.remove(<ncsteamadditions:copper_wire>);
+<ore:wireCopper>.remove(<immersiveengineering:material:20>);
 
 //<ore:stickAluminum>.remove(<immersiveengineering:material:3>);
 //<ore:stickAluminium>.remove(<immersiveengineering:material:3>);

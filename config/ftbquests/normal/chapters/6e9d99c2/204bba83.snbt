@@ -5,11 +5,15 @@
 	dependencies: [
 		"d7724706"
 	],
+	hide: true,
 	tasks: [{
 		uid: "337c1717",
 		type: "item",
 		items: [{
 			item: "enderio:block_simple_sag_mill"
+		},
+		{
+			item: "enderio:block_sag_mill"
 		}]
 	},
 	{

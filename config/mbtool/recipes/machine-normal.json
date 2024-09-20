@@ -1,6 +1,6 @@
 {
   "name": "compactmachines3:machine-normal",
-  "label": "compactmachines3:machine-normal",
+  "label": "Нормальная комната",
   "target-item": "compactmachines3:machine",
   "target-meta": 2,
   "target-count": 1,

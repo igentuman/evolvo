@@ -1,7 +1,7 @@
 {
   "name": "compactmachines3:wallbreakable",
   "label": "compactmachines3:wallbreakable",
-  "target-block": "compactmachines3:wallbreakable",
+  "target-block": "Стенка Комнаты",
   "target-count": 27,
 
   "catalyst": "minecraft:redstone",

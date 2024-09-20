@@ -39,7 +39,7 @@
 		uid: "45e58ed1",
 		type: "dimension",
 		title: "Зайти в тёмное измерение",
-		dim: -9999
+		dim: -11325
 	}],
 	rewards: [{
 		uid: "4fdaccbc",
