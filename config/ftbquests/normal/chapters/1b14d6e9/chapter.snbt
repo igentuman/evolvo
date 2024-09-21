@@ -1,7 +1,0 @@
-{
-	title: "Паровые турбины",
-	icon: "mekanismgenerators:turbineblade",
-	always_invisible: false,
-	group: 864694841,
-	default_quest_shape: ""
-}

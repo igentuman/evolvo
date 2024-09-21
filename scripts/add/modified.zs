@@ -186,7 +186,7 @@ mods.extendedcrafting.TableCrafting.addShaped(2, <draconicevolution:draconic_cor
 mods.extendedcrafting.TableCrafting.addShaped(2, <extrautils2:quarry>, [
 	[<mekanism:glowplasticblock:2>, <mekanism:plasticblock>, <mekanism:plasticblock>, <mekanism:plasticblock>, <mekanism:glowplasticblock:2>], 
 	[<mekanism:plasticblock>, <appliedenergistics2:quantum_link>, null, <appliedenergistics2:quantum_link>, <mekanism:plasticblock>], 
-	[<mekanism:plasticblock>, null, <ore:magic_snow_globe>, null, <mekanism:plasticblock>], 
+	[<mekanism:plasticblock>, <appliedenergistics2:material:48>, <ore:magic_snow_globe>, <appliedenergistics2:material:48>, <mekanism:plasticblock>],
 	[<mekanism:plasticblock>, <appliedenergistics2:quantum_link>, null, <appliedenergistics2:quantum_link>, <mekanism:plasticblock>], 
 	[<mekanism:glowplasticblock:2>, <mekanism:plasticblock>, <mekanism:machineblock:4>, <mekanism:plasticblock>, <mekanism:glowplasticblock:2>]
 ]);

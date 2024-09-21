@@ -1,7 +1,0 @@
-{
-	title: "Tier 3 - Advanced",
-	icon: "mekanism:controlcircuit 1 2",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

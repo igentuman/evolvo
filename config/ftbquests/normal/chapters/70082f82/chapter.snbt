@@ -1,7 +1,0 @@
-{
-	title: "Хранение предметов",
-	icon: "minecraft:chest",
-	always_invisible: false,
-	group: -1698634282,
-	default_quest_shape: ""
-}

@@ -11,6 +11,11 @@ target_chamber.addRecipe(<draconicevolution:energy_crystal:2>, null,
 						<draconicevolution:chaos_shard>, null, 
 						<particle:positron>*100, null, <particle:electron>*200, 100000, 0.15);
 
+target_chamber.addRecipe(<nuclearcraft:gem>, null,
+						((<particle:proton>*4000000)^10000)~10.0,
+						<appliedenergistics2:material:48>, null,
+						<particle:positron>*100, null, <particle:electron>*200, 100000, 0.15);
+
 target_chamber.addRecipe(<draconicevolution:energy_crystal:2>, null, 
 						((<particle:proton>*100000)^100000)~15.0, 
 						<draconicevolution:chaos_shard>, null, 

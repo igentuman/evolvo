@@ -1,7 +1,0 @@
-{
-	title: "Аналоговая",
-	icon: "minecraft:comparator",
-	always_invisible: false,
-	group: 1531607655,
-	default_quest_shape: ""
-}

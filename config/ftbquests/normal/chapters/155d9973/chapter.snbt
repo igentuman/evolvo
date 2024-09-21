@@ -1,7 +1,0 @@
-{
-	title: "Солнечная энергетика",
-	icon: "mekanismgenerators:generator 1 5",
-	always_invisible: false,
-	group: 864694841,
-	default_quest_shape: ""
-}

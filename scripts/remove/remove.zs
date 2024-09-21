@@ -36,6 +36,10 @@ removeRecipesByName([
 furnace.remove(<opencomputers:material:4>);
 
 removeAndHideItems([
+    <enderio:item_power_conduit>,
+    <enderio:item_power_conduit:1>,
+    <enderio:item_liquid_conduit>,
+    <enderio:item_liquid_conduit:1>,
     <immersivepetroleum:schematic>,
     <mekanism:jetpack>,
     <mekanism:gasmask>,

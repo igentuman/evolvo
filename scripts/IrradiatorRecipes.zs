@@ -7,6 +7,7 @@ import mods.nuclearcraft.FissionIrradiator;
 mods.qmd.irradiator.addRecipe(<minecraft:dirt>,<trinity:radioactive_earth>, 100.00, 5.00, 5);
 
 FissionIrradiator.addRecipe(<galacticraftcore:item_basic_moon:2>, <draconicevolution:energy_crystal:6>, 269000, 0.0, 0.0, 0.001);
+FissionIrradiator.addRecipe(<advanced_solar_panels:crafting>, <advanced_solar_panels:crafting:4>, 69000, 0.0, 0.0, 0.001);
 FissionIrradiator.addRecipe(<minecraft:emerald>, <enderio:item_material:16>, 129000, 0.0, 0.0, 0.001);
 FissionIrradiator.addRecipe(<nuclearcraft:gem:4>, <minecraft:emerald>, 69000, 0.0, 0.0, 0.003);
 FissionIrradiator.addRecipe(<nuclearcraft:gem:2>, <minecraft:diamond>, 69000, 0.0, 0.0, 0.003);
